@@ -1,0 +1,3972 @@
+{
+  "meta": {
+    "schemaVersion": "1.0",
+    "parliament": "DE-BW",
+    "electoralPeriod": {
+      "number": 17
+    },
+    "session": "17118",
+    "dateStart": "2025-03-13T00:00:01",
+    "dateEnd": "2025-03-13T05:00:18",
+    "sourceURI": "https://www.landtag-bw.de/de/mediathek/videos",
+    "processing": {
+      "parse_media": "2026-06-01T13:52:06",
+      "merge": "2026-06-01T13:52:06",
+      "nel": "2026-06-01T13:52:07"
+    },
+    "lastUpdate": "2026-06-01T13:52:06"
+  },
+  "data": [
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T00:00:01",
+      "dateEnd": "2025-03-13T00:08:03",
+      "speechIndex": 1,
+      "originID": "17118_1_1",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "Beginn der Sitzung Nachwahlen: zu verschiedenen Gremien Verabschiedung des Abgeordneten Alexander Schoch (GRÜNE)",
+        "title": "Beginn der Sitzung Nachwahlen",
+        "id": "beginn-der-sitzung-nachwahlen",
+        "nativeType": "DE-BW-opening",
+        "type": "opening"
+      },
+      "people": [
+        {
+          "label": "Muhterem Aras",
+          "context": "president",
+          "firstname": "Muhterem",
+          "lastname": "Aras",
+          "role": "Präsidentin",
+          "faction": {
+            "label": "GRÜNE",
+            "wid": "Q49766"
+          },
+          "wid": "Q1728542",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_1.mp4#t=1,483",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563198#t=1",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_1_1",
+        "additionalInformation": {
+          "startOffset": 1.0,
+          "endOffset": 483.0,
+          "clockStart": "00:00:01"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 0,
+        "rednerRaw": "Aras Muhterem",
+        "gruppeRaw": "GRÜNE",
+        "roleRaw": "Präsidentin",
+        "startOffset": 1,
+        "endOffset": 483,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T00:08:03",
+      "dateEnd": "2025-03-13T00:08:38",
+      "speechIndex": 2,
+      "originID": "17118_1_483",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1 Aktuelle Debatte: Das Urteil des Verfassungsgerichtshofs – Klatsche für den Innenminister! Anleitung für eine Wahlrechtsreform? Beantragt von der Fraktion der FDP/DVP",
+        "title": "TOP 1 Aktuelle Debatte",
+        "id": "TOP-1",
+        "nativeType": "DE-BW-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Muhterem Aras",
+          "context": "president",
+          "firstname": "Muhterem",
+          "lastname": "Aras",
+          "role": "Präsidentin",
+          "faction": {
+            "label": "GRÜNE",
+            "wid": "Q49766"
+          },
+          "wid": "Q1728542",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_1.mp4#t=483,518",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563198#t=483",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_1_483",
+        "additionalInformation": {
+          "startOffset": 483.0,
+          "endOffset": 518.0,
+          "clockStart": "00:08:03"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 1,
+        "rednerRaw": "Aras Muhterem",
+        "gruppeRaw": "GRÜNE",
+        "roleRaw": "Präsidentin",
+        "startOffset": 483,
+        "endOffset": 518,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T00:08:38",
+      "dateEnd": "2025-03-13T00:15:36",
+      "speechIndex": 3,
+      "originID": "17118_1_518",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1 Aktuelle Debatte: Das Urteil des Verfassungsgerichtshofs – Klatsche für den Innenminister! Anleitung für eine Wahlrechtsreform? Beantragt von der Fraktion der FDP/DVP",
+        "title": "TOP 1 Aktuelle Debatte",
+        "id": "TOP-1",
+        "nativeType": "DE-BW-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Hans-Ulrich Rülke",
+          "context": "main-speaker",
+          "firstname": "Hans-Ulrich",
+          "lastname": "Rülke",
+          "faction": {
+            "label": "FDP/DVP",
+            "wid": "Q6539"
+          },
+          "wid": "Q1578252",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_1.mp4#t=518,936",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563198#t=518",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_1_518",
+        "additionalInformation": {
+          "startOffset": 518.0,
+          "endOffset": 936.0,
+          "clockStart": "00:08:38"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 1,
+        "rednerRaw": "Rülke Hans-Ulrich",
+        "gruppeRaw": "FDP/DVP",
+        "roleRaw": "",
+        "startOffset": 518,
+        "endOffset": 936,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T00:15:36",
+      "dateEnd": "2025-03-13T00:25:02",
+      "speechIndex": 4,
+      "originID": "17118_1_936",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1 Aktuelle Debatte: Das Urteil des Verfassungsgerichtshofs – Klatsche für den Innenminister! Anleitung für eine Wahlrechtsreform? Beantragt von der Fraktion der FDP/DVP",
+        "title": "TOP 1 Aktuelle Debatte",
+        "id": "TOP-1",
+        "nativeType": "DE-BW-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Daniela Evers",
+          "context": "main-speaker",
+          "firstname": "Daniela",
+          "lastname": "Evers",
+          "faction": {
+            "label": "GRÜNE",
+            "wid": "Q49766"
+          },
+          "wid": "Q105968495",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_1.mp4#t=936,1502",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563198#t=936",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_1_936",
+        "additionalInformation": {
+          "startOffset": 936.0,
+          "endOffset": 1502.0,
+          "clockStart": "00:15:36"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 1,
+        "rednerRaw": "Evers Daniela",
+        "gruppeRaw": "GRÜNE",
+        "roleRaw": "",
+        "startOffset": 936,
+        "endOffset": 1502,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T00:25:02",
+      "dateEnd": "2025-03-13T00:34:53",
+      "speechIndex": 5,
+      "originID": "17118_1_1502",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1 Aktuelle Debatte: Das Urteil des Verfassungsgerichtshofs – Klatsche für den Innenminister! Anleitung für eine Wahlrechtsreform? Beantragt von der Fraktion der FDP/DVP",
+        "title": "TOP 1 Aktuelle Debatte",
+        "id": "TOP-1",
+        "nativeType": "DE-BW-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Matthias Miller",
+          "context": "main-speaker",
+          "firstname": "Matthias",
+          "lastname": "Miller",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q106193050",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_1.mp4#t=1502,2093",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563198#t=1502",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_1_1502",
+        "additionalInformation": {
+          "startOffset": 1502.0,
+          "endOffset": 2093.0,
+          "clockStart": "00:25:02"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 1,
+        "rednerRaw": "Miller Matthias",
+        "gruppeRaw": "CDU",
+        "roleRaw": "",
+        "startOffset": 1502,
+        "endOffset": 2093,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T00:34:53",
+      "dateEnd": "2025-03-13T00:39:32",
+      "speechIndex": 6,
+      "originID": "17118_1_2093",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1 Aktuelle Debatte: Das Urteil des Verfassungsgerichtshofs – Klatsche für den Innenminister! Anleitung für eine Wahlrechtsreform? Beantragt von der Fraktion der FDP/DVP",
+        "title": "TOP 1 Aktuelle Debatte",
+        "id": "TOP-1",
+        "nativeType": "DE-BW-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Sascha Binder",
+          "context": "main-speaker",
+          "firstname": "Sascha",
+          "lastname": "Binder",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q2225376",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_1.mp4#t=2093,2372",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563198#t=2093",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_1_2093",
+        "additionalInformation": {
+          "startOffset": 2093.0,
+          "endOffset": 2372.0,
+          "clockStart": "00:34:53"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 1,
+        "rednerRaw": "Binder Sascha",
+        "gruppeRaw": "SPD",
+        "roleRaw": "",
+        "startOffset": 2093,
+        "endOffset": 2372,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T00:39:32",
+      "dateEnd": "2025-03-13T00:49:09",
+      "speechIndex": 7,
+      "originID": "17118_1_2372",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1 Aktuelle Debatte: Das Urteil des Verfassungsgerichtshofs – Klatsche für den Innenminister! Anleitung für eine Wahlrechtsreform? Beantragt von der Fraktion der FDP/DVP",
+        "title": "TOP 1 Aktuelle Debatte",
+        "id": "TOP-1",
+        "nativeType": "DE-BW-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Rainer Balzer",
+          "context": "main-speaker",
+          "firstname": "Rainer",
+          "lastname": "Balzer",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q23559807",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_1.mp4#t=2372,2949",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563198#t=2372",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_1_2372",
+        "additionalInformation": {
+          "startOffset": 2372.0,
+          "endOffset": 2949.0,
+          "clockStart": "00:39:32"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 1,
+        "rednerRaw": "Balzer Rainer",
+        "gruppeRaw": "AfD",
+        "roleRaw": "",
+        "startOffset": 2372,
+        "endOffset": 2949,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T00:49:09",
+      "dateEnd": "2025-03-13T01:01:26",
+      "speechIndex": 8,
+      "originID": "17118_1_2949",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1 Aktuelle Debatte: Das Urteil des Verfassungsgerichtshofs – Klatsche für den Innenminister! Anleitung für eine Wahlrechtsreform? Beantragt von der Fraktion der FDP/DVP",
+        "title": "TOP 1 Aktuelle Debatte",
+        "id": "TOP-1",
+        "nativeType": "DE-BW-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Thomas Strobl",
+          "context": "main-speaker",
+          "firstname": "Thomas",
+          "lastname": "Strobl",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q112109",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_1.mp4#t=2949,3686",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563198#t=2949",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_1_2949",
+        "additionalInformation": {
+          "startOffset": 2949.0,
+          "endOffset": 3686.0,
+          "clockStart": "00:49:09"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 1,
+        "rednerRaw": "Strobl Thomas",
+        "gruppeRaw": "CDU",
+        "roleRaw": "",
+        "startOffset": 2949,
+        "endOffset": 3686,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T01:01:26",
+      "dateEnd": "2025-03-13T01:05:43",
+      "speechIndex": 9,
+      "originID": "17118_1_3686",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1 Aktuelle Debatte: Das Urteil des Verfassungsgerichtshofs – Klatsche für den Innenminister! Anleitung für eine Wahlrechtsreform? Beantragt von der Fraktion der FDP/DVP",
+        "title": "TOP 1 Aktuelle Debatte",
+        "id": "TOP-1",
+        "nativeType": "DE-BW-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Hans-Ulrich Rülke",
+          "context": "main-speaker",
+          "firstname": "Hans-Ulrich",
+          "lastname": "Rülke",
+          "faction": {
+            "label": "FDP/DVP",
+            "wid": "Q6539"
+          },
+          "wid": "Q1578252",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_1.mp4#t=3686,3943",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563198#t=3686",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_1_3686",
+        "additionalInformation": {
+          "startOffset": 3686.0,
+          "endOffset": 3943.0,
+          "clockStart": "01:01:26"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 1,
+        "rednerRaw": "Rülke Hans-Ulrich",
+        "gruppeRaw": "FDP/DVP",
+        "roleRaw": "",
+        "startOffset": 3686,
+        "endOffset": 3943,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T01:05:43",
+      "dateEnd": "2025-03-13T01:06:43",
+      "speechIndex": 10,
+      "originID": "17118_1_3943",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1 Aktuelle Debatte: Das Urteil des Verfassungsgerichtshofs – Klatsche für den Innenminister! Anleitung für eine Wahlrechtsreform? Beantragt von der Fraktion der FDP/DVP",
+        "title": "TOP 1 Aktuelle Debatte",
+        "id": "TOP-1",
+        "nativeType": "DE-BW-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Matthias Miller",
+          "context": "main-speaker",
+          "firstname": "Matthias",
+          "lastname": "Miller",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q106193050",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_1.mp4#t=3943,4003",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563198#t=3943",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_1_3943",
+        "additionalInformation": {
+          "startOffset": 3943.0,
+          "endOffset": 4003.0,
+          "clockStart": "01:05:43"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 1,
+        "rednerRaw": "Miller Matthias",
+        "gruppeRaw": "CDU",
+        "roleRaw": "",
+        "startOffset": 3943,
+        "endOffset": 4003,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T01:06:43",
+      "dateEnd": "2025-03-13T01:06:55",
+      "speechIndex": 11,
+      "originID": "17118_1_4003",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1 Aktuelle Debatte: Das Urteil des Verfassungsgerichtshofs – Klatsche für den Innenminister! Anleitung für eine Wahlrechtsreform? Beantragt von der Fraktion der FDP/DVP",
+        "title": "TOP 1 Aktuelle Debatte",
+        "id": "TOP-1",
+        "nativeType": "DE-BW-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Muhterem Aras",
+          "context": "president",
+          "firstname": "Muhterem",
+          "lastname": "Aras",
+          "role": "Präsidentin",
+          "faction": {
+            "label": "GRÜNE",
+            "wid": "Q49766"
+          },
+          "wid": "Q1728542",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_1.mp4#t=4003,4015",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563198#t=4003",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_1_4003",
+        "additionalInformation": {
+          "startOffset": 4003.0,
+          "endOffset": 4015.0,
+          "clockStart": "01:06:43"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 1,
+        "rednerRaw": "Aras Muhterem",
+        "gruppeRaw": "GRÜNE",
+        "roleRaw": "Präsidentin",
+        "startOffset": 4003,
+        "endOffset": 4015,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T01:06:55",
+      "dateEnd": "2025-03-13T01:07:16",
+      "speechIndex": 12,
+      "originID": "17118_1_4015",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 2 Aktuelle Debatte: Schulden-Dammbruch im Bund – Konsequenzen für Baden-Württemberg Beantragt von der Fraktion der AfD",
+        "title": "TOP 2 Aktuelle Debatte",
+        "id": "TOP-2",
+        "nativeType": "DE-BW-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Muhterem Aras",
+          "context": "president",
+          "firstname": "Muhterem",
+          "lastname": "Aras",
+          "role": "Präsidentin",
+          "faction": {
+            "label": "GRÜNE",
+            "wid": "Q49766"
+          },
+          "wid": "Q1728542",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_1.mp4#t=4015,4036",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563198#t=4015",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_1_4015",
+        "additionalInformation": {
+          "startOffset": 4015.0,
+          "endOffset": 4036.0,
+          "clockStart": "01:06:55"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 2,
+        "rednerRaw": "Aras Muhterem",
+        "gruppeRaw": "GRÜNE",
+        "roleRaw": "Präsidentin",
+        "startOffset": 4015,
+        "endOffset": 4036,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T01:07:16",
+      "dateEnd": "2025-03-13T01:18:42",
+      "speechIndex": 13,
+      "originID": "17118_1_4036",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 2 Aktuelle Debatte: Schulden-Dammbruch im Bund – Konsequenzen für Baden-Württemberg Beantragt von der Fraktion der AfD",
+        "title": "TOP 2 Aktuelle Debatte",
+        "id": "TOP-2",
+        "nativeType": "DE-BW-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Emil Sänze",
+          "context": "main-speaker",
+          "firstname": "Emil",
+          "lastname": "Sänze",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q23565621",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_1.mp4#t=4036,4722",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563198#t=4036",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_1_4036",
+        "additionalInformation": {
+          "startOffset": 4036.0,
+          "endOffset": 4722.0,
+          "clockStart": "01:07:16"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 2,
+        "rednerRaw": "Sänze Emil",
+        "gruppeRaw": "AfD",
+        "roleRaw": "",
+        "startOffset": 4036,
+        "endOffset": 4722,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T01:18:42",
+      "dateEnd": "2025-03-13T01:30:30",
+      "speechIndex": 14,
+      "originID": "17118_1_4722",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 2 Aktuelle Debatte: Schulden-Dammbruch im Bund – Konsequenzen für Baden-Württemberg Beantragt von der Fraktion der AfD",
+        "title": "TOP 2 Aktuelle Debatte",
+        "id": "TOP-2",
+        "nativeType": "DE-BW-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Markus Rösler",
+          "context": "main-speaker",
+          "firstname": "Markus",
+          "lastname": "Rösler",
+          "faction": {
+            "label": "GRÜNE",
+            "wid": "Q49766"
+          },
+          "wid": "Q1901758",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_1.mp4#t=4722,5430",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563198#t=4722",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_1_4722",
+        "additionalInformation": {
+          "startOffset": 4722.0,
+          "endOffset": 5430.0,
+          "clockStart": "01:18:42"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 2,
+        "rednerRaw": "Rösler Markus",
+        "gruppeRaw": "GRÜNE",
+        "roleRaw": "",
+        "startOffset": 4722,
+        "endOffset": 5430,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T01:30:30",
+      "dateEnd": "2025-03-13T01:39:58",
+      "speechIndex": 15,
+      "originID": "17118_1_5430",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 2 Aktuelle Debatte: Schulden-Dammbruch im Bund – Konsequenzen für Baden-Württemberg Beantragt von der Fraktion der AfD",
+        "title": "TOP 2 Aktuelle Debatte",
+        "id": "TOP-2",
+        "nativeType": "DE-BW-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Albrecht Schütte",
+          "context": "main-speaker",
+          "firstname": "Albrecht",
+          "lastname": "Schütte",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q30158115",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_1.mp4#t=5430,5998",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563198#t=5430",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_1_5430",
+        "additionalInformation": {
+          "startOffset": 5430.0,
+          "endOffset": 5998.0,
+          "clockStart": "01:30:30"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 2,
+        "rednerRaw": "Schütte Albrecht",
+        "gruppeRaw": "CDU",
+        "roleRaw": "",
+        "startOffset": 5430,
+        "endOffset": 5998,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T01:39:58",
+      "dateEnd": "2025-03-13T01:49:03",
+      "speechIndex": 16,
+      "originID": "17118_1_5998",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 2 Aktuelle Debatte: Schulden-Dammbruch im Bund – Konsequenzen für Baden-Württemberg Beantragt von der Fraktion der AfD",
+        "title": "TOP 2 Aktuelle Debatte",
+        "id": "TOP-2",
+        "nativeType": "DE-BW-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Nicolas Fink",
+          "context": "main-speaker",
+          "firstname": "Nicolas",
+          "lastname": "Fink",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q62116914",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_1.mp4#t=5998,6543",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563198#t=5998",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_1_5998",
+        "additionalInformation": {
+          "startOffset": 5998.0,
+          "endOffset": 6543.0,
+          "clockStart": "01:39:58"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 2,
+        "rednerRaw": "Fink Nicolas",
+        "gruppeRaw": "SPD",
+        "roleRaw": "",
+        "startOffset": 5998,
+        "endOffset": 6543,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T01:49:03",
+      "dateEnd": "2025-03-13T01:58:26",
+      "speechIndex": 17,
+      "originID": "17118_1_6543",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 2 Aktuelle Debatte: Schulden-Dammbruch im Bund – Konsequenzen für Baden-Württemberg Beantragt von der Fraktion der AfD",
+        "title": "TOP 2 Aktuelle Debatte",
+        "id": "TOP-2",
+        "nativeType": "DE-BW-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Frank Bonath",
+          "context": "main-speaker",
+          "firstname": "Frank",
+          "lastname": "Bonath",
+          "faction": {
+            "label": "FDP/DVP",
+            "wid": "Q6539"
+          },
+          "wid": "Q106548566",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_1.mp4#t=6543,7106",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563198#t=6543",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_1_6543",
+        "additionalInformation": {
+          "startOffset": 6543.0,
+          "endOffset": 7106.0,
+          "clockStart": "01:49:03"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 2,
+        "rednerRaw": "Bonath Frank",
+        "gruppeRaw": "FDP/DVP",
+        "roleRaw": "",
+        "startOffset": 6543,
+        "endOffset": 7106,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T01:58:26",
+      "dateEnd": "2025-03-13T02:23:06",
+      "speechIndex": 18,
+      "originID": "17118_1_7106",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 2 Aktuelle Debatte: Schulden-Dammbruch im Bund – Konsequenzen für Baden-Württemberg Beantragt von der Fraktion der AfD",
+        "title": "TOP 2 Aktuelle Debatte",
+        "id": "TOP-2",
+        "nativeType": "DE-BW-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Danyal Bayaz",
+          "context": "main-speaker",
+          "firstname": "Danyal",
+          "lastname": "Bayaz",
+          "faction": {
+            "label": "GRÜNE",
+            "wid": "Q49766"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_1.mp4#t=7106,8586",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563198#t=7106",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_1_7106",
+        "additionalInformation": {
+          "startOffset": 7106.0,
+          "endOffset": 8586.0,
+          "clockStart": "01:58:26"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 2,
+        "rednerRaw": "Bayaz Danyal",
+        "gruppeRaw": "GRÜNE",
+        "roleRaw": "",
+        "startOffset": 7106,
+        "endOffset": 8586,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T02:23:06",
+      "dateEnd": "2025-03-13T02:24:33",
+      "speechIndex": 19,
+      "originID": "17118_1_8586",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 2 Aktuelle Debatte: Schulden-Dammbruch im Bund – Konsequenzen für Baden-Württemberg Beantragt von der Fraktion der AfD",
+        "title": "TOP 2 Aktuelle Debatte",
+        "id": "TOP-2",
+        "nativeType": "DE-BW-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Frank Bonath",
+          "context": "main-speaker",
+          "firstname": "Frank",
+          "lastname": "Bonath",
+          "faction": {
+            "label": "FDP/DVP",
+            "wid": "Q6539"
+          },
+          "wid": "Q106548566",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_1.mp4#t=8586,8673",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563198#t=8586",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_1_8586",
+        "additionalInformation": {
+          "startOffset": 8586.0,
+          "endOffset": 8673.0,
+          "clockStart": "02:23:06"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 2,
+        "rednerRaw": "Bonath Frank",
+        "gruppeRaw": "FDP/DVP",
+        "roleRaw": "",
+        "startOffset": 8586,
+        "endOffset": 8673,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T02:24:33",
+      "dateEnd": "2025-03-13T02:24:57",
+      "speechIndex": 20,
+      "originID": "17118_1_8673",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 2 Aktuelle Debatte: Schulden-Dammbruch im Bund – Konsequenzen für Baden-Württemberg Beantragt von der Fraktion der AfD",
+        "title": "TOP 2 Aktuelle Debatte",
+        "id": "TOP-2",
+        "nativeType": "DE-BW-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Wolfgang Reinhart",
+          "context": "vice-president",
+          "firstname": "Wolfgang",
+          "lastname": "Reinhart",
+          "role": "stellv. Präsident",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q107811",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_1.mp4#t=8673,8697",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563198#t=8673",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_1_8673",
+        "additionalInformation": {
+          "startOffset": 8673.0,
+          "endOffset": 8697.0,
+          "clockStart": "02:24:33"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 2,
+        "rednerRaw": "Reinhart Wolfgang",
+        "gruppeRaw": "CDU",
+        "roleRaw": "stellv. Präsident",
+        "startOffset": 8673,
+        "endOffset": 8697,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T02:24:57",
+      "dateEnd": "2025-03-13T02:25:27",
+      "speechIndex": 21,
+      "originID": "17118_1_8697",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3 Zweite Beratung: des Gesetzentwurfs der Landesregierung Gesetz für das schnellere Bauen Drucksache 17/8022 (Dokument) Beschlussempfehlung und Bericht des Ausschusses für Landesentwicklung und Wohnen Drucksache 17/8392 (Dokument)",
+        "title": "TOP 3 Zweite Beratung",
+        "id": "TOP-3",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Wolfgang Reinhart",
+          "context": "vice-president",
+          "firstname": "Wolfgang",
+          "lastname": "Reinhart",
+          "role": "stellv. Präsident",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q107811",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_1.mp4#t=8697,8727",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563198#t=8697",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_1_8697",
+        "additionalInformation": {
+          "startOffset": 8697.0,
+          "endOffset": 8727.0,
+          "clockStart": "02:24:57"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 3,
+        "rednerRaw": "Reinhart Wolfgang",
+        "gruppeRaw": "CDU",
+        "roleRaw": "stellv. Präsident",
+        "startOffset": 8697,
+        "endOffset": 8727,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T02:25:27",
+      "dateEnd": "2025-03-13T02:31:07",
+      "speechIndex": 22,
+      "originID": "17118_1_8727",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3 Zweite Beratung: des Gesetzentwurfs der Landesregierung Gesetz für das schnellere Bauen Drucksache 17/8022 (Dokument) Beschlussempfehlung und Bericht des Ausschusses für Landesentwicklung und Wohnen Drucksache 17/8392 (Dokument)",
+        "title": "TOP 3 Zweite Beratung",
+        "id": "TOP-3",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Cindy Holmberg",
+          "context": "main-speaker",
+          "firstname": "Cindy",
+          "lastname": "Holmberg",
+          "faction": {
+            "label": "GRÜNE",
+            "wid": "Q49766"
+          },
+          "wid": "Q105959480",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_1.mp4#t=8727,9067",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563198#t=8727",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_1_8727",
+        "additionalInformation": {
+          "startOffset": 8727.0,
+          "endOffset": 9067.0,
+          "clockStart": "02:25:27"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 3,
+        "rednerRaw": "Holmberg Cindy",
+        "gruppeRaw": "GRÜNE",
+        "roleRaw": "",
+        "startOffset": 8727,
+        "endOffset": 9067,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T02:31:07",
+      "dateEnd": "2025-03-13T02:34:11",
+      "speechIndex": 23,
+      "originID": "17118_1_9067",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3 Zweite Beratung: des Gesetzentwurfs der Landesregierung Gesetz für das schnellere Bauen Drucksache 17/8022 (Dokument) Beschlussempfehlung und Bericht des Ausschusses für Landesentwicklung und Wohnen Drucksache 17/8392 (Dokument)",
+        "title": "TOP 3 Zweite Beratung",
+        "id": "TOP-3",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Christine Neumann-Martin",
+          "context": "main-speaker",
+          "firstname": "Christine",
+          "lastname": "Neumann-Martin",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_1.mp4#t=9067,9251",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563198#t=9067",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_1_9067",
+        "additionalInformation": {
+          "startOffset": 9067.0,
+          "endOffset": 9251.0,
+          "clockStart": "02:31:07"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 3,
+        "rednerRaw": "Neumann-Martin Christine",
+        "gruppeRaw": "CDU",
+        "roleRaw": "",
+        "startOffset": 9067,
+        "endOffset": 9251,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T02:34:11",
+      "dateEnd": "2025-03-13T02:40:36",
+      "speechIndex": 24,
+      "originID": "17118_1_9251",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3 Zweite Beratung: des Gesetzentwurfs der Landesregierung Gesetz für das schnellere Bauen Drucksache 17/8022 (Dokument) Beschlussempfehlung und Bericht des Ausschusses für Landesentwicklung und Wohnen Drucksache 17/8392 (Dokument)",
+        "title": "TOP 3 Zweite Beratung",
+        "id": "TOP-3",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Klaus Ranger",
+          "context": "main-speaker",
+          "firstname": "Klaus",
+          "lastname": "Ranger",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q105960278",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_1.mp4#t=9251,9636",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563198#t=9251",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_1_9251",
+        "additionalInformation": {
+          "startOffset": 9251.0,
+          "endOffset": 9636.0,
+          "clockStart": "02:34:11"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 3,
+        "rednerRaw": "Ranger Klaus",
+        "gruppeRaw": "SPD",
+        "roleRaw": "",
+        "startOffset": 9251,
+        "endOffset": 9636,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T02:40:36",
+      "dateEnd": "2025-03-13T02:45:14",
+      "speechIndex": 25,
+      "originID": "17118_1_9636",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3 Zweite Beratung: des Gesetzentwurfs der Landesregierung Gesetz für das schnellere Bauen Drucksache 17/8022 (Dokument) Beschlussempfehlung und Bericht des Ausschusses für Landesentwicklung und Wohnen Drucksache 17/8392 (Dokument)",
+        "title": "TOP 3 Zweite Beratung",
+        "id": "TOP-3",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Friedrich Haag",
+          "context": "main-speaker",
+          "firstname": "Friedrich",
+          "lastname": "Haag",
+          "faction": {
+            "label": "FDP/DVP",
+            "wid": "Q6539"
+          },
+          "wid": "Q106541776",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_1.mp4#t=9636,9914",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563198#t=9636",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_1_9636",
+        "additionalInformation": {
+          "startOffset": 9636.0,
+          "endOffset": 9914.0,
+          "clockStart": "02:40:36"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 3,
+        "rednerRaw": "Haag Friedrich",
+        "gruppeRaw": "FDP/DVP",
+        "roleRaw": "",
+        "startOffset": 9636,
+        "endOffset": 9914,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T02:45:14",
+      "dateEnd": "2025-03-13T02:50:34",
+      "speechIndex": 26,
+      "originID": "17118_1_9914",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3 Zweite Beratung: des Gesetzentwurfs der Landesregierung Gesetz für das schnellere Bauen Drucksache 17/8022 (Dokument) Beschlussempfehlung und Bericht des Ausschusses für Landesentwicklung und Wohnen Drucksache 17/8392 (Dokument)",
+        "title": "TOP 3 Zweite Beratung",
+        "id": "TOP-3",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Miguel Klauß",
+          "context": "main-speaker",
+          "firstname": "Miguel",
+          "lastname": "Klauß",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q106179259",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_1.mp4#t=9914,10234",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563198#t=9914",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_1_9914",
+        "additionalInformation": {
+          "startOffset": 9914.0,
+          "endOffset": 10234.0,
+          "clockStart": "02:45:14"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 3,
+        "rednerRaw": "Klauß Miguel",
+        "gruppeRaw": "AfD",
+        "roleRaw": "",
+        "startOffset": 9914,
+        "endOffset": 10234,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T02:50:34",
+      "dateEnd": "2025-03-13T03:00:41",
+      "speechIndex": 27,
+      "originID": "17118_1_10234",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3 Zweite Beratung: des Gesetzentwurfs der Landesregierung Gesetz für das schnellere Bauen Drucksache 17/8022 (Dokument) Beschlussempfehlung und Bericht des Ausschusses für Landesentwicklung und Wohnen Drucksache 17/8392 (Dokument)",
+        "title": "TOP 3 Zweite Beratung",
+        "id": "TOP-3",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Nicole Razavi",
+          "context": "main-speaker",
+          "firstname": "Nicole",
+          "lastname": "Razavi",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q1785046",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_1.mp4#t=10234,10841",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563198#t=10234",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_1_10234",
+        "additionalInformation": {
+          "startOffset": 10234.0,
+          "endOffset": 10841.0,
+          "clockStart": "02:50:34"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 3,
+        "rednerRaw": "Razavi Nicole",
+        "gruppeRaw": "CDU",
+        "roleRaw": "",
+        "startOffset": 10234,
+        "endOffset": 10841,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T03:00:41",
+      "dateEnd": "2025-03-13T03:00:41",
+      "speechIndex": 28,
+      "originID": "17118_1_10841",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3 Zweite Beratung: des Gesetzentwurfs der Landesregierung Gesetz für das schnellere Bauen Drucksache 17/8022 (Dokument) Beschlussempfehlung und Bericht des Ausschusses für Landesentwicklung und Wohnen Drucksache 17/8392 (Dokument)",
+        "title": "TOP 3 Zweite Beratung",
+        "id": "TOP-3",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Wolfgang Reinhart",
+          "context": "vice-president",
+          "firstname": "Wolfgang",
+          "lastname": "Reinhart",
+          "role": "stellv. Präsident",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q107811",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_1.mp4#t=10841",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563198#t=10841",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_1_10841",
+        "additionalInformation": {
+          "startOffset": 10841.0,
+          "clockStart": "03:00:41"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 3,
+        "rednerRaw": "Reinhart Wolfgang",
+        "gruppeRaw": "CDU",
+        "roleRaw": "stellv. Präsident",
+        "startOffset": 10841,
+        "endOffset": null,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T03:00:43",
+      "dateEnd": "2025-03-13T03:01:18",
+      "speechIndex": 29,
+      "originID": "17118_2_1",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4 Fragestunde: Drucksache 17/8240 (Dokument) 1. Anfrage des Abg. Daniel Born SPD Erhalt der Notfallpraxis in Schwetzingen 2. Anfrage des Abg. Dr. Erik Schweickert FDP/DVP Kosten und Folgen von IT-Systemfehlern im Rahmen der Corona-Überbrückungshilfen 3. Anfrage des Abg. Nikolai Reith FDP/DVP Lärmschutzwand an der B 27 bei Hüfingen auf Höhe des Wohngebiets „Auf Hohen“ 4. Anfrage des Abg. Nikolai Reith FDP/DVP Projekt „Streetworker“ 5. Anfrage des Abg. Hans-Peter Storz SPD Klimaneutrale Schifffahrt auf dem Bodensee 6. Anfrage des Abg. Dr. Stefan Fulst-Blei SPD IT-Fortbildungen für Lehrkräfte am Zentrum für Schulqualität und Lehrerbildung (ZSL) 7. Anfrage des Abg. Stephen Brauer FDP/DVP Bau eines Kreisverkehrs in der Stadt Gaildorf (Landkreis Schwäbisch Hall)",
+        "title": "TOP 4 Fragestunde",
+        "id": "TOP-4",
+        "nativeType": "DE-BW-question_time",
+        "type": "qa"
+      },
+      "people": [
+        {
+          "label": "Wolfgang Reinhart",
+          "context": "vice-president",
+          "firstname": "Wolfgang",
+          "lastname": "Reinhart",
+          "role": "stellv. Präsident",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q107811",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_2.mp4#t=1,36",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563200#t=1",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_2_1",
+        "additionalInformation": {
+          "startOffset": 1.0,
+          "endOffset": 36.0,
+          "clockStart": "00:00:01"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 2,
+        "topIndex": 0,
+        "rednerRaw": "Reinhart Wolfgang",
+        "gruppeRaw": "CDU",
+        "roleRaw": "stellv. Präsident",
+        "startOffset": 1,
+        "endOffset": 36,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T03:01:18",
+      "dateEnd": "2025-03-13T03:02:27",
+      "speechIndex": 30,
+      "originID": "17118_2_36",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4 Fragestunde: Drucksache 17/8240 (Dokument) 1. Anfrage des Abg. Daniel Born SPD Erhalt der Notfallpraxis in Schwetzingen 2. Anfrage des Abg. Dr. Erik Schweickert FDP/DVP Kosten und Folgen von IT-Systemfehlern im Rahmen der Corona-Überbrückungshilfen 3. Anfrage des Abg. Nikolai Reith FDP/DVP Lärmschutzwand an der B 27 bei Hüfingen auf Höhe des Wohngebiets „Auf Hohen“ 4. Anfrage des Abg. Nikolai Reith FDP/DVP Projekt „Streetworker“ 5. Anfrage des Abg. Hans-Peter Storz SPD Klimaneutrale Schifffahrt auf dem Bodensee 6. Anfrage des Abg. Dr. Stefan Fulst-Blei SPD IT-Fortbildungen für Lehrkräfte am Zentrum für Schulqualität und Lehrerbildung (ZSL) 7. Anfrage des Abg. Stephen Brauer FDP/DVP Bau eines Kreisverkehrs in der Stadt Gaildorf (Landkreis Schwäbisch Hall)",
+        "title": "TOP 4 Fragestunde",
+        "id": "TOP-4",
+        "nativeType": "DE-BW-question_time",
+        "type": "qa"
+      },
+      "people": [
+        {
+          "label": "Daniel Born",
+          "context": "main-speaker",
+          "firstname": "Daniel",
+          "lastname": "Born",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q23560213",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_2.mp4#t=36,105",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563200#t=36",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_2_36",
+        "additionalInformation": {
+          "startOffset": 36.0,
+          "endOffset": 105.0,
+          "clockStart": "00:00:36"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 2,
+        "topIndex": 0,
+        "rednerRaw": "Born Daniel",
+        "gruppeRaw": "SPD",
+        "roleRaw": "",
+        "startOffset": 36,
+        "endOffset": 105,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T03:02:27",
+      "dateEnd": "2025-03-13T03:15:35",
+      "speechIndex": 31,
+      "originID": "17118_2_105",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4 Fragestunde: Drucksache 17/8240 (Dokument) 1. Anfrage des Abg. Daniel Born SPD Erhalt der Notfallpraxis in Schwetzingen 2. Anfrage des Abg. Dr. Erik Schweickert FDP/DVP Kosten und Folgen von IT-Systemfehlern im Rahmen der Corona-Überbrückungshilfen 3. Anfrage des Abg. Nikolai Reith FDP/DVP Lärmschutzwand an der B 27 bei Hüfingen auf Höhe des Wohngebiets „Auf Hohen“ 4. Anfrage des Abg. Nikolai Reith FDP/DVP Projekt „Streetworker“ 5. Anfrage des Abg. Hans-Peter Storz SPD Klimaneutrale Schifffahrt auf dem Bodensee 6. Anfrage des Abg. Dr. Stefan Fulst-Blei SPD IT-Fortbildungen für Lehrkräfte am Zentrum für Schulqualität und Lehrerbildung (ZSL) 7. Anfrage des Abg. Stephen Brauer FDP/DVP Bau eines Kreisverkehrs in der Stadt Gaildorf (Landkreis Schwäbisch Hall)",
+        "title": "TOP 4 Fragestunde",
+        "id": "TOP-4",
+        "nativeType": "DE-BW-question_time",
+        "type": "qa"
+      },
+      "people": [
+        {
+          "label": "Manfred Lucha",
+          "context": "main-speaker",
+          "firstname": "Manfred",
+          "lastname": "Lucha",
+          "faction": {
+            "label": "GRÜNE",
+            "wid": "Q49766"
+          },
+          "wid": "Q1889671",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_2.mp4#t=105,893",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563200#t=105",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_2_105",
+        "additionalInformation": {
+          "startOffset": 105.0,
+          "endOffset": 893.0,
+          "clockStart": "00:01:45"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 2,
+        "topIndex": 0,
+        "rednerRaw": "Lucha Manfred",
+        "gruppeRaw": "GRÜNE",
+        "roleRaw": "",
+        "startOffset": 105,
+        "endOffset": 893,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T03:15:35",
+      "dateEnd": "2025-03-13T03:16:00",
+      "speechIndex": 32,
+      "originID": "17118_2_893",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4 Fragestunde: Drucksache 17/8240 (Dokument) 1. Anfrage des Abg. Daniel Born SPD Erhalt der Notfallpraxis in Schwetzingen 2. Anfrage des Abg. Dr. Erik Schweickert FDP/DVP Kosten und Folgen von IT-Systemfehlern im Rahmen der Corona-Überbrückungshilfen 3. Anfrage des Abg. Nikolai Reith FDP/DVP Lärmschutzwand an der B 27 bei Hüfingen auf Höhe des Wohngebiets „Auf Hohen“ 4. Anfrage des Abg. Nikolai Reith FDP/DVP Projekt „Streetworker“ 5. Anfrage des Abg. Hans-Peter Storz SPD Klimaneutrale Schifffahrt auf dem Bodensee 6. Anfrage des Abg. Dr. Stefan Fulst-Blei SPD IT-Fortbildungen für Lehrkräfte am Zentrum für Schulqualität und Lehrerbildung (ZSL) 7. Anfrage des Abg. Stephen Brauer FDP/DVP Bau eines Kreisverkehrs in der Stadt Gaildorf (Landkreis Schwäbisch Hall)",
+        "title": "TOP 4 Fragestunde",
+        "id": "TOP-4",
+        "nativeType": "DE-BW-question_time",
+        "type": "qa"
+      },
+      "people": [
+        {
+          "label": "Wolfgang Reinhart",
+          "context": "vice-president",
+          "firstname": "Wolfgang",
+          "lastname": "Reinhart",
+          "role": "stellv. Präsident",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q107811",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_2.mp4#t=893,918",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563200#t=893",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_2_893",
+        "additionalInformation": {
+          "startOffset": 893.0,
+          "endOffset": 918.0,
+          "clockStart": "00:14:53"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 2,
+        "topIndex": 0,
+        "rednerRaw": "Reinhart Wolfgang",
+        "gruppeRaw": "CDU",
+        "roleRaw": "stellv. Präsident",
+        "startOffset": 893,
+        "endOffset": 918,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T03:16:00",
+      "dateEnd": "2025-03-13T03:17:41",
+      "speechIndex": 33,
+      "originID": "17118_2_918",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4 Fragestunde: Drucksache 17/8240 (Dokument) 1. Anfrage des Abg. Daniel Born SPD Erhalt der Notfallpraxis in Schwetzingen 2. Anfrage des Abg. Dr. Erik Schweickert FDP/DVP Kosten und Folgen von IT-Systemfehlern im Rahmen der Corona-Überbrückungshilfen 3. Anfrage des Abg. Nikolai Reith FDP/DVP Lärmschutzwand an der B 27 bei Hüfingen auf Höhe des Wohngebiets „Auf Hohen“ 4. Anfrage des Abg. Nikolai Reith FDP/DVP Projekt „Streetworker“ 5. Anfrage des Abg. Hans-Peter Storz SPD Klimaneutrale Schifffahrt auf dem Bodensee 6. Anfrage des Abg. Dr. Stefan Fulst-Blei SPD IT-Fortbildungen für Lehrkräfte am Zentrum für Schulqualität und Lehrerbildung (ZSL) 7. Anfrage des Abg. Stephen Brauer FDP/DVP Bau eines Kreisverkehrs in der Stadt Gaildorf (Landkreis Schwäbisch Hall)",
+        "title": "TOP 4 Fragestunde",
+        "id": "TOP-4",
+        "nativeType": "DE-BW-question_time",
+        "type": "qa"
+      },
+      "people": [
+        {
+          "label": "Nikolai Reith",
+          "context": "main-speaker",
+          "firstname": "Nikolai",
+          "lastname": "Reith",
+          "faction": {
+            "label": "FDP/DVP",
+            "wid": "Q6539"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_2.mp4#t=918,1019",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563200#t=918",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_2_918",
+        "additionalInformation": {
+          "startOffset": 918.0,
+          "endOffset": 1019.0,
+          "clockStart": "00:15:18"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 2,
+        "topIndex": 0,
+        "rednerRaw": "Reith Nikolai",
+        "gruppeRaw": "FDP/DVP",
+        "roleRaw": "",
+        "startOffset": 918,
+        "endOffset": 1019,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T03:17:41",
+      "dateEnd": "2025-03-13T03:23:23",
+      "speechIndex": 34,
+      "originID": "17118_2_1019",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4 Fragestunde: Drucksache 17/8240 (Dokument) 1. Anfrage des Abg. Daniel Born SPD Erhalt der Notfallpraxis in Schwetzingen 2. Anfrage des Abg. Dr. Erik Schweickert FDP/DVP Kosten und Folgen von IT-Systemfehlern im Rahmen der Corona-Überbrückungshilfen 3. Anfrage des Abg. Nikolai Reith FDP/DVP Lärmschutzwand an der B 27 bei Hüfingen auf Höhe des Wohngebiets „Auf Hohen“ 4. Anfrage des Abg. Nikolai Reith FDP/DVP Projekt „Streetworker“ 5. Anfrage des Abg. Hans-Peter Storz SPD Klimaneutrale Schifffahrt auf dem Bodensee 6. Anfrage des Abg. Dr. Stefan Fulst-Blei SPD IT-Fortbildungen für Lehrkräfte am Zentrum für Schulqualität und Lehrerbildung (ZSL) 7. Anfrage des Abg. Stephen Brauer FDP/DVP Bau eines Kreisverkehrs in der Stadt Gaildorf (Landkreis Schwäbisch Hall)",
+        "title": "TOP 4 Fragestunde",
+        "id": "TOP-4",
+        "nativeType": "DE-BW-question_time",
+        "type": "qa"
+      },
+      "people": [
+        {
+          "label": "Elke Zimmer",
+          "context": "main-speaker",
+          "firstname": "Elke",
+          "lastname": "Zimmer",
+          "faction": {
+            "label": "GRÜNE",
+            "wid": "Q49766"
+          },
+          "wid": "Q28031549",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_2.mp4#t=1019,1361",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563200#t=1019",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_2_1019",
+        "additionalInformation": {
+          "startOffset": 1019.0,
+          "endOffset": 1361.0,
+          "clockStart": "00:16:59"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 2,
+        "topIndex": 0,
+        "rednerRaw": "Zimmer Elke",
+        "gruppeRaw": "GRÜNE",
+        "roleRaw": "",
+        "startOffset": 1019,
+        "endOffset": 1361,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T03:23:23",
+      "dateEnd": "2025-03-13T03:23:35",
+      "speechIndex": 35,
+      "originID": "17118_2_1361",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4 Fragestunde: Drucksache 17/8240 (Dokument) 1. Anfrage des Abg. Daniel Born SPD Erhalt der Notfallpraxis in Schwetzingen 2. Anfrage des Abg. Dr. Erik Schweickert FDP/DVP Kosten und Folgen von IT-Systemfehlern im Rahmen der Corona-Überbrückungshilfen 3. Anfrage des Abg. Nikolai Reith FDP/DVP Lärmschutzwand an der B 27 bei Hüfingen auf Höhe des Wohngebiets „Auf Hohen“ 4. Anfrage des Abg. Nikolai Reith FDP/DVP Projekt „Streetworker“ 5. Anfrage des Abg. Hans-Peter Storz SPD Klimaneutrale Schifffahrt auf dem Bodensee 6. Anfrage des Abg. Dr. Stefan Fulst-Blei SPD IT-Fortbildungen für Lehrkräfte am Zentrum für Schulqualität und Lehrerbildung (ZSL) 7. Anfrage des Abg. Stephen Brauer FDP/DVP Bau eines Kreisverkehrs in der Stadt Gaildorf (Landkreis Schwäbisch Hall)",
+        "title": "TOP 4 Fragestunde",
+        "id": "TOP-4",
+        "nativeType": "DE-BW-question_time",
+        "type": "qa"
+      },
+      "people": [
+        {
+          "label": "Daniel Born",
+          "context": "vice-president",
+          "firstname": "Daniel",
+          "lastname": "Born",
+          "role": "stellv. Präsident",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q23560213",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_2.mp4#t=1361,1373",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563200#t=1361",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_2_1361",
+        "additionalInformation": {
+          "startOffset": 1361.0,
+          "endOffset": 1373.0,
+          "clockStart": "00:22:41"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 2,
+        "topIndex": 0,
+        "rednerRaw": "Born Daniel",
+        "gruppeRaw": "SPD",
+        "roleRaw": "stellv. Präsident",
+        "startOffset": 1361,
+        "endOffset": 1373,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T03:23:35",
+      "dateEnd": "2025-03-13T03:24:12",
+      "speechIndex": 36,
+      "originID": "17118_2_1373",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4 Fragestunde: Drucksache 17/8240 (Dokument) 1. Anfrage des Abg. Daniel Born SPD Erhalt der Notfallpraxis in Schwetzingen 2. Anfrage des Abg. Dr. Erik Schweickert FDP/DVP Kosten und Folgen von IT-Systemfehlern im Rahmen der Corona-Überbrückungshilfen 3. Anfrage des Abg. Nikolai Reith FDP/DVP Lärmschutzwand an der B 27 bei Hüfingen auf Höhe des Wohngebiets „Auf Hohen“ 4. Anfrage des Abg. Nikolai Reith FDP/DVP Projekt „Streetworker“ 5. Anfrage des Abg. Hans-Peter Storz SPD Klimaneutrale Schifffahrt auf dem Bodensee 6. Anfrage des Abg. Dr. Stefan Fulst-Blei SPD IT-Fortbildungen für Lehrkräfte am Zentrum für Schulqualität und Lehrerbildung (ZSL) 7. Anfrage des Abg. Stephen Brauer FDP/DVP Bau eines Kreisverkehrs in der Stadt Gaildorf (Landkreis Schwäbisch Hall)",
+        "title": "TOP 4 Fragestunde",
+        "id": "TOP-4",
+        "nativeType": "DE-BW-question_time",
+        "type": "qa"
+      },
+      "people": [
+        {
+          "label": "Nikolai Reith",
+          "context": "main-speaker",
+          "firstname": "Nikolai",
+          "lastname": "Reith",
+          "faction": {
+            "label": "FDP/DVP",
+            "wid": "Q6539"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_2.mp4#t=1373,1410",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563200#t=1373",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_2_1373",
+        "additionalInformation": {
+          "startOffset": 1373.0,
+          "endOffset": 1410.0,
+          "clockStart": "00:22:53"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 2,
+        "topIndex": 0,
+        "rednerRaw": "Reith Nikolai",
+        "gruppeRaw": "FDP/DVP",
+        "roleRaw": "",
+        "startOffset": 1373,
+        "endOffset": 1410,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T03:24:12",
+      "dateEnd": "2025-03-13T03:29:19",
+      "speechIndex": 37,
+      "originID": "17118_2_1410",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4 Fragestunde: Drucksache 17/8240 (Dokument) 1. Anfrage des Abg. Daniel Born SPD Erhalt der Notfallpraxis in Schwetzingen 2. Anfrage des Abg. Dr. Erik Schweickert FDP/DVP Kosten und Folgen von IT-Systemfehlern im Rahmen der Corona-Überbrückungshilfen 3. Anfrage des Abg. Nikolai Reith FDP/DVP Lärmschutzwand an der B 27 bei Hüfingen auf Höhe des Wohngebiets „Auf Hohen“ 4. Anfrage des Abg. Nikolai Reith FDP/DVP Projekt „Streetworker“ 5. Anfrage des Abg. Hans-Peter Storz SPD Klimaneutrale Schifffahrt auf dem Bodensee 6. Anfrage des Abg. Dr. Stefan Fulst-Blei SPD IT-Fortbildungen für Lehrkräfte am Zentrum für Schulqualität und Lehrerbildung (ZSL) 7. Anfrage des Abg. Stephen Brauer FDP/DVP Bau eines Kreisverkehrs in der Stadt Gaildorf (Landkreis Schwäbisch Hall)",
+        "title": "TOP 4 Fragestunde",
+        "id": "TOP-4",
+        "nativeType": "DE-BW-question_time",
+        "type": "qa"
+      },
+      "people": [
+        {
+          "label": "Manfred Lucha",
+          "context": "main-speaker",
+          "firstname": "Manfred",
+          "lastname": "Lucha",
+          "faction": {
+            "label": "GRÜNE",
+            "wid": "Q49766"
+          },
+          "wid": "Q1889671",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_2.mp4#t=1410,1717",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563200#t=1410",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_2_1410",
+        "additionalInformation": {
+          "startOffset": 1410.0,
+          "endOffset": 1717.0,
+          "clockStart": "00:23:30"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 2,
+        "topIndex": 0,
+        "rednerRaw": "Lucha Manfred",
+        "gruppeRaw": "GRÜNE",
+        "roleRaw": "",
+        "startOffset": 1410,
+        "endOffset": 1717,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T03:29:19",
+      "dateEnd": "2025-03-13T03:29:27",
+      "speechIndex": 38,
+      "originID": "17118_2_1717",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4 Fragestunde: Drucksache 17/8240 (Dokument) 1. Anfrage des Abg. Daniel Born SPD Erhalt der Notfallpraxis in Schwetzingen 2. Anfrage des Abg. Dr. Erik Schweickert FDP/DVP Kosten und Folgen von IT-Systemfehlern im Rahmen der Corona-Überbrückungshilfen 3. Anfrage des Abg. Nikolai Reith FDP/DVP Lärmschutzwand an der B 27 bei Hüfingen auf Höhe des Wohngebiets „Auf Hohen“ 4. Anfrage des Abg. Nikolai Reith FDP/DVP Projekt „Streetworker“ 5. Anfrage des Abg. Hans-Peter Storz SPD Klimaneutrale Schifffahrt auf dem Bodensee 6. Anfrage des Abg. Dr. Stefan Fulst-Blei SPD IT-Fortbildungen für Lehrkräfte am Zentrum für Schulqualität und Lehrerbildung (ZSL) 7. Anfrage des Abg. Stephen Brauer FDP/DVP Bau eines Kreisverkehrs in der Stadt Gaildorf (Landkreis Schwäbisch Hall)",
+        "title": "TOP 4 Fragestunde",
+        "id": "TOP-4",
+        "nativeType": "DE-BW-question_time",
+        "type": "qa"
+      },
+      "people": [
+        {
+          "label": "Daniel Born",
+          "context": "vice-president",
+          "firstname": "Daniel",
+          "lastname": "Born",
+          "role": "stellv. Präsident",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q23560213",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_2.mp4#t=1717,1725",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563200#t=1717",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_2_1717",
+        "additionalInformation": {
+          "startOffset": 1717.0,
+          "endOffset": 1725.0,
+          "clockStart": "00:28:37"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 2,
+        "topIndex": 0,
+        "rednerRaw": "Born Daniel",
+        "gruppeRaw": "SPD",
+        "roleRaw": "stellv. Präsident",
+        "startOffset": 1717,
+        "endOffset": 1725,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T03:29:27",
+      "dateEnd": "2025-03-13T03:30:18",
+      "speechIndex": 39,
+      "originID": "17118_2_1725",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4 Fragestunde: Drucksache 17/8240 (Dokument) 1. Anfrage des Abg. Daniel Born SPD Erhalt der Notfallpraxis in Schwetzingen 2. Anfrage des Abg. Dr. Erik Schweickert FDP/DVP Kosten und Folgen von IT-Systemfehlern im Rahmen der Corona-Überbrückungshilfen 3. Anfrage des Abg. Nikolai Reith FDP/DVP Lärmschutzwand an der B 27 bei Hüfingen auf Höhe des Wohngebiets „Auf Hohen“ 4. Anfrage des Abg. Nikolai Reith FDP/DVP Projekt „Streetworker“ 5. Anfrage des Abg. Hans-Peter Storz SPD Klimaneutrale Schifffahrt auf dem Bodensee 6. Anfrage des Abg. Dr. Stefan Fulst-Blei SPD IT-Fortbildungen für Lehrkräfte am Zentrum für Schulqualität und Lehrerbildung (ZSL) 7. Anfrage des Abg. Stephen Brauer FDP/DVP Bau eines Kreisverkehrs in der Stadt Gaildorf (Landkreis Schwäbisch Hall)",
+        "title": "TOP 4 Fragestunde",
+        "id": "TOP-4",
+        "nativeType": "DE-BW-question_time",
+        "type": "qa"
+      },
+      "people": [
+        {
+          "label": "Hans-Peter Storz",
+          "context": "main-speaker",
+          "firstname": "Hans-Peter",
+          "lastname": "Storz",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q1578127",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_2.mp4#t=1725,1776",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563200#t=1725",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_2_1725",
+        "additionalInformation": {
+          "startOffset": 1725.0,
+          "endOffset": 1776.0,
+          "clockStart": "00:28:45"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 2,
+        "topIndex": 0,
+        "rednerRaw": "Storz Hans-Peter",
+        "gruppeRaw": "SPD",
+        "roleRaw": "",
+        "startOffset": 1725,
+        "endOffset": 1776,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T03:30:18",
+      "dateEnd": "2025-03-13T03:37:38",
+      "speechIndex": 40,
+      "originID": "17118_2_1776",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4 Fragestunde: Drucksache 17/8240 (Dokument) 1. Anfrage des Abg. Daniel Born SPD Erhalt der Notfallpraxis in Schwetzingen 2. Anfrage des Abg. Dr. Erik Schweickert FDP/DVP Kosten und Folgen von IT-Systemfehlern im Rahmen der Corona-Überbrückungshilfen 3. Anfrage des Abg. Nikolai Reith FDP/DVP Lärmschutzwand an der B 27 bei Hüfingen auf Höhe des Wohngebiets „Auf Hohen“ 4. Anfrage des Abg. Nikolai Reith FDP/DVP Projekt „Streetworker“ 5. Anfrage des Abg. Hans-Peter Storz SPD Klimaneutrale Schifffahrt auf dem Bodensee 6. Anfrage des Abg. Dr. Stefan Fulst-Blei SPD IT-Fortbildungen für Lehrkräfte am Zentrum für Schulqualität und Lehrerbildung (ZSL) 7. Anfrage des Abg. Stephen Brauer FDP/DVP Bau eines Kreisverkehrs in der Stadt Gaildorf (Landkreis Schwäbisch Hall)",
+        "title": "TOP 4 Fragestunde",
+        "id": "TOP-4",
+        "nativeType": "DE-BW-question_time",
+        "type": "qa"
+      },
+      "people": [
+        {
+          "label": "Elke Zimmer",
+          "context": "main-speaker",
+          "firstname": "Elke",
+          "lastname": "Zimmer",
+          "faction": {
+            "label": "GRÜNE",
+            "wid": "Q49766"
+          },
+          "wid": "Q28031549",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_2.mp4#t=1776,2216",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563200#t=1776",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_2_1776",
+        "additionalInformation": {
+          "startOffset": 1776.0,
+          "endOffset": 2216.0,
+          "clockStart": "00:29:36"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 2,
+        "topIndex": 0,
+        "rednerRaw": "Zimmer Elke",
+        "gruppeRaw": "GRÜNE",
+        "roleRaw": "",
+        "startOffset": 1776,
+        "endOffset": 2216,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T03:37:38",
+      "dateEnd": "2025-03-13T03:37:49",
+      "speechIndex": 41,
+      "originID": "17118_2_2216",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4 Fragestunde: Drucksache 17/8240 (Dokument) 1. Anfrage des Abg. Daniel Born SPD Erhalt der Notfallpraxis in Schwetzingen 2. Anfrage des Abg. Dr. Erik Schweickert FDP/DVP Kosten und Folgen von IT-Systemfehlern im Rahmen der Corona-Überbrückungshilfen 3. Anfrage des Abg. Nikolai Reith FDP/DVP Lärmschutzwand an der B 27 bei Hüfingen auf Höhe des Wohngebiets „Auf Hohen“ 4. Anfrage des Abg. Nikolai Reith FDP/DVP Projekt „Streetworker“ 5. Anfrage des Abg. Hans-Peter Storz SPD Klimaneutrale Schifffahrt auf dem Bodensee 6. Anfrage des Abg. Dr. Stefan Fulst-Blei SPD IT-Fortbildungen für Lehrkräfte am Zentrum für Schulqualität und Lehrerbildung (ZSL) 7. Anfrage des Abg. Stephen Brauer FDP/DVP Bau eines Kreisverkehrs in der Stadt Gaildorf (Landkreis Schwäbisch Hall)",
+        "title": "TOP 4 Fragestunde",
+        "id": "TOP-4",
+        "nativeType": "DE-BW-question_time",
+        "type": "qa"
+      },
+      "people": [
+        {
+          "label": "Daniel Born",
+          "context": "vice-president",
+          "firstname": "Daniel",
+          "lastname": "Born",
+          "role": "stellv. Präsident",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q23560213",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_2.mp4#t=2216,2227",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563200#t=2216",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_2_2216",
+        "additionalInformation": {
+          "startOffset": 2216.0,
+          "endOffset": 2227.0,
+          "clockStart": "00:36:56"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 2,
+        "topIndex": 0,
+        "rednerRaw": "Born Daniel",
+        "gruppeRaw": "SPD",
+        "roleRaw": "stellv. Präsident",
+        "startOffset": 2216,
+        "endOffset": 2227,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T03:37:49",
+      "dateEnd": "2025-03-13T03:38:46",
+      "speechIndex": 42,
+      "originID": "17118_2_2227",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4 Fragestunde: Drucksache 17/8240 (Dokument) 1. Anfrage des Abg. Daniel Born SPD Erhalt der Notfallpraxis in Schwetzingen 2. Anfrage des Abg. Dr. Erik Schweickert FDP/DVP Kosten und Folgen von IT-Systemfehlern im Rahmen der Corona-Überbrückungshilfen 3. Anfrage des Abg. Nikolai Reith FDP/DVP Lärmschutzwand an der B 27 bei Hüfingen auf Höhe des Wohngebiets „Auf Hohen“ 4. Anfrage des Abg. Nikolai Reith FDP/DVP Projekt „Streetworker“ 5. Anfrage des Abg. Hans-Peter Storz SPD Klimaneutrale Schifffahrt auf dem Bodensee 6. Anfrage des Abg. Dr. Stefan Fulst-Blei SPD IT-Fortbildungen für Lehrkräfte am Zentrum für Schulqualität und Lehrerbildung (ZSL) 7. Anfrage des Abg. Stephen Brauer FDP/DVP Bau eines Kreisverkehrs in der Stadt Gaildorf (Landkreis Schwäbisch Hall)",
+        "title": "TOP 4 Fragestunde",
+        "id": "TOP-4",
+        "nativeType": "DE-BW-question_time",
+        "type": "qa"
+      },
+      "people": [
+        {
+          "label": "Stefan Fulst-Blei",
+          "context": "main-speaker",
+          "firstname": "Stefan",
+          "lastname": "Fulst-Blei",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q2336338",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_2.mp4#t=2227,2284",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563200#t=2227",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_2_2227",
+        "additionalInformation": {
+          "startOffset": 2227.0,
+          "endOffset": 2284.0,
+          "clockStart": "00:37:07"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 2,
+        "topIndex": 0,
+        "rednerRaw": "Fulst-Blei Stefan",
+        "gruppeRaw": "SPD",
+        "roleRaw": "",
+        "startOffset": 2227,
+        "endOffset": 2284,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T03:38:46",
+      "dateEnd": "2025-03-13T03:47:28",
+      "speechIndex": 43,
+      "originID": "17118_2_2284",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4 Fragestunde: Drucksache 17/8240 (Dokument) 1. Anfrage des Abg. Daniel Born SPD Erhalt der Notfallpraxis in Schwetzingen 2. Anfrage des Abg. Dr. Erik Schweickert FDP/DVP Kosten und Folgen von IT-Systemfehlern im Rahmen der Corona-Überbrückungshilfen 3. Anfrage des Abg. Nikolai Reith FDP/DVP Lärmschutzwand an der B 27 bei Hüfingen auf Höhe des Wohngebiets „Auf Hohen“ 4. Anfrage des Abg. Nikolai Reith FDP/DVP Projekt „Streetworker“ 5. Anfrage des Abg. Hans-Peter Storz SPD Klimaneutrale Schifffahrt auf dem Bodensee 6. Anfrage des Abg. Dr. Stefan Fulst-Blei SPD IT-Fortbildungen für Lehrkräfte am Zentrum für Schulqualität und Lehrerbildung (ZSL) 7. Anfrage des Abg. Stephen Brauer FDP/DVP Bau eines Kreisverkehrs in der Stadt Gaildorf (Landkreis Schwäbisch Hall)",
+        "title": "TOP 4 Fragestunde",
+        "id": "TOP-4",
+        "nativeType": "DE-BW-question_time",
+        "type": "qa"
+      },
+      "people": [
+        {
+          "label": "Sandra Boser",
+          "context": "main-speaker",
+          "firstname": "Sandra",
+          "lastname": "Boser",
+          "faction": {
+            "label": "GRÜNE",
+            "wid": "Q49766"
+          },
+          "wid": "Q1539751",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_2.mp4#t=2284,2806",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563200#t=2284",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_2_2284",
+        "additionalInformation": {
+          "startOffset": 2284.0,
+          "endOffset": 2806.0,
+          "clockStart": "00:38:04"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 2,
+        "topIndex": 0,
+        "rednerRaw": "Boser Sandra",
+        "gruppeRaw": "GRÜNE",
+        "roleRaw": "",
+        "startOffset": 2284,
+        "endOffset": 2806,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T03:47:28",
+      "dateEnd": "2025-03-13T03:47:39",
+      "speechIndex": 44,
+      "originID": "17118_2_2806",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4 Fragestunde: Drucksache 17/8240 (Dokument) 1. Anfrage des Abg. Daniel Born SPD Erhalt der Notfallpraxis in Schwetzingen 2. Anfrage des Abg. Dr. Erik Schweickert FDP/DVP Kosten und Folgen von IT-Systemfehlern im Rahmen der Corona-Überbrückungshilfen 3. Anfrage des Abg. Nikolai Reith FDP/DVP Lärmschutzwand an der B 27 bei Hüfingen auf Höhe des Wohngebiets „Auf Hohen“ 4. Anfrage des Abg. Nikolai Reith FDP/DVP Projekt „Streetworker“ 5. Anfrage des Abg. Hans-Peter Storz SPD Klimaneutrale Schifffahrt auf dem Bodensee 6. Anfrage des Abg. Dr. Stefan Fulst-Blei SPD IT-Fortbildungen für Lehrkräfte am Zentrum für Schulqualität und Lehrerbildung (ZSL) 7. Anfrage des Abg. Stephen Brauer FDP/DVP Bau eines Kreisverkehrs in der Stadt Gaildorf (Landkreis Schwäbisch Hall)",
+        "title": "TOP 4 Fragestunde",
+        "id": "TOP-4",
+        "nativeType": "DE-BW-question_time",
+        "type": "qa"
+      },
+      "people": [
+        {
+          "label": "Daniel Born",
+          "context": "vice-president",
+          "firstname": "Daniel",
+          "lastname": "Born",
+          "role": "stellv. Präsident",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q23560213",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_2.mp4#t=2806,2817",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563200#t=2806",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_2_2806",
+        "additionalInformation": {
+          "startOffset": 2806.0,
+          "endOffset": 2817.0,
+          "clockStart": "00:46:46"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 2,
+        "topIndex": 0,
+        "rednerRaw": "Born Daniel",
+        "gruppeRaw": "SPD",
+        "roleRaw": "stellv. Präsident",
+        "startOffset": 2806,
+        "endOffset": 2817,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T03:47:39",
+      "dateEnd": "2025-03-13T03:48:14",
+      "speechIndex": 45,
+      "originID": "17118_2_2817",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4 Fragestunde: Drucksache 17/8240 (Dokument) 1. Anfrage des Abg. Daniel Born SPD Erhalt der Notfallpraxis in Schwetzingen 2. Anfrage des Abg. Dr. Erik Schweickert FDP/DVP Kosten und Folgen von IT-Systemfehlern im Rahmen der Corona-Überbrückungshilfen 3. Anfrage des Abg. Nikolai Reith FDP/DVP Lärmschutzwand an der B 27 bei Hüfingen auf Höhe des Wohngebiets „Auf Hohen“ 4. Anfrage des Abg. Nikolai Reith FDP/DVP Projekt „Streetworker“ 5. Anfrage des Abg. Hans-Peter Storz SPD Klimaneutrale Schifffahrt auf dem Bodensee 6. Anfrage des Abg. Dr. Stefan Fulst-Blei SPD IT-Fortbildungen für Lehrkräfte am Zentrum für Schulqualität und Lehrerbildung (ZSL) 7. Anfrage des Abg. Stephen Brauer FDP/DVP Bau eines Kreisverkehrs in der Stadt Gaildorf (Landkreis Schwäbisch Hall)",
+        "title": "TOP 4 Fragestunde",
+        "id": "TOP-4",
+        "nativeType": "DE-BW-question_time",
+        "type": "qa"
+      },
+      "people": [
+        {
+          "label": "Stephen Brauer",
+          "context": "main-speaker",
+          "firstname": "Stephen",
+          "lastname": "Brauer",
+          "faction": {
+            "label": "FDP/DVP",
+            "wid": "Q6539"
+          },
+          "wid": "Q56840926",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_2.mp4#t=2817,2852",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563200#t=2817",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_2_2817",
+        "additionalInformation": {
+          "startOffset": 2817.0,
+          "endOffset": 2852.0,
+          "clockStart": "00:46:57"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 2,
+        "topIndex": 0,
+        "rednerRaw": "Brauer Stephen",
+        "gruppeRaw": "FDP/DVP",
+        "roleRaw": "",
+        "startOffset": 2817,
+        "endOffset": 2852,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T03:48:14",
+      "dateEnd": "2025-03-13T03:48:24",
+      "speechIndex": 46,
+      "originID": "17118_2_2852",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4 Fragestunde: Drucksache 17/8240 (Dokument) 1. Anfrage des Abg. Daniel Born SPD Erhalt der Notfallpraxis in Schwetzingen 2. Anfrage des Abg. Dr. Erik Schweickert FDP/DVP Kosten und Folgen von IT-Systemfehlern im Rahmen der Corona-Überbrückungshilfen 3. Anfrage des Abg. Nikolai Reith FDP/DVP Lärmschutzwand an der B 27 bei Hüfingen auf Höhe des Wohngebiets „Auf Hohen“ 4. Anfrage des Abg. Nikolai Reith FDP/DVP Projekt „Streetworker“ 5. Anfrage des Abg. Hans-Peter Storz SPD Klimaneutrale Schifffahrt auf dem Bodensee 6. Anfrage des Abg. Dr. Stefan Fulst-Blei SPD IT-Fortbildungen für Lehrkräfte am Zentrum für Schulqualität und Lehrerbildung (ZSL) 7. Anfrage des Abg. Stephen Brauer FDP/DVP Bau eines Kreisverkehrs in der Stadt Gaildorf (Landkreis Schwäbisch Hall)",
+        "title": "TOP 4 Fragestunde",
+        "id": "TOP-4",
+        "nativeType": "DE-BW-question_time",
+        "type": "qa"
+      },
+      "people": [
+        {
+          "label": "Daniel Born",
+          "context": "vice-president",
+          "firstname": "Daniel",
+          "lastname": "Born",
+          "role": "stellv. Präsident",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q23560213",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_2.mp4#t=2852,2862",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563200#t=2852",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_2_2852",
+        "additionalInformation": {
+          "startOffset": 2852.0,
+          "endOffset": 2862.0,
+          "clockStart": "00:47:32"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 2,
+        "topIndex": 0,
+        "rednerRaw": "Born Daniel",
+        "gruppeRaw": "SPD",
+        "roleRaw": "stellv. Präsident",
+        "startOffset": 2852,
+        "endOffset": 2862,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T03:48:24",
+      "dateEnd": "2025-03-13T03:48:46",
+      "speechIndex": 47,
+      "originID": "17118_2_2862",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 5 Erste Beratung: des Gesetzentwurfs der Landesregierung Gesetz über Zuständigkeiten nach der Straßenverkehrs-Ordnung (StVO-Zuständigkeitsgesetz – StVOZuG) Drucksache 17/8341 (Dokument)",
+        "title": "TOP 5 Erste Beratung",
+        "id": "TOP-5",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Daniel Born",
+          "context": "vice-president",
+          "firstname": "Daniel",
+          "lastname": "Born",
+          "role": "stellv. Präsident",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q23560213",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_2.mp4#t=2862,2884",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563200#t=2862",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_2_2862",
+        "additionalInformation": {
+          "startOffset": 2862.0,
+          "endOffset": 2884.0,
+          "clockStart": "00:47:42"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 2,
+        "topIndex": 1,
+        "rednerRaw": "Born Daniel",
+        "gruppeRaw": "SPD",
+        "roleRaw": "stellv. Präsident",
+        "startOffset": 2862,
+        "endOffset": 2884,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T03:48:46",
+      "dateEnd": "2025-03-13T03:58:14",
+      "speechIndex": 48,
+      "originID": "17118_2_2884",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 5 Erste Beratung: des Gesetzentwurfs der Landesregierung Gesetz über Zuständigkeiten nach der Straßenverkehrs-Ordnung (StVO-Zuständigkeitsgesetz – StVOZuG) Drucksache 17/8341 (Dokument)",
+        "title": "TOP 5 Erste Beratung",
+        "id": "TOP-5",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Elke Zimmer",
+          "context": "main-speaker",
+          "firstname": "Elke",
+          "lastname": "Zimmer",
+          "faction": {
+            "label": "GRÜNE",
+            "wid": "Q49766"
+          },
+          "wid": "Q28031549",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_2.mp4#t=2884,3452",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563200#t=2884",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_2_2884",
+        "additionalInformation": {
+          "startOffset": 2884.0,
+          "endOffset": 3452.0,
+          "clockStart": "00:48:04"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 2,
+        "topIndex": 1,
+        "rednerRaw": "Zimmer Elke",
+        "gruppeRaw": "GRÜNE",
+        "roleRaw": "",
+        "startOffset": 2884,
+        "endOffset": 3452,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T03:58:14",
+      "dateEnd": "2025-03-13T04:02:43",
+      "speechIndex": 49,
+      "originID": "17118_2_3452",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 5 Erste Beratung: des Gesetzentwurfs der Landesregierung Gesetz über Zuständigkeiten nach der Straßenverkehrs-Ordnung (StVO-Zuständigkeitsgesetz – StVOZuG) Drucksache 17/8341 (Dokument)",
+        "title": "TOP 5 Erste Beratung",
+        "id": "TOP-5",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Gudula Achterberg",
+          "context": "main-speaker",
+          "firstname": "Gudula",
+          "lastname": "Achterberg",
+          "faction": {
+            "label": "GRÜNE",
+            "wid": "Q49766"
+          },
+          "wid": "Q110926205",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_2.mp4#t=3452,3721",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563200#t=3452",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_2_3452",
+        "additionalInformation": {
+          "startOffset": 3452.0,
+          "endOffset": 3721.0,
+          "clockStart": "00:57:32"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 2,
+        "topIndex": 1,
+        "rednerRaw": "Achterberg Gudula",
+        "gruppeRaw": "GRÜNE",
+        "roleRaw": "",
+        "startOffset": 3452,
+        "endOffset": 3721,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T04:02:43",
+      "dateEnd": "2025-03-13T04:05:18",
+      "speechIndex": 50,
+      "originID": "17118_2_3721",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 5 Erste Beratung: des Gesetzentwurfs der Landesregierung Gesetz über Zuständigkeiten nach der Straßenverkehrs-Ordnung (StVO-Zuständigkeitsgesetz – StVOZuG) Drucksache 17/8341 (Dokument)",
+        "title": "TOP 5 Erste Beratung",
+        "id": "TOP-5",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Tim Bückner",
+          "context": "main-speaker",
+          "firstname": "Tim",
+          "lastname": "Bückner",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q106556626",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_2.mp4#t=3721,3876",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563200#t=3721",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_2_3721",
+        "additionalInformation": {
+          "startOffset": 3721.0,
+          "endOffset": 3876.0,
+          "clockStart": "01:02:01"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 2,
+        "topIndex": 1,
+        "rednerRaw": "Bückner Tim",
+        "gruppeRaw": "CDU",
+        "roleRaw": "",
+        "startOffset": 3721,
+        "endOffset": 3876,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T04:05:18",
+      "dateEnd": "2025-03-13T04:08:46",
+      "speechIndex": 51,
+      "originID": "17118_2_3876",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 5 Erste Beratung: des Gesetzentwurfs der Landesregierung Gesetz über Zuständigkeiten nach der Straßenverkehrs-Ordnung (StVO-Zuständigkeitsgesetz – StVOZuG) Drucksache 17/8341 (Dokument)",
+        "title": "TOP 5 Erste Beratung",
+        "id": "TOP-5",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Simone Kirschbaum",
+          "context": "main-speaker",
+          "firstname": "Simone",
+          "lastname": "Kirschbaum",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q126997824",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_2.mp4#t=3876,4084",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563200#t=3876",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_2_3876",
+        "additionalInformation": {
+          "startOffset": 3876.0,
+          "endOffset": 4084.0,
+          "clockStart": "01:04:36"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 2,
+        "topIndex": 1,
+        "rednerRaw": "Kirschbaum Simone",
+        "gruppeRaw": "SPD",
+        "roleRaw": "",
+        "startOffset": 3876,
+        "endOffset": 4084,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T04:08:46",
+      "dateEnd": "2025-03-13T04:13:30",
+      "speechIndex": 52,
+      "originID": "17118_2_4084",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 5 Erste Beratung: des Gesetzentwurfs der Landesregierung Gesetz über Zuständigkeiten nach der Straßenverkehrs-Ordnung (StVO-Zuständigkeitsgesetz – StVOZuG) Drucksache 17/8341 (Dokument)",
+        "title": "TOP 5 Erste Beratung",
+        "id": "TOP-5",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Hans Dieter Scheerer",
+          "context": "main-speaker",
+          "firstname": "Hans Dieter",
+          "lastname": "Scheerer",
+          "faction": {
+            "label": "FDP/DVP",
+            "wid": "Q6539"
+          },
+          "wid": "Q106245091",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_2.mp4#t=4084,4368",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563200#t=4084",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_2_4084",
+        "additionalInformation": {
+          "startOffset": 4084.0,
+          "endOffset": 4368.0,
+          "clockStart": "01:08:04"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 2,
+        "topIndex": 1,
+        "rednerRaw": "Scheerer Hans Dieter",
+        "gruppeRaw": "FDP/DVP",
+        "roleRaw": "",
+        "startOffset": 4084,
+        "endOffset": 4368,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T04:13:30",
+      "dateEnd": "2025-03-13T04:18:20",
+      "speechIndex": 53,
+      "originID": "17118_2_4368",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 5 Erste Beratung: des Gesetzentwurfs der Landesregierung Gesetz über Zuständigkeiten nach der Straßenverkehrs-Ordnung (StVO-Zuständigkeitsgesetz – StVOZuG) Drucksache 17/8341 (Dokument)",
+        "title": "TOP 5 Erste Beratung",
+        "id": "TOP-5",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Rüdiger Klos",
+          "context": "main-speaker",
+          "firstname": "Rüdiger",
+          "lastname": "Klos",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q23563667",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_2.mp4#t=4368,4658",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563200#t=4368",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_2_4368",
+        "additionalInformation": {
+          "startOffset": 4368.0,
+          "endOffset": 4658.0,
+          "clockStart": "01:12:48"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 2,
+        "topIndex": 1,
+        "rednerRaw": "Klos Rüdiger",
+        "gruppeRaw": "AfD",
+        "roleRaw": "",
+        "startOffset": 4368,
+        "endOffset": 4658,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T04:18:20",
+      "dateEnd": "2025-03-13T04:18:45",
+      "speechIndex": 54,
+      "originID": "17118_2_4658",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 5 Erste Beratung: des Gesetzentwurfs der Landesregierung Gesetz über Zuständigkeiten nach der Straßenverkehrs-Ordnung (StVO-Zuständigkeitsgesetz – StVOZuG) Drucksache 17/8341 (Dokument)",
+        "title": "TOP 5 Erste Beratung",
+        "id": "TOP-5",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Daniel Born",
+          "context": "vice-president",
+          "firstname": "Daniel",
+          "lastname": "Born",
+          "role": "stellv. Präsident",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q23560213",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_2.mp4#t=4658,4683",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563200#t=4658",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_2_4658",
+        "additionalInformation": {
+          "startOffset": 4658.0,
+          "endOffset": 4683.0,
+          "clockStart": "01:17:38"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 2,
+        "topIndex": 1,
+        "rednerRaw": "Born Daniel",
+        "gruppeRaw": "SPD",
+        "roleRaw": "stellv. Präsident",
+        "startOffset": 4658,
+        "endOffset": 4683,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T04:18:45",
+      "dateEnd": "2025-03-13T04:19:09",
+      "speechIndex": 55,
+      "originID": "17118_2_4683",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 6 Antrag der Fraktion der FDP/DVP: und Stellungnahme des Staatsministeriums Bürokratieabbau vorantreiben III – Jetzt in die Umsetzung einsteigen! Drucksache 17/6199 (Dokument)",
+        "title": "TOP 6 Antrag der Fraktion der FDP/DVP",
+        "id": "TOP-6",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Daniel Born",
+          "context": "vice-president",
+          "firstname": "Daniel",
+          "lastname": "Born",
+          "role": "stellv. Präsident",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q23560213",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_2.mp4#t=4683,4707",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563200#t=4683",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_2_4683",
+        "additionalInformation": {
+          "startOffset": 4683.0,
+          "endOffset": 4707.0,
+          "clockStart": "01:18:03"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 2,
+        "topIndex": 2,
+        "rednerRaw": "Born Daniel",
+        "gruppeRaw": "SPD",
+        "roleRaw": "stellv. Präsident",
+        "startOffset": 4683,
+        "endOffset": 4707,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T04:19:09",
+      "dateEnd": "2025-03-13T04:25:53",
+      "speechIndex": 56,
+      "originID": "17118_2_4707",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 6 Antrag der Fraktion der FDP/DVP: und Stellungnahme des Staatsministeriums Bürokratieabbau vorantreiben III – Jetzt in die Umsetzung einsteigen! Drucksache 17/6199 (Dokument)",
+        "title": "TOP 6 Antrag der Fraktion der FDP/DVP",
+        "id": "TOP-6",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Erik Schweickert",
+          "context": "main-speaker",
+          "firstname": "Erik",
+          "lastname": "Schweickert",
+          "faction": {
+            "label": "FDP/DVP",
+            "wid": "Q6539"
+          },
+          "wid": "Q1354111",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_2.mp4#t=4707,5111",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563200#t=4707",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_2_4707",
+        "additionalInformation": {
+          "startOffset": 4707.0,
+          "endOffset": 5111.0,
+          "clockStart": "01:18:27"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 2,
+        "topIndex": 2,
+        "rednerRaw": "Schweickert Erik",
+        "gruppeRaw": "FDP/DVP",
+        "roleRaw": "",
+        "startOffset": 4707,
+        "endOffset": 5111,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T04:25:53",
+      "dateEnd": "2025-03-13T04:31:11",
+      "speechIndex": 57,
+      "originID": "17118_2_5111",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 6 Antrag der Fraktion der FDP/DVP: und Stellungnahme des Staatsministeriums Bürokratieabbau vorantreiben III – Jetzt in die Umsetzung einsteigen! Drucksache 17/6199 (Dokument)",
+        "title": "TOP 6 Antrag der Fraktion der FDP/DVP",
+        "id": "TOP-6",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Clara Resch",
+          "context": "main-speaker",
+          "firstname": "Clara",
+          "lastname": "Resch",
+          "faction": {
+            "label": "GRÜNE",
+            "wid": "Q49766"
+          },
+          "wid": "Q127687513",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_2.mp4#t=5111,5429",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563200#t=5111",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_2_5111",
+        "additionalInformation": {
+          "startOffset": 5111.0,
+          "endOffset": 5429.0,
+          "clockStart": "01:25:11"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 2,
+        "topIndex": 2,
+        "rednerRaw": "Resch Clara",
+        "gruppeRaw": "GRÜNE",
+        "roleRaw": "",
+        "startOffset": 5111,
+        "endOffset": 5429,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T04:31:11",
+      "dateEnd": "2025-03-13T04:36:52",
+      "speechIndex": 58,
+      "originID": "17118_2_5429",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 6 Antrag der Fraktion der FDP/DVP: und Stellungnahme des Staatsministeriums Bürokratieabbau vorantreiben III – Jetzt in die Umsetzung einsteigen! Drucksache 17/6199 (Dokument)",
+        "title": "TOP 6 Antrag der Fraktion der FDP/DVP",
+        "id": "TOP-6",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Katrin Schindele",
+          "context": "main-speaker",
+          "firstname": "Katrin",
+          "lastname": "Schindele",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q106411130",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_2.mp4#t=5429,5770",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563200#t=5429",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_2_5429",
+        "additionalInformation": {
+          "startOffset": 5429.0,
+          "endOffset": 5770.0,
+          "clockStart": "01:30:29"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 2,
+        "topIndex": 2,
+        "rednerRaw": "Schindele Katrin",
+        "gruppeRaw": "CDU",
+        "roleRaw": "",
+        "startOffset": 5429,
+        "endOffset": 5770,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T04:36:52",
+      "dateEnd": "2025-03-13T04:42:29",
+      "speechIndex": 59,
+      "originID": "17118_2_5770",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 6 Antrag der Fraktion der FDP/DVP: und Stellungnahme des Staatsministeriums Bürokratieabbau vorantreiben III – Jetzt in die Umsetzung einsteigen! Drucksache 17/6199 (Dokument)",
+        "title": "TOP 6 Antrag der Fraktion der FDP/DVP",
+        "id": "TOP-6",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Boris Weirauch",
+          "context": "main-speaker",
+          "firstname": "Boris",
+          "lastname": "Weirauch",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q23566378",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_2.mp4#t=5770,6107",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563200#t=5770",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_2_5770",
+        "additionalInformation": {
+          "startOffset": 5770.0,
+          "endOffset": 6107.0,
+          "clockStart": "01:36:10"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 2,
+        "topIndex": 2,
+        "rednerRaw": "Weirauch Boris",
+        "gruppeRaw": "SPD",
+        "roleRaw": "",
+        "startOffset": 5770,
+        "endOffset": 6107,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T04:42:29",
+      "dateEnd": "2025-03-13T04:47:37",
+      "speechIndex": 60,
+      "originID": "17118_2_6107",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 6 Antrag der Fraktion der FDP/DVP: und Stellungnahme des Staatsministeriums Bürokratieabbau vorantreiben III – Jetzt in die Umsetzung einsteigen! Drucksache 17/6199 (Dokument)",
+        "title": "TOP 6 Antrag der Fraktion der FDP/DVP",
+        "id": "TOP-6",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Daniel Lindenschmid",
+          "context": "main-speaker",
+          "firstname": "Daniel",
+          "lastname": "Lindenschmid",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q106098959",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_2.mp4#t=6107,6415",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563200#t=6107",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_2_6107",
+        "additionalInformation": {
+          "startOffset": 6107.0,
+          "endOffset": 6415.0,
+          "clockStart": "01:41:47"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 2,
+        "topIndex": 2,
+        "rednerRaw": "Lindenschmid Daniel",
+        "gruppeRaw": "AfD",
+        "roleRaw": "",
+        "startOffset": 6107,
+        "endOffset": 6415,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T04:47:37",
+      "dateEnd": "2025-03-13T04:53:17",
+      "speechIndex": 61,
+      "originID": "17118_2_6415",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 6 Antrag der Fraktion der FDP/DVP: und Stellungnahme des Staatsministeriums Bürokratieabbau vorantreiben III – Jetzt in die Umsetzung einsteigen! Drucksache 17/6199 (Dokument)",
+        "title": "TOP 6 Antrag der Fraktion der FDP/DVP",
+        "id": "TOP-6",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Florian Hassler",
+          "context": "main-speaker",
+          "firstname": "Florian",
+          "lastname": "Hassler",
+          "faction": {
+            "label": "GRÜNE",
+            "wid": "Q49766"
+          },
+          "wid": "Q106858468",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_2.mp4#t=6415,6755",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563200#t=6415",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_2_6415",
+        "additionalInformation": {
+          "startOffset": 6415.0,
+          "endOffset": 6755.0,
+          "clockStart": "01:46:55"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 2,
+        "topIndex": 2,
+        "rednerRaw": "Hassler Florian",
+        "gruppeRaw": "GRÜNE",
+        "roleRaw": "",
+        "startOffset": 6415,
+        "endOffset": 6755,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T04:53:17",
+      "dateEnd": "2025-03-13T04:58:02",
+      "speechIndex": 62,
+      "originID": "17118_2_6755",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 6 Antrag der Fraktion der FDP/DVP: und Stellungnahme des Staatsministeriums Bürokratieabbau vorantreiben III – Jetzt in die Umsetzung einsteigen! Drucksache 17/6199 (Dokument)",
+        "title": "TOP 6 Antrag der Fraktion der FDP/DVP",
+        "id": "TOP-6",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Erik Schweickert",
+          "context": "main-speaker",
+          "firstname": "Erik",
+          "lastname": "Schweickert",
+          "faction": {
+            "label": "FDP/DVP",
+            "wid": "Q6539"
+          },
+          "wid": "Q1354111",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_2.mp4#t=6755,7040",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563200#t=6755",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_2_6755",
+        "additionalInformation": {
+          "startOffset": 6755.0,
+          "endOffset": 7040.0,
+          "clockStart": "01:52:35"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 2,
+        "topIndex": 2,
+        "rednerRaw": "Schweickert Erik",
+        "gruppeRaw": "FDP/DVP",
+        "roleRaw": "",
+        "startOffset": 6755,
+        "endOffset": 7040,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T04:58:02",
+      "dateEnd": "2025-03-13T05:00:18",
+      "speechIndex": 63,
+      "originID": "17118_2_7040",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 6 Antrag der Fraktion der FDP/DVP: und Stellungnahme des Staatsministeriums Bürokratieabbau vorantreiben III – Jetzt in die Umsetzung einsteigen! Drucksache 17/6199 (Dokument)",
+        "title": "TOP 6 Antrag der Fraktion der FDP/DVP",
+        "id": "TOP-6",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Daniel Born",
+          "context": "vice-president",
+          "firstname": "Daniel",
+          "lastname": "Born",
+          "role": "stellv. Präsident",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q23560213",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_2.mp4#t=7040,7176",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563200#t=7040",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_2_7040",
+        "additionalInformation": {
+          "startOffset": 7040.0,
+          "endOffset": 7176.0,
+          "clockStart": "01:57:20"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 2,
+        "topIndex": 2,
+        "rednerRaw": "Born Daniel",
+        "gruppeRaw": "SPD",
+        "roleRaw": "stellv. Präsident",
+        "startOffset": 7040,
+        "endOffset": 7176,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 118,
+        "dateStart": "2025-03-13T00:00:01",
+        "dateEnd": "2025-03-13T05:00:18"
+      },
+      "dateStart": "2025-03-13T05:00:18",
+      "dateEnd": "2025-03-13T05:00:18",
+      "speechIndex": 64,
+      "originID": "17118_2_7176",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 7 bis TOP 22 Beschlussempfehlungen: und Berichte",
+        "title": "TOP 7 bis TOP 22 Beschlussempfehlungen",
+        "id": "TOP-7",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Daniel Born",
+          "context": "vice-president",
+          "firstname": "Daniel",
+          "lastname": "Born",
+          "role": "stellv. Präsident",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q23560213",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_2.mp4#t=7176",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563200#t=7176",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17118_2_7176",
+        "additionalInformation": {
+          "startOffset": 7176.0,
+          "clockStart": "01:59:36"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 2,
+        "topIndex": 3,
+        "rednerRaw": "Born Daniel",
+        "gruppeRaw": "SPD",
+        "roleRaw": "stellv. Präsident",
+        "startOffset": 7176,
+        "endOffset": null,
+        "timesAreVideoRelative": true
+      }
+    }
+  ]
+}

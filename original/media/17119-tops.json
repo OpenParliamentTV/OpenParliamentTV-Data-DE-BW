@@ -1,0 +1,328 @@
+{
+  "session_id": "17119",
+  "wp": 17,
+  "sitzung": 119,
+  "date": "2025-04-02",
+  "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638",
+  "parts": [
+    {
+      "part": 1,
+      "mp4_url": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4",
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638",
+      "tops": [
+        {
+          "index": 0,
+          "title": "Beginn der Sitzung Begrüßung",
+          "description": "der neuen Abgeordneten Rüdiger Tonojan (GRÜNE) und Sandro Scheer (AfD)",
+          "speeches": [
+            {
+              "name_raw": "Aras Muhterem",
+              "meta_raw": "| Präsidentin | GRÜNE",
+              "start_offset": 1,
+              "clock": "00:00:01"
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Aktuelle Debatte",
+          "description": "Damit Baden-Württemberg Automobilland bleibt – mit Innovation und Tatkraft für Stabilität in stürmischen Zeiten Beantragt von der Fraktion der CDU",
+          "speeches": [
+            {
+              "name_raw": "Aras Muhterem",
+              "meta_raw": "| Präsidentin | GRÜNE",
+              "start_offset": 229,
+              "clock": "00:03:49"
+            },
+            {
+              "name_raw": "Mack Winfried",
+              "meta_raw": "| CDU",
+              "start_offset": 269,
+              "clock": "00:04:29"
+            },
+            {
+              "name_raw": "Tok Tayfun",
+              "meta_raw": "| GRÜNE",
+              "start_offset": 649,
+              "clock": "00:10:49"
+            },
+            {
+              "name_raw": "Wahl Florian",
+              "meta_raw": "| SPD",
+              "start_offset": 1098,
+              "clock": "00:18:18"
+            },
+            {
+              "name_raw": "Haag Friedrich",
+              "meta_raw": "| FDP/DVP",
+              "start_offset": 1706,
+              "clock": "00:28:26"
+            },
+            {
+              "name_raw": "Gögel Bernd",
+              "meta_raw": "| AfD",
+              "start_offset": 2016,
+              "clock": "00:33:36"
+            },
+            {
+              "name_raw": "Hoffmeister-Kraut Nicole",
+              "meta_raw": "| CDU",
+              "start_offset": 2619,
+              "clock": "00:43:39"
+            },
+            {
+              "name_raw": "Dörflinger Thomas",
+              "meta_raw": "| CDU",
+              "start_offset": 3474,
+              "clock": "00:57:54"
+            },
+            {
+              "name_raw": "Reith Nikolai",
+              "meta_raw": "| FDP/DVP",
+              "start_offset": 3793,
+              "clock": "01:03:13"
+            },
+            {
+              "name_raw": "Aras Muhterem",
+              "meta_raw": "| Präsidentin | GRÜNE",
+              "start_offset": 4152,
+              "clock": "01:09:12"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Erste Beratung",
+          "description": "des Gesetzentwurfs der Landesregierung Gesetz zur Neuregelung des Rechts der öffentlich-rechtlichen Religions- und Weltanschauungsgemeinschaften Drucksache 17/8504 (Dokument)",
+          "speeches": [
+            {
+              "name_raw": "Aras Muhterem",
+              "meta_raw": "| Präsidentin | GRÜNE",
+              "start_offset": 4256,
+              "clock": "01:10:56"
+            },
+            {
+              "name_raw": "Schopper Theresa",
+              "meta_raw": "| GRÜNE",
+              "start_offset": 4271,
+              "clock": "01:11:11"
+            },
+            {
+              "name_raw": "Häusler Martina",
+              "meta_raw": "| GRÜNE",
+              "start_offset": 4540,
+              "clock": "01:15:40"
+            },
+            {
+              "name_raw": "Gehring Christian",
+              "meta_raw": "| CDU",
+              "start_offset": 4807,
+              "clock": "01:20:07"
+            },
+            {
+              "name_raw": "Born Daniel",
+              "meta_raw": "| SPD",
+              "start_offset": 5129,
+              "clock": "01:25:29"
+            },
+            {
+              "name_raw": "Kern Timm",
+              "meta_raw": "| FDP/DVP",
+              "start_offset": 5384,
+              "clock": "01:29:44"
+            },
+            {
+              "name_raw": "Klos Rüdiger",
+              "meta_raw": "| AfD",
+              "start_offset": 5695,
+              "clock": "01:34:55"
+            },
+            {
+              "name_raw": "Reinhart Wolfgang",
+              "meta_raw": "| stellv. Präsident | CDU",
+              "start_offset": 5955,
+              "clock": "01:39:15"
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "title": "TOP 3 Erste Beratung",
+          "description": "des Gesetzentwurfs der Landesregierung Gesetz zur Änderung des Privatschulgesetzes Drucksache 17/8587 (Dokument)",
+          "speeches": [
+            {
+              "name_raw": "Reinhart Wolfgang",
+              "meta_raw": "| stellv. Präsident | CDU",
+              "start_offset": 5988,
+              "clock": "01:39:48"
+            },
+            {
+              "name_raw": "Schopper Theresa",
+              "meta_raw": "| GRÜNE",
+              "start_offset": 5998,
+              "clock": "01:39:58"
+            },
+            {
+              "name_raw": "Saint-Cast Nadyne",
+              "meta_raw": "| GRÜNE",
+              "start_offset": 6233,
+              "clock": "01:43:53"
+            },
+            {
+              "name_raw": "Miller Matthias",
+              "meta_raw": "| CDU",
+              "start_offset": 6534,
+              "clock": "01:48:54"
+            },
+            {
+              "name_raw": "Fulst-Blei Stefan",
+              "meta_raw": "| SPD",
+              "start_offset": 6821,
+              "clock": "01:53:41"
+            },
+            {
+              "name_raw": "Kern Timm",
+              "meta_raw": "| FDP/DVP",
+              "start_offset": 7071,
+              "clock": "01:57:51"
+            },
+            {
+              "name_raw": "Hörner Hans-Peter",
+              "meta_raw": "| AfD",
+              "start_offset": 7339,
+              "clock": "02:02:19"
+            },
+            {
+              "name_raw": "Reinhart Wolfgang",
+              "meta_raw": "| stellv. Präsident | CDU",
+              "start_offset": 7675,
+              "clock": "02:07:55"
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "title": "TOP 4 Erste Beratung",
+          "description": "des Gesetzentwurfs der Fraktion der SPD Gesetz zum besseren Schutz vor Straftaten gegen die sexuelle Selbstbestimmung und Gefahren aufgrund häuslicher Gewalt Drucksache 17/8387 (Dokument)",
+          "speeches": [
+            {
+              "name_raw": "Reinhart Wolfgang",
+              "meta_raw": "| stellv. Präsident | CDU",
+              "start_offset": 7702,
+              "clock": "02:08:22"
+            },
+            {
+              "name_raw": "Binder Sascha",
+              "meta_raw": "| SPD",
+              "start_offset": 7739,
+              "clock": "02:08:59"
+            },
+            {
+              "name_raw": "Tuncer Fadime",
+              "meta_raw": "| GRÜNE",
+              "start_offset": 8097,
+              "clock": "02:14:57"
+            },
+            {
+              "name_raw": "Huber Isabell",
+              "meta_raw": "| CDU",
+              "start_offset": 8466,
+              "clock": "02:21:06"
+            },
+            {
+              "name_raw": "Goll Julia",
+              "meta_raw": "| FDP/DVP",
+              "start_offset": 8742,
+              "clock": "02:25:42"
+            },
+            {
+              "name_raw": "Lindenschmid Daniel",
+              "meta_raw": "| AfD",
+              "start_offset": 9069,
+              "clock": "02:31:09"
+            },
+            {
+              "name_raw": "Strobl Thomas",
+              "meta_raw": "| CDU",
+              "start_offset": 9339,
+              "clock": "02:35:39"
+            },
+            {
+              "name_raw": "Binder Sascha",
+              "meta_raw": "| SPD",
+              "start_offset": 10076,
+              "clock": "02:47:56"
+            },
+            {
+              "name_raw": "Born Daniel",
+              "meta_raw": "| stellv. Präsident | SPD",
+              "start_offset": 10256,
+              "clock": "02:50:56"
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "title": "TOP 5 Antrag der Fraktion der SPD",
+          "description": "und Stellungnahme des Ministeriums der Justiz und für Migration Schutz unseres demokratischen Staates, seiner Organe, Institutionen und Symbole Drucksache 17/3908 (Dokument)",
+          "speeches": [
+            {
+              "name_raw": "Born Daniel",
+              "meta_raw": "| stellv. Präsident | SPD",
+              "start_offset": 10285,
+              "clock": "02:51:25"
+            },
+            {
+              "name_raw": "Weirauch Boris",
+              "meta_raw": "| SPD",
+              "start_offset": 10351,
+              "clock": "02:52:31"
+            },
+            {
+              "name_raw": "Hildenbrand Oliver",
+              "meta_raw": "| GRÜNE",
+              "start_offset": 10962,
+              "clock": "03:02:42"
+            },
+            {
+              "name_raw": "Eyb Arnulf Freiherr von",
+              "meta_raw": "| CDU",
+              "start_offset": 11293,
+              "clock": "03:08:13"
+            },
+            {
+              "name_raw": "Weinmann Nico",
+              "meta_raw": "| FDP/DVP",
+              "start_offset": 11578,
+              "clock": "03:12:58"
+            },
+            {
+              "name_raw": "Lindenschmid Daniel",
+              "meta_raw": "| AfD",
+              "start_offset": 11876,
+              "clock": "03:17:56"
+            },
+            {
+              "name_raw": "Born Daniel",
+              "meta_raw": "| stellv. Präsident | SPD",
+              "start_offset": 12271,
+              "clock": "03:24:31"
+            },
+            {
+              "name_raw": "Gentges Marion",
+              "meta_raw": "| CDU",
+              "start_offset": 12314,
+              "clock": "03:25:14"
+            },
+            {
+              "name_raw": "Born Daniel",
+              "meta_raw": "| stellv. Präsident | SPD",
+              "start_offset": 12931,
+              "clock": "03:35:31"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

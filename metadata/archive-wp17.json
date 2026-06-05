@@ -1,0 +1,1674 @@
+{
+  "wp": 17,
+  "built": "2026-06-02T11:13:50",
+  "sessions": [
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/142-sitzung-vom-25-februar-2026-618658",
+      "sitzung": 142,
+      "date": "2026-02-25",
+      "session_id": "17142"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/141-sitzung-vom-5-februar-2026-617950",
+      "sitzung": 141,
+      "date": "2026-02-05",
+      "session_id": "17141"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/141-sitzung-vom-5-februar-2026-615644",
+      "sitzung": 141,
+      "date": "2026-02-05",
+      "session_id": "17141"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/141-sitzung-vom-5-februar-2026-615640",
+      "sitzung": 141,
+      "date": "2026-02-05",
+      "session_id": "17141"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/140-sitzung-vom-4-februar-2026-615636",
+      "sitzung": 140,
+      "date": "2026-02-04",
+      "session_id": "17140"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/140-sitzung-vom-4-februar-2026-615632",
+      "sitzung": 140,
+      "date": "2026-02-04",
+      "session_id": "17140"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/139-sitzung-vom-28-januar-2026-616652",
+      "sitzung": 139,
+      "date": "2026-01-28",
+      "session_id": "17139"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/139-sitzung-vom-28-januar-2026-615906",
+      "sitzung": 139,
+      "date": "2026-01-28",
+      "session_id": "17139"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/139-sitzung-vom-28-januar-2026-615630",
+      "sitzung": 139,
+      "date": "2026-01-28",
+      "session_id": "17139"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/138-sitzung-vom-11-dezember-2025-609388",
+      "sitzung": 138,
+      "date": "2025-12-11",
+      "session_id": "17138"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/138-sitzung-vom-11-dezember-2025-609386",
+      "sitzung": 138,
+      "date": "2025-12-11",
+      "session_id": "17138"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/138-sitzung-vom-11-dezember-2025-609384",
+      "sitzung": 138,
+      "date": "2025-12-11",
+      "session_id": "17138"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/137-sitzung-vom-10-dezember-2025-609382",
+      "sitzung": 137,
+      "date": "2025-12-10",
+      "session_id": "17137"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/137-sitzung-vom-10-dezember-2025-609380",
+      "sitzung": 137,
+      "date": "2025-12-10",
+      "session_id": "17137"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/137-sitzung-vom-10-dezember-2025-609374",
+      "sitzung": 137,
+      "date": "2025-12-10",
+      "session_id": "17137"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/136-sitzung-vom-3-dezember-2025-607360",
+      "sitzung": 136,
+      "date": "2025-12-03",
+      "session_id": "17136"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/135-sitzung-vom-13-november-2025-604386",
+      "sitzung": 135,
+      "date": "2025-11-13",
+      "session_id": "17135"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/135-sitzung-vom-13-november-2025-604384",
+      "sitzung": 135,
+      "date": "2025-11-13",
+      "session_id": "17135"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/134-sitzung-vom-12-november-2025-604382",
+      "sitzung": 134,
+      "date": "2025-11-12",
+      "session_id": "17134"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/134-sitzung-vom-12-november-2025-604380",
+      "sitzung": 134,
+      "date": "2025-11-12",
+      "session_id": "17134"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/133-sitzung-vom-5-november-2025-602648",
+      "sitzung": 133,
+      "date": "2025-11-05",
+      "session_id": "17133"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/132-sitzung-vom-16-oktober-2025-599652",
+      "sitzung": 132,
+      "date": "2025-10-16",
+      "session_id": "17132"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/132-sitzung-vom-16-oktober-2025-599650",
+      "sitzung": 132,
+      "date": "2025-10-16",
+      "session_id": "17132"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/131-sitzung-vom-15-oktober-2025-599648",
+      "sitzung": 131,
+      "date": "2025-10-15",
+      "session_id": "17131"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/131-sitzung-vom-15-oktober-2025-599646",
+      "sitzung": 131,
+      "date": "2025-10-15",
+      "session_id": "17131"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/130-sitzung-vom-8-oktober-2025-597700",
+      "sitzung": 130,
+      "date": "2025-10-08",
+      "session_id": "17130"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/129-sitzung-vom-24-juli-2025-583536",
+      "sitzung": 129,
+      "date": "2025-07-24",
+      "session_id": "17129"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/129-sitzung-vom-24-juli-2025-583534",
+      "sitzung": 129,
+      "date": "2025-07-24",
+      "session_id": "17129"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/128-sitzung-vom-23-juli-2025-583532",
+      "sitzung": 128,
+      "date": "2025-07-23",
+      "session_id": "17128"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/128-sitzung-vom-23-juli-2025-583530",
+      "sitzung": 128,
+      "date": "2025-07-23",
+      "session_id": "17128"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/127-sitzung-vom-16-juli-2025-582506",
+      "sitzung": 127,
+      "date": "2025-07-16",
+      "session_id": "17127"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/126-sitzung-vom-2-juli-2025-580566",
+      "sitzung": 126,
+      "date": "2025-07-02",
+      "session_id": "17126"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/126-sitzung-vom-2-juli-2025-580564",
+      "sitzung": 126,
+      "date": "2025-07-02",
+      "session_id": "17126"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/125-sitzung-vom-25-juni-2025-579358",
+      "sitzung": 125,
+      "date": "2025-06-25",
+      "session_id": "17125"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/124-sitzung-vom-22-mai-2025-574638",
+      "sitzung": 124,
+      "date": "2025-05-22",
+      "session_id": "17124"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/124-sitzung-vom-22-mai-2025-574636",
+      "sitzung": 124,
+      "date": "2025-05-22",
+      "session_id": "17124"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/123-sitzung-vom-21-mai-2025-574630",
+      "sitzung": 123,
+      "date": "2025-05-21",
+      "session_id": "17123"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/123-sitzung-vom-21-mai-2025-574628",
+      "sitzung": 123,
+      "date": "2025-05-21",
+      "session_id": "17123"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/122-sitzung-vom-14-mai-2025-573124",
+      "sitzung": 122,
+      "date": "2025-05-14",
+      "session_id": "17122"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/121-sitzung-vom-10-april-2025-567730",
+      "sitzung": 121,
+      "date": "2025-04-10",
+      "session_id": "17121"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/121-sitzung-vom-10-april-2025-567728",
+      "sitzung": 121,
+      "date": "2025-04-10",
+      "session_id": "17121"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/120-sitzung-vom-9-april-2025-567726",
+      "sitzung": 120,
+      "date": "2025-04-09",
+      "session_id": "17120"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/120-sitzung-vom-9-april-2025-567724",
+      "sitzung": 120,
+      "date": "2025-04-09",
+      "session_id": "17120"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638",
+      "sitzung": 119,
+      "date": "2025-04-02",
+      "session_id": "17119"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563200",
+      "sitzung": 118,
+      "date": "2025-03-13",
+      "session_id": "17118"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563198",
+      "sitzung": 118,
+      "date": "2025-03-13",
+      "session_id": "17118"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/117-sitzung-vom-12-maerz-2025-563192",
+      "sitzung": 117,
+      "date": "2025-03-12",
+      "session_id": "17117"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/117-sitzung-vom-12-maerz-2025-563190",
+      "sitzung": 117,
+      "date": "2025-03-12",
+      "session_id": "17117"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/116-sitzung-vom-19-februar-2025-559308",
+      "sitzung": 116,
+      "date": "2025-02-19",
+      "session_id": "17116"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/115-sitzung-vom-30-januar-2025-556190",
+      "sitzung": 115,
+      "date": "2025-01-30",
+      "session_id": "17115"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/115-sitzung-vom-30-januar-2025-556070",
+      "sitzung": 115,
+      "date": "2025-01-30",
+      "session_id": "17115"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/114-sitzung-vom-29-januar-2025-556040",
+      "sitzung": 114,
+      "date": "2025-01-29",
+      "session_id": "17114"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/114-sitzung-vom-29-januar-2025-555862",
+      "sitzung": 114,
+      "date": "2025-01-29",
+      "session_id": "17114"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/113-sitzung-vom-22-januar-2025-554630",
+      "sitzung": 113,
+      "date": "2025-01-22",
+      "session_id": "17113"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/112-sitzung-vom-18-dezember-2024-548126",
+      "sitzung": 112,
+      "date": "2024-12-18",
+      "session_id": "17112"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/112-sitzung-vom-18-dezember-2024-548122",
+      "sitzung": 112,
+      "date": "2024-12-18",
+      "session_id": "17112"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/111-sitzung-vom-13-dezember-2024-547900",
+      "sitzung": 111,
+      "date": "2024-12-13",
+      "session_id": "17111"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/111-sitzung-vom-13-dezember-2024-547906",
+      "sitzung": 111,
+      "date": "2024-12-13",
+      "session_id": "17111"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/111-sitzung-vom-13-dezember-2024-547904",
+      "sitzung": 111,
+      "date": "2024-12-13",
+      "session_id": "17111"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/110-sitzung-vom-12-dezember-2024-547910",
+      "sitzung": 110,
+      "date": "2024-12-12",
+      "session_id": "17110"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/110-sitzung-vom-12-dezember-2024-547908",
+      "sitzung": 110,
+      "date": "2024-12-12",
+      "session_id": "17110"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/110-sitzung-vom-12-dezember-2024-547902",
+      "sitzung": 110,
+      "date": "2024-12-12",
+      "session_id": "17110"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/109-sitzung-vom-11-dezember-2024-524552",
+      "sitzung": 109,
+      "date": "2024-12-11",
+      "session_id": "17109"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/109-sitzung-vom-11-dezember-2024-524550",
+      "sitzung": 109,
+      "date": "2024-12-11",
+      "session_id": "17109"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/109-sitzung-vom-11-dezember-2024-524546",
+      "sitzung": 109,
+      "date": "2024-12-11",
+      "session_id": "17109"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/109-sitzung-vom-11-dezember-2024-524548",
+      "sitzung": 109,
+      "date": "2024-12-11",
+      "session_id": "17109"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/108-sitzung-vom-7-november-2024-508082",
+      "sitzung": 108,
+      "date": "2024-11-07",
+      "session_id": "17108"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/108-sitzung-vom-7-november-2024-508080",
+      "sitzung": 108,
+      "date": "2024-11-07",
+      "session_id": "17108"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/107-sitzung-vom-6-november-2024-508078",
+      "sitzung": 107,
+      "date": "2024-11-06",
+      "session_id": "17107"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/107-sitzung-vom-6-november-2024-508076",
+      "sitzung": 107,
+      "date": "2024-11-06",
+      "session_id": "17107"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/106-sitzung-vom-23-oktober-2024-508072",
+      "sitzung": 106,
+      "date": "2024-10-23",
+      "session_id": "17106"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/105-sitzung-vom-10-oktober-2024-480834",
+      "sitzung": 105,
+      "date": "2024-10-10",
+      "session_id": "17105"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/105-sitzung-vom-10-oktober-2024-480832",
+      "sitzung": 105,
+      "date": "2024-10-10",
+      "session_id": "17105"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/104-sitzung-vom-9-oktober-2024-480830",
+      "sitzung": 104,
+      "date": "2024-10-09",
+      "session_id": "17104"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/104-sitzung-vom-9-oktober-2024-480828",
+      "sitzung": 104,
+      "date": "2024-10-09",
+      "session_id": "17104"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/103-sitzung-vom-25-september-2024-477448",
+      "sitzung": 103,
+      "date": "2024-09-25",
+      "session_id": "17103"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/103-sitzung-vom-25-september-2024-477450",
+      "sitzung": 103,
+      "date": "2024-09-25",
+      "session_id": "17103"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/102-sitzung-vom-18-juli-2024-477452",
+      "sitzung": 102,
+      "date": "2024-07-18",
+      "session_id": "17102"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/102-sitzung-vom-18-juli-2024-477454",
+      "sitzung": 102,
+      "date": "2024-07-18",
+      "session_id": "17102"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/101-sitzung-vom-17-juli-2024-477456",
+      "sitzung": 101,
+      "date": "2024-07-17",
+      "session_id": "17101"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/101-sitzung-vom-17-juli-2024-477458",
+      "sitzung": 101,
+      "date": "2024-07-17",
+      "session_id": "17101"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/100-sitzung-vom-10-juli-2024-477460",
+      "sitzung": 100,
+      "date": "2024-07-10",
+      "session_id": "17100"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/99-sitzung-vom-20-juni-2024-477482",
+      "sitzung": 99,
+      "date": "2024-06-20",
+      "session_id": "17099"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/99-sitzung-vom-20-juni-2024-477484",
+      "sitzung": 99,
+      "date": "2024-06-20",
+      "session_id": "17099"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/98-sitzung-vom-19-juni-2024-477486",
+      "sitzung": 98,
+      "date": "2024-06-19",
+      "session_id": "17098"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/98-sitzung-vom-19-juni-2024-477488",
+      "sitzung": 98,
+      "date": "2024-06-19",
+      "session_id": "17098"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/97-sitzung-vom-12-juni-2024-477490",
+      "sitzung": 97,
+      "date": "2024-06-12",
+      "session_id": "17097"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/96-sitzung-vom-16-mai-2024-477512",
+      "sitzung": 96,
+      "date": "2024-05-16",
+      "session_id": "17096"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/96-sitzung-vom-16-mai-2024-477514",
+      "sitzung": 96,
+      "date": "2024-05-16",
+      "session_id": "17096"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/95-sitzung-vom-15-mai-2024-477516",
+      "sitzung": 95,
+      "date": "2024-05-15",
+      "session_id": "17095"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/95-sitzung-vom-15-mai-2024-477518",
+      "sitzung": 95,
+      "date": "2024-05-15",
+      "session_id": "17095"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/94-sitzung-vom-8-mai-2024-477520",
+      "sitzung": 94,
+      "date": "2024-05-08",
+      "session_id": "17094"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/93-sitzung-vom-18-april-2024-477522",
+      "sitzung": 93,
+      "date": "2024-04-18",
+      "session_id": "17093"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/93-sitzung-vom-18-april-2024-477524",
+      "sitzung": 93,
+      "date": "2024-04-18",
+      "session_id": "17093"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/92-sitzung-vom-17-april-2024-477526",
+      "sitzung": 92,
+      "date": "2024-04-17",
+      "session_id": "17092"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/92-sitzung-vom-17-april-2024-477528",
+      "sitzung": 92,
+      "date": "2024-04-17",
+      "session_id": "17092"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/91-sitzung-vom-10-april-2024-477530",
+      "sitzung": 91,
+      "date": "2024-04-10",
+      "session_id": "17091"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/90-sitzung-vom-7-maerz-2024-477532",
+      "sitzung": 90,
+      "date": "2024-03-07",
+      "session_id": "17090"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/90-sitzung-vom-7-maerz-2024-477534",
+      "sitzung": 90,
+      "date": "2024-03-07",
+      "session_id": "17090"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/89-sitzung-vom-6-maerz-2024-477536",
+      "sitzung": 89,
+      "date": "2024-03-06",
+      "session_id": "17089"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/89-sitzung-vom-6-maerz-2024-477538",
+      "sitzung": 89,
+      "date": "2024-03-06",
+      "session_id": "17089"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/88-sitzung-vom-28-februar-2024-477558",
+      "sitzung": 88,
+      "date": "2024-02-28",
+      "session_id": "17088"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/87-sitzung-vom-1-februar-2024-477560",
+      "sitzung": 87,
+      "date": "2024-02-01",
+      "session_id": "17087"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/87-sitzung-vom-1-februar-2024-477562",
+      "sitzung": 87,
+      "date": "2024-02-01",
+      "session_id": "17087"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/86-sitzung-vom-31-januar-2024-477564",
+      "sitzung": 86,
+      "date": "2024-01-31",
+      "session_id": "17086"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/86-sitzung-vom-31-januar-2024-477566",
+      "sitzung": 86,
+      "date": "2024-01-31",
+      "session_id": "17086"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/85-sitzung-vom-24-januar-2024-510534",
+      "sitzung": 85,
+      "date": "2024-01-24",
+      "session_id": "17085"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/84-sitzung-vom-21-dezember-2023-477586",
+      "sitzung": 84,
+      "date": "2023-12-21",
+      "session_id": "17084"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/84-sitzung-vom-21-dezember-2023-477588",
+      "sitzung": 84,
+      "date": "2023-12-21",
+      "session_id": "17084"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/83-sitzung-vom-20-dezember-2023-477590",
+      "sitzung": 83,
+      "date": "2023-12-20",
+      "session_id": "17083"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/83-sitzung-vom-20-dezember-2023-477592",
+      "sitzung": 83,
+      "date": "2023-12-20",
+      "session_id": "17083"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/82-sitzung-vom-13-dezember-2023-477594",
+      "sitzung": 82,
+      "date": "2023-12-13",
+      "session_id": "17082"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/81-sitzung-vom-30-november-2023-477596",
+      "sitzung": 81,
+      "date": "2023-11-30",
+      "session_id": "17081"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/81-sitzung-vom-30-november-2023-477598",
+      "sitzung": 81,
+      "date": "2023-11-30",
+      "session_id": "17081"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/80-sitzung-vom-29-november-2023-477616",
+      "sitzung": 80,
+      "date": "2023-11-29",
+      "session_id": "17080"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/80-sitzung-vom-29-november-2023-477618",
+      "sitzung": 80,
+      "date": "2023-11-29",
+      "session_id": "17080"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/79-sitzung-vom-22-november-2023-477620",
+      "sitzung": 79,
+      "date": "2023-11-22",
+      "session_id": "17079"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/78-sitzung-vom-9-november-2023-477622",
+      "sitzung": 78,
+      "date": "2023-11-09",
+      "session_id": "17078"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/78-sitzung-vom-9-november-2023-477624",
+      "sitzung": 78,
+      "date": "2023-11-09",
+      "session_id": "17078"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/77-sitzung-vom-8-november-2023-477626",
+      "sitzung": 77,
+      "date": "2023-11-08",
+      "session_id": "17077"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/77-sitzung-vom-8-november-2023-477644",
+      "sitzung": 77,
+      "date": "2023-11-08",
+      "session_id": "17077"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/76-sitzung-vom-25-oktober-2023-477646",
+      "sitzung": 76,
+      "date": "2023-10-25",
+      "session_id": "17076"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/75-sitzung-vom-12-oktober-2023-477648",
+      "sitzung": 75,
+      "date": "2023-10-12",
+      "session_id": "17075"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/75-sitzung-vom-12-oktober-2023-477650",
+      "sitzung": 75,
+      "date": "2023-10-12",
+      "session_id": "17075"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/74-sitzung-vom-11-oktober-2023-477652",
+      "sitzung": 74,
+      "date": "2023-10-11",
+      "session_id": "17074"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/74-sitzung-vom-11-oktober-2023-477654",
+      "sitzung": 74,
+      "date": "2023-10-11",
+      "session_id": "17074"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/73-sitzung-vom-27-september-2023-477656",
+      "sitzung": 73,
+      "date": "2023-09-27",
+      "session_id": "17073"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/72-sitzung-vom-20-juli-2023-477658",
+      "sitzung": 72,
+      "date": "2023-07-20",
+      "session_id": "17072"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/72-sitzung-vom-20-juli-2023-477660",
+      "sitzung": 72,
+      "date": "2023-07-20",
+      "session_id": "17072"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/71-sitzung-vom-19-juli-2023-477662",
+      "sitzung": 71,
+      "date": "2023-07-19",
+      "session_id": "17071"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/71-sitzung-vom-19-juli-2023-477664",
+      "sitzung": 71,
+      "date": "2023-07-19",
+      "session_id": "17071"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/70-sitzung-vom-12-juli-2023-477688",
+      "sitzung": 70,
+      "date": "2023-07-12",
+      "session_id": "17070"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/69-sitzung-vom-29-juni-2023-477686",
+      "sitzung": 69,
+      "date": "2023-06-29",
+      "session_id": "17069"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/69-sitzung-vom-29-juni-2023-477690",
+      "sitzung": 69,
+      "date": "2023-06-29",
+      "session_id": "17069"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/69-sitzung-vom-29-juni-2023-477692",
+      "sitzung": 69,
+      "date": "2023-06-29",
+      "session_id": "17069"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/68-sitzung-vom-28-juni-2023-477694",
+      "sitzung": 68,
+      "date": "2023-06-28",
+      "session_id": "17068"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/68-sitzung-vom-28-juni-2023-477696",
+      "sitzung": 68,
+      "date": "2023-06-28",
+      "session_id": "17068"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/67-sitzung-vom-21-juni-2023-477698",
+      "sitzung": 67,
+      "date": "2023-06-21",
+      "session_id": "17067"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/66-sitzung-vom-25-mai-2023-477720",
+      "sitzung": 66,
+      "date": "2023-05-25",
+      "session_id": "17066"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/66-sitzung-vom-25-mai-2023-477722",
+      "sitzung": 66,
+      "date": "2023-05-25",
+      "session_id": "17066"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/65-sitzung-vom-24-mai-2023-477724",
+      "sitzung": 65,
+      "date": "2023-05-24",
+      "session_id": "17065"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/65-sitzung-vom-24-mai-2023-477726",
+      "sitzung": 65,
+      "date": "2023-05-24",
+      "session_id": "17065"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/64-sitzung-vom-10-mai-2023-477728",
+      "sitzung": 64,
+      "date": "2023-05-10",
+      "session_id": "17064"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/63-sitzung-vom-20-april-2023-477754",
+      "sitzung": 63,
+      "date": "2023-04-20",
+      "session_id": "17063"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/63-sitzung-vom-20-april-2023-477756",
+      "sitzung": 63,
+      "date": "2023-04-20",
+      "session_id": "17063"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/62-sitzung-vom-19-april-2023-477758",
+      "sitzung": 62,
+      "date": "2023-04-19",
+      "session_id": "17062"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/62-sitzung-vom-19-april-2023-477760",
+      "sitzung": 62,
+      "date": "2023-04-19",
+      "session_id": "17062"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/61-sitzung-vom-29-maerz-2023-477762",
+      "sitzung": 61,
+      "date": "2023-03-29",
+      "session_id": "17061"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/60-sitzung-vom-9-maerz-2023-477782",
+      "sitzung": 60,
+      "date": "2023-03-09",
+      "session_id": "17060"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/60-sitzung-vom-9-maerz-2023-477784",
+      "sitzung": 60,
+      "date": "2023-03-09",
+      "session_id": "17060"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/59-sitzung-vom-8-maerz-2023-477786",
+      "sitzung": 59,
+      "date": "2023-03-08",
+      "session_id": "17059"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/59-sitzung-vom-8-maerz-2023-477788",
+      "sitzung": 59,
+      "date": "2023-03-08",
+      "session_id": "17059"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/58-sitzung-vom-1-maerz-2023-477810",
+      "sitzung": 58,
+      "date": "2023-03-01",
+      "session_id": "17058"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/57-sitzung-vom-2-februar-2023-477812",
+      "sitzung": 57,
+      "date": "2023-02-02",
+      "session_id": "17057"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/57-sitzung-vom-2-februar-2023-477814",
+      "sitzung": 57,
+      "date": "2023-02-02",
+      "session_id": "17057"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/56-sitzung-vom-1-februar-2023-477816",
+      "sitzung": 56,
+      "date": "2023-02-01",
+      "session_id": "17056"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/56-sitzung-vom-1-februar-2023-477818",
+      "sitzung": 56,
+      "date": "2023-02-01",
+      "session_id": "17056"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/55-sitzung-vom-25-januar-2023-477820",
+      "sitzung": 55,
+      "date": "2023-01-25",
+      "session_id": "17055"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/54-sitzung-vom-21-dezember-2022-477824",
+      "sitzung": 54,
+      "date": "2022-12-21",
+      "session_id": "17054"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/54-sitzung-vom-21-dezember-2022-477844",
+      "sitzung": 54,
+      "date": "2022-12-21",
+      "session_id": "17054"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/53-sitzung-vom-16-dezember-2022-477822",
+      "sitzung": 53,
+      "date": "2022-12-16",
+      "session_id": "17053"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/53-sitzung-vom-16-dezember-2022-477846",
+      "sitzung": 53,
+      "date": "2022-12-16",
+      "session_id": "17053"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/52-sitzung-vom-15-dezember-2022-477848",
+      "sitzung": 52,
+      "date": "2022-12-15",
+      "session_id": "17052"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/52-sitzung-vom-15-dezember-2022-477850",
+      "sitzung": 52,
+      "date": "2022-12-15",
+      "session_id": "17052"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/52-sitzung-vom-15-dezember-2022-477852",
+      "sitzung": 52,
+      "date": "2022-12-15",
+      "session_id": "17052"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/51-sitzung-vom-14-dezember-2022-477854",
+      "sitzung": 51,
+      "date": "2022-12-14",
+      "session_id": "17051"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/51-sitzung-vom-14-dezember-2022-477856",
+      "sitzung": 51,
+      "date": "2022-12-14",
+      "session_id": "17051"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/51-sitzung-vom-14-dezember-2022-477858",
+      "sitzung": 51,
+      "date": "2022-12-14",
+      "session_id": "17051"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/50-sitzung-vom-10-november-2022-477878",
+      "sitzung": 50,
+      "date": "2022-11-10",
+      "session_id": "17050"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/50-sitzung-vom-10-november-2022-477882",
+      "sitzung": 50,
+      "date": "2022-11-10",
+      "session_id": "17050"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/50-sitzung-vom-10-november-2022-477880",
+      "sitzung": 50,
+      "date": "2022-11-10",
+      "session_id": "17050"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/50-sitzung-vom-10-november-2022-477884",
+      "sitzung": 50,
+      "date": "2022-11-10",
+      "session_id": "17050"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/49-sitzung-vom-9-november-2022-477886",
+      "sitzung": 49,
+      "date": "2022-11-09",
+      "session_id": "17049"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/49-sitzung-vom-9-november-2022-477888",
+      "sitzung": 49,
+      "date": "2022-11-09",
+      "session_id": "17049"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/48-sitzung-vom-26-oktober-2022-477904",
+      "sitzung": 48,
+      "date": "2022-10-26",
+      "session_id": "17048"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/47-sitzung-vom-13-oktober-2022-477906",
+      "sitzung": 47,
+      "date": "2022-10-13",
+      "session_id": "17047"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/47-sitzung-vom-13-oktober-2022-477908",
+      "sitzung": 47,
+      "date": "2022-10-13",
+      "session_id": "17047"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/46-sitzung-vom-12-oktober-2022-480674",
+      "sitzung": 46,
+      "date": "2022-10-12",
+      "session_id": "17046"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/46-sitzung-vom-12-oktober-2022-480672",
+      "sitzung": 46,
+      "date": "2022-10-12",
+      "session_id": "17046"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/45-sitzung-vom-28-september-2022-477910",
+      "sitzung": 45,
+      "date": "2022-09-28",
+      "session_id": "17045"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/44-sitzung-vom-21-juli-2022-477912",
+      "sitzung": 44,
+      "date": "2022-07-21",
+      "session_id": "17044"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/44-sitzung-vom-21-juli-2022-477914",
+      "sitzung": 44,
+      "date": "2022-07-21",
+      "session_id": "17044"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/43-sitzung-vom-20-juli-2022-477916",
+      "sitzung": 43,
+      "date": "2022-07-20",
+      "session_id": "17043"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/43-sitzung-vom-20-juli-2022-477918",
+      "sitzung": 43,
+      "date": "2022-07-20",
+      "session_id": "17043"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/42-sitzung-vom-13-juli-2022-477926",
+      "sitzung": 42,
+      "date": "2022-07-13",
+      "session_id": "17042"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/41-sitzung-vom-23-juni-2022-477928",
+      "sitzung": 41,
+      "date": "2022-06-23",
+      "session_id": "17041"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/41-sitzung-vom-23-juni-2022-477950",
+      "sitzung": 41,
+      "date": "2022-06-23",
+      "session_id": "17041"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/40-sitzung-vom-22-juni-2022-477952",
+      "sitzung": 40,
+      "date": "2022-06-22",
+      "session_id": "17040"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/40-sitzung-vom-22-juni-2022-477954",
+      "sitzung": 40,
+      "date": "2022-06-22",
+      "session_id": "17040"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/39-sitzung-vom-1-juni-2022-477956",
+      "sitzung": 39,
+      "date": "2022-06-01",
+      "session_id": "17039"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/38-sitzung-vom-12-mai-2022-477958",
+      "sitzung": 38,
+      "date": "2022-05-12",
+      "session_id": "17038"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/38-sitzung-vom-12-mai-2022-477960",
+      "sitzung": 38,
+      "date": "2022-05-12",
+      "session_id": "17038"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/37-sitzung-vom-11-mai-2022-477976",
+      "sitzung": 37,
+      "date": "2022-05-11",
+      "session_id": "17037"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/37-sitzung-vom-11-mai-2022-477978",
+      "sitzung": 37,
+      "date": "2022-05-11",
+      "session_id": "17037"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/36-sitzung-vom-4-mai-2022-477980",
+      "sitzung": 36,
+      "date": "2022-05-04",
+      "session_id": "17036"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/35-sitzung-vom-7-april-2022-477982",
+      "sitzung": 35,
+      "date": "2022-04-07",
+      "session_id": "17035"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/35-sitzung-vom-7-april-2022-477984",
+      "sitzung": 35,
+      "date": "2022-04-07",
+      "session_id": "17035"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/34-sitzung-vom-6-april-2022-478006",
+      "sitzung": 34,
+      "date": "2022-04-06",
+      "session_id": "17034"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/34-sitzung-vom-6-april-2022-478008",
+      "sitzung": 34,
+      "date": "2022-04-06",
+      "session_id": "17034"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/33-sitzung-vom-23-maerz-2022-478010",
+      "sitzung": 33,
+      "date": "2022-03-23",
+      "session_id": "17033"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/32-sitzung-vom-10-maerz-2022-478012",
+      "sitzung": 32,
+      "date": "2022-03-10",
+      "session_id": "17032"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/32-sitzung-vom-10-maerz-2022-478014",
+      "sitzung": 32,
+      "date": "2022-03-10",
+      "session_id": "17032"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/31-sitzung-vom-9-maerz-2022-478016",
+      "sitzung": 31,
+      "date": "2022-03-09",
+      "session_id": "17031"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/31-sitzung-vom-9-maerz-2022-478018",
+      "sitzung": 31,
+      "date": "2022-03-09",
+      "session_id": "17031"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/30-sitzung-vom-18-februar-2022-478020",
+      "sitzung": 30,
+      "date": "2022-02-18",
+      "session_id": "17030"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/29-sitzung-vom-16-februar-2022-478022",
+      "sitzung": 29,
+      "date": "2022-02-16",
+      "session_id": "17029"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/28-sitzung-vom-3-februar-2022-478044",
+      "sitzung": 28,
+      "date": "2022-02-03",
+      "session_id": "17028"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/28-sitzung-vom-3-februar-2022-478046",
+      "sitzung": 28,
+      "date": "2022-02-03",
+      "session_id": "17028"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/27-sitzung-vom-2-februar-2022-478048",
+      "sitzung": 27,
+      "date": "2022-02-02",
+      "session_id": "17027"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/27-sitzung-vom-2-februar-2022-478050",
+      "sitzung": 27,
+      "date": "2022-02-02",
+      "session_id": "17027"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/26-sitzung-vom-26-januar-2022-478052",
+      "sitzung": 26,
+      "date": "2022-01-26",
+      "session_id": "17026"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/25-sitzung-vom-22-dezember-2021-478072",
+      "sitzung": 25,
+      "date": "2021-12-22",
+      "session_id": "17025"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/25-sitzung-vom-22-dezember-2021-478078",
+      "sitzung": 25,
+      "date": "2021-12-22",
+      "session_id": "17025"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/24-sitzung-vom-17-dezember-2021-478074",
+      "sitzung": 24,
+      "date": "2021-12-17",
+      "session_id": "17024"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/24-sitzung-vom-17-dezember-2021-478080",
+      "sitzung": 24,
+      "date": "2021-12-17",
+      "session_id": "17024"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/23-sitzung-vom-16-dezember-2021-478082",
+      "sitzung": 23,
+      "date": "2021-12-16",
+      "session_id": "17023"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/23-sitzung-vom-16-dezember-2021-478084",
+      "sitzung": 23,
+      "date": "2021-12-16",
+      "session_id": "17023"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/23-sitzung-vom-16-dezember-2021-478086",
+      "sitzung": 23,
+      "date": "2021-12-16",
+      "session_id": "17023"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/22-sitzung-vom-15-dezember-2021-478088",
+      "sitzung": 22,
+      "date": "2021-12-15",
+      "session_id": "17022"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/22-sitzung-vom-15-dezember-2021-478114",
+      "sitzung": 22,
+      "date": "2021-12-15",
+      "session_id": "17022"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/22-sitzung-vom-15-dezember-2021-478116",
+      "sitzung": 22,
+      "date": "2021-12-15",
+      "session_id": "17022"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/21-sitzung-vom-7-dezember-2021-478076",
+      "sitzung": 21,
+      "date": "2021-12-07",
+      "session_id": "17021"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/20-sitzung-vom-24-november-2021-478118",
+      "sitzung": 20,
+      "date": "2021-11-24",
+      "session_id": "17020"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/19-sitzung-vom-11-november-2021-478122",
+      "sitzung": 19,
+      "date": "2021-11-11",
+      "session_id": "17019"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/19-sitzung-vom-11-november-2021-478124",
+      "sitzung": 19,
+      "date": "2021-11-11",
+      "session_id": "17019"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/18-sitzung-vom-10-november-2021-478126",
+      "sitzung": 18,
+      "date": "2021-11-10",
+      "session_id": "17018"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/18-sitzung-vom-10-november-2021-478150",
+      "sitzung": 18,
+      "date": "2021-11-10",
+      "session_id": "17018"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/17-sitzung-vom-27-oktober-2021-478152",
+      "sitzung": 17,
+      "date": "2021-10-27",
+      "session_id": "17017"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/16-sitzung-vom-21-oktober-2021-478156",
+      "sitzung": 16,
+      "date": "2021-10-21",
+      "session_id": "17016"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/16-sitzung-vom-21-oktober-2021-478160",
+      "sitzung": 16,
+      "date": "2021-10-21",
+      "session_id": "17016"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/15-sitzung-vom-20-oktober-2021-478158",
+      "sitzung": 15,
+      "date": "2021-10-20",
+      "session_id": "17015"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/15-sitzung-vom-20-oktober-2021-478162",
+      "sitzung": 15,
+      "date": "2021-10-20",
+      "session_id": "17015"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/14-sitzung-vom-7-oktober-2021-478166",
+      "sitzung": 14,
+      "date": "2021-10-07",
+      "session_id": "17014"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/14-sitzung-vom-7-oktober-2021-478168",
+      "sitzung": 14,
+      "date": "2021-10-07",
+      "session_id": "17014"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/13-sitzung-vom-6-oktober-2021-478172",
+      "sitzung": 13,
+      "date": "2021-10-06",
+      "session_id": "17013"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/13-sitzung-vom-6-oktober-2021-478176",
+      "sitzung": 13,
+      "date": "2021-10-06",
+      "session_id": "17013"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/12-sitzung-vom-29-september-2021-478180",
+      "sitzung": 12,
+      "date": "2021-09-29",
+      "session_id": "17012"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/11-sitzung-vom-22-juli-2021-478218",
+      "sitzung": 11,
+      "date": "2021-07-22",
+      "session_id": "17011"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/11-sitzung-vom-22-juli-2021-478220",
+      "sitzung": 11,
+      "date": "2021-07-22",
+      "session_id": "17011"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/10-sitzung-vom-21-juli-2021-478222",
+      "sitzung": 10,
+      "date": "2021-07-21",
+      "session_id": "17010"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/10-sitzung-vom-21-juli-2021-478224",
+      "sitzung": 10,
+      "date": "2021-07-21",
+      "session_id": "17010"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/9-sitzung-vom-14-juli-2021-478226",
+      "sitzung": 9,
+      "date": "2021-07-14",
+      "session_id": "17009"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/8-sitzung-vom-1-juli-2021-478228",
+      "sitzung": 8,
+      "date": "2021-07-01",
+      "session_id": "17008"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/8-sitzung-vom-1-juli-2021-478230",
+      "sitzung": 8,
+      "date": "2021-07-01",
+      "session_id": "17008"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/7-sitzung-vom-30-juni-2021-478232",
+      "sitzung": 7,
+      "date": "2021-06-30",
+      "session_id": "17007"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/7-sitzung-vom-30-juni-2021-478234",
+      "sitzung": 7,
+      "date": "2021-06-30",
+      "session_id": "17007"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/6-sitzung-vom-9-juni-2021-478236",
+      "sitzung": 6,
+      "date": "2021-06-09",
+      "session_id": "17006"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/5-sitzung-vom-20-mai-2021-478238",
+      "sitzung": 5,
+      "date": "2021-05-20",
+      "session_id": "17005"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/5-sitzung-vom-20-mai-2021-478260",
+      "sitzung": 5,
+      "date": "2021-05-20",
+      "session_id": "17005"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/4-sitzung-vom-19-mai-2021-478262",
+      "sitzung": 4,
+      "date": "2021-05-19",
+      "session_id": "17004"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/3-sitzung-vom-12-mai-2021-478264",
+      "sitzung": 3,
+      "date": "2021-05-12",
+      "session_id": "17003"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/2-sitzung-vom-12-mai-2021-480548",
+      "sitzung": 2,
+      "date": "2021-05-12",
+      "session_id": "17002"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/82-sitzung-vom-20-november-2013festakt-60-jahre-landesverfassung-p--478608",
+      "sitzung": 82,
+      "date": null,
+      "session_id": "17082"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/23-sitzung-vom-21-dezember-2011--478758",
+      "sitzung": 23,
+      "date": null,
+      "session_id": "17023"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/23-sitzung-vom-21-dezember-2011--478760",
+      "sitzung": 23,
+      "date": null,
+      "session_id": "17023"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/22-sitzung-vom-14-dezember-2011--478762",
+      "sitzung": 22,
+      "date": null,
+      "session_id": "17022"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/22-sitzung-vom-14-dezember-2011--478812",
+      "sitzung": 22,
+      "date": null,
+      "session_id": "17022"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/19-sitzung-vom-23-november-2011--478782",
+      "sitzung": 19,
+      "date": null,
+      "session_id": "17019"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/18-sitzung-vom-10-november-2011--478764",
+      "sitzung": 18,
+      "date": null,
+      "session_id": "17018"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/18-sitzung-vom-10-november-2011--478784",
+      "sitzung": 18,
+      "date": null,
+      "session_id": "17018"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/16-sitzung-vom-26-oktober-2011--478842",
+      "sitzung": 16,
+      "date": null,
+      "session_id": "17016"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/15-sitzung-vom-13-oktober-2011--478844",
+      "sitzung": 15,
+      "date": null,
+      "session_id": "17015"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/15-sitzung-vom-13-oktober-2011--478846",
+      "sitzung": 15,
+      "date": null,
+      "session_id": "17015"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/14-sitzung-vom-12-oktober-2011--478848",
+      "sitzung": 14,
+      "date": null,
+      "session_id": "17014"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/14-sitzung-vom-12-oktober-2011--478850",
+      "sitzung": 14,
+      "date": null,
+      "session_id": "17014"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/13-sitzung-vom-28-september-2011--478852",
+      "sitzung": 13,
+      "date": null,
+      "session_id": "17013"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/13-sitzung-vom-28-september-2011--478854",
+      "sitzung": 13,
+      "date": null,
+      "session_id": "17013"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/11-sitzung-vom-27-juli-2011--478856",
+      "sitzung": 11,
+      "date": null,
+      "session_id": "17011"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/10-sitzung-vom-21-juli-2011--478860",
+      "sitzung": 10,
+      "date": null,
+      "session_id": "17010"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/10-sitzung-vom-21-juli-2011--478858",
+      "sitzung": 10,
+      "date": null,
+      "session_id": "17010"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/9-sitzung-vom-20-juli-2011--478862",
+      "sitzung": 9,
+      "date": null,
+      "session_id": "17009"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/9-sitzung-vom-20-juli-2011--478864",
+      "sitzung": 9,
+      "date": null,
+      "session_id": "17009"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/8-sitzung-vom-13-juli-2011--478866",
+      "sitzung": 8,
+      "date": null,
+      "session_id": "17008"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/7-sitzung-vom-30-juni-2011--478870",
+      "sitzung": 7,
+      "date": null,
+      "session_id": "17007"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/6-sitzung-vom-29-juni-2011--478872",
+      "sitzung": 6,
+      "date": null,
+      "session_id": "17006"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/6-sitzung-vom-29-juni-2011--478874",
+      "sitzung": 6,
+      "date": null,
+      "session_id": "17006"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/5-sitzung-vom-26-mai-2011--478876",
+      "sitzung": 5,
+      "date": null,
+      "session_id": "17005"
+    },
+    {
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/5-sitzung-vom-26-mai-2011--478878",
+      "sitzung": 5,
+      "date": null,
+      "session_id": "17005"
+    }
+  ]
+}

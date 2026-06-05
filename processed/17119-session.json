@@ -1,0 +1,2782 @@
+{
+  "meta": {
+    "schemaVersion": "1.0",
+    "parliament": "DE-BW",
+    "electoralPeriod": {
+      "number": 17
+    },
+    "session": "17119",
+    "dateStart": "2025-04-02T00:00:01",
+    "dateEnd": "2025-04-02T03:35:31",
+    "sourceURI": "https://www.landtag-bw.de/de/mediathek/videos",
+    "processing": {
+      "parse_media": "2026-06-02T11:13:51",
+      "merge": "2026-06-02T11:13:51",
+      "nel": "2026-06-02T11:13:51"
+    },
+    "lastUpdate": "2026-06-02T11:13:51"
+  },
+  "data": [
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T00:00:01",
+      "dateEnd": "2025-04-02T00:03:49",
+      "speechIndex": 1,
+      "originID": "17119_1_1",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "Beginn der Sitzung Begrüßung: der neuen Abgeordneten Rüdiger Tonojan (GRÜNE) und Sandro Scheer (AfD)",
+        "title": "Beginn der Sitzung Begrüßung",
+        "id": "beginn-der-sitzung-begr-ung",
+        "nativeType": "DE-BW-opening",
+        "type": "opening"
+      },
+      "people": [
+        {
+          "label": "Muhterem Aras",
+          "context": "president",
+          "firstname": "Muhterem",
+          "lastname": "Aras",
+          "role": "Präsidentin",
+          "faction": {
+            "label": "GRÜNE",
+            "wid": "Q49766"
+          },
+          "wid": "Q1728542",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=1,229",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=1",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_1",
+        "additionalInformation": {
+          "startOffset": 1.0,
+          "endOffset": 229.0,
+          "clockStart": "00:00:01"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 0,
+        "rednerRaw": "Aras Muhterem",
+        "gruppeRaw": "GRÜNE",
+        "roleRaw": "Präsidentin",
+        "startOffset": 1,
+        "endOffset": 229,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T00:03:49",
+      "dateEnd": "2025-04-02T00:04:29",
+      "speechIndex": 2,
+      "originID": "17119_1_229",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1 Aktuelle Debatte: Damit Baden-Württemberg Automobilland bleibt – mit Innovation und Tatkraft für Stabilität in stürmischen Zeiten Beantragt von der Fraktion der CDU",
+        "title": "TOP 1 Aktuelle Debatte",
+        "id": "TOP-1",
+        "nativeType": "DE-BW-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Muhterem Aras",
+          "context": "president",
+          "firstname": "Muhterem",
+          "lastname": "Aras",
+          "role": "Präsidentin",
+          "faction": {
+            "label": "GRÜNE",
+            "wid": "Q49766"
+          },
+          "wid": "Q1728542",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=229,269",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=229",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_229",
+        "additionalInformation": {
+          "startOffset": 229.0,
+          "endOffset": 269.0,
+          "clockStart": "00:03:49"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 1,
+        "rednerRaw": "Aras Muhterem",
+        "gruppeRaw": "GRÜNE",
+        "roleRaw": "Präsidentin",
+        "startOffset": 229,
+        "endOffset": 269,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T00:04:29",
+      "dateEnd": "2025-04-02T00:10:49",
+      "speechIndex": 3,
+      "originID": "17119_1_269",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1 Aktuelle Debatte: Damit Baden-Württemberg Automobilland bleibt – mit Innovation und Tatkraft für Stabilität in stürmischen Zeiten Beantragt von der Fraktion der CDU",
+        "title": "TOP 1 Aktuelle Debatte",
+        "id": "TOP-1",
+        "nativeType": "DE-BW-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Winfried Mack",
+          "context": "main-speaker",
+          "firstname": "Winfried",
+          "lastname": "Mack",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q2584242",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=269,649",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=269",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_269",
+        "additionalInformation": {
+          "startOffset": 269.0,
+          "endOffset": 649.0,
+          "clockStart": "00:04:29"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 1,
+        "rednerRaw": "Mack Winfried",
+        "gruppeRaw": "CDU",
+        "roleRaw": "",
+        "startOffset": 269,
+        "endOffset": 649,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T00:10:49",
+      "dateEnd": "2025-04-02T00:18:18",
+      "speechIndex": 4,
+      "originID": "17119_1_649",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1 Aktuelle Debatte: Damit Baden-Württemberg Automobilland bleibt – mit Innovation und Tatkraft für Stabilität in stürmischen Zeiten Beantragt von der Fraktion der CDU",
+        "title": "TOP 1 Aktuelle Debatte",
+        "id": "TOP-1",
+        "nativeType": "DE-BW-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Tayfun Tok",
+          "context": "main-speaker",
+          "firstname": "Tayfun",
+          "lastname": "Tok",
+          "faction": {
+            "label": "GRÜNE",
+            "wid": "Q49766"
+          },
+          "wid": "Q106229294",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=649,1098",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=649",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_649",
+        "additionalInformation": {
+          "startOffset": 649.0,
+          "endOffset": 1098.0,
+          "clockStart": "00:10:49"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 1,
+        "rednerRaw": "Tok Tayfun",
+        "gruppeRaw": "GRÜNE",
+        "roleRaw": "",
+        "startOffset": 649,
+        "endOffset": 1098,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T00:18:18",
+      "dateEnd": "2025-04-02T00:28:26",
+      "speechIndex": 5,
+      "originID": "17119_1_1098",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1 Aktuelle Debatte: Damit Baden-Württemberg Automobilland bleibt – mit Innovation und Tatkraft für Stabilität in stürmischen Zeiten Beantragt von der Fraktion der CDU",
+        "title": "TOP 1 Aktuelle Debatte",
+        "id": "TOP-1",
+        "nativeType": "DE-BW-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Florian Wahl",
+          "context": "main-speaker",
+          "firstname": "Florian",
+          "lastname": "Wahl",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q990945",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=1098,1706",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=1098",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_1098",
+        "additionalInformation": {
+          "startOffset": 1098.0,
+          "endOffset": 1706.0,
+          "clockStart": "00:18:18"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 1,
+        "rednerRaw": "Wahl Florian",
+        "gruppeRaw": "SPD",
+        "roleRaw": "",
+        "startOffset": 1098,
+        "endOffset": 1706,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T00:28:26",
+      "dateEnd": "2025-04-02T00:33:36",
+      "speechIndex": 6,
+      "originID": "17119_1_1706",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1 Aktuelle Debatte: Damit Baden-Württemberg Automobilland bleibt – mit Innovation und Tatkraft für Stabilität in stürmischen Zeiten Beantragt von der Fraktion der CDU",
+        "title": "TOP 1 Aktuelle Debatte",
+        "id": "TOP-1",
+        "nativeType": "DE-BW-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Friedrich Haag",
+          "context": "main-speaker",
+          "firstname": "Friedrich",
+          "lastname": "Haag",
+          "faction": {
+            "label": "FDP/DVP",
+            "wid": "Q6539"
+          },
+          "wid": "Q106541776",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=1706,2016",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=1706",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_1706",
+        "additionalInformation": {
+          "startOffset": 1706.0,
+          "endOffset": 2016.0,
+          "clockStart": "00:28:26"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 1,
+        "rednerRaw": "Haag Friedrich",
+        "gruppeRaw": "FDP/DVP",
+        "roleRaw": "",
+        "startOffset": 1706,
+        "endOffset": 2016,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T00:33:36",
+      "dateEnd": "2025-04-02T00:43:39",
+      "speechIndex": 7,
+      "originID": "17119_1_2016",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1 Aktuelle Debatte: Damit Baden-Württemberg Automobilland bleibt – mit Innovation und Tatkraft für Stabilität in stürmischen Zeiten Beantragt von der Fraktion der CDU",
+        "title": "TOP 1 Aktuelle Debatte",
+        "id": "TOP-1",
+        "nativeType": "DE-BW-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Bernd Gögel",
+          "context": "main-speaker",
+          "firstname": "Bernd",
+          "lastname": "Gögel",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q23561607",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=2016,2619",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=2016",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_2016",
+        "additionalInformation": {
+          "startOffset": 2016.0,
+          "endOffset": 2619.0,
+          "clockStart": "00:33:36"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 1,
+        "rednerRaw": "Gögel Bernd",
+        "gruppeRaw": "AfD",
+        "roleRaw": "",
+        "startOffset": 2016,
+        "endOffset": 2619,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T00:43:39",
+      "dateEnd": "2025-04-02T00:57:54",
+      "speechIndex": 8,
+      "originID": "17119_1_2619",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1 Aktuelle Debatte: Damit Baden-Württemberg Automobilland bleibt – mit Innovation und Tatkraft für Stabilität in stürmischen Zeiten Beantragt von der Fraktion der CDU",
+        "title": "TOP 1 Aktuelle Debatte",
+        "id": "TOP-1",
+        "nativeType": "DE-BW-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Nicole Hoffmeister-Kraut",
+          "context": "main-speaker",
+          "firstname": "Nicole",
+          "lastname": "Hoffmeister-Kraut",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q23562251",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=2619,3474",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=2619",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_2619",
+        "additionalInformation": {
+          "startOffset": 2619.0,
+          "endOffset": 3474.0,
+          "clockStart": "00:43:39"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 1,
+        "rednerRaw": "Hoffmeister-Kraut Nicole",
+        "gruppeRaw": "CDU",
+        "roleRaw": "",
+        "startOffset": 2619,
+        "endOffset": 3474,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T00:57:54",
+      "dateEnd": "2025-04-02T01:03:13",
+      "speechIndex": 9,
+      "originID": "17119_1_3474",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1 Aktuelle Debatte: Damit Baden-Württemberg Automobilland bleibt – mit Innovation und Tatkraft für Stabilität in stürmischen Zeiten Beantragt von der Fraktion der CDU",
+        "title": "TOP 1 Aktuelle Debatte",
+        "id": "TOP-1",
+        "nativeType": "DE-BW-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Thomas Dörflinger",
+          "context": "main-speaker",
+          "firstname": "Thomas",
+          "lastname": "Dörflinger",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q23560748",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=3474,3793",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=3474",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_3474",
+        "additionalInformation": {
+          "startOffset": 3474.0,
+          "endOffset": 3793.0,
+          "clockStart": "00:57:54"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 1,
+        "rednerRaw": "Dörflinger Thomas",
+        "gruppeRaw": "CDU",
+        "roleRaw": "",
+        "startOffset": 3474,
+        "endOffset": 3793,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T01:03:13",
+      "dateEnd": "2025-04-02T01:09:12",
+      "speechIndex": 10,
+      "originID": "17119_1_3793",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1 Aktuelle Debatte: Damit Baden-Württemberg Automobilland bleibt – mit Innovation und Tatkraft für Stabilität in stürmischen Zeiten Beantragt von der Fraktion der CDU",
+        "title": "TOP 1 Aktuelle Debatte",
+        "id": "TOP-1",
+        "nativeType": "DE-BW-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Nikolai Reith",
+          "context": "main-speaker",
+          "firstname": "Nikolai",
+          "lastname": "Reith",
+          "faction": {
+            "label": "FDP/DVP",
+            "wid": "Q6539"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=3793,4152",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=3793",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_3793",
+        "additionalInformation": {
+          "startOffset": 3793.0,
+          "endOffset": 4152.0,
+          "clockStart": "01:03:13"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 1,
+        "rednerRaw": "Reith Nikolai",
+        "gruppeRaw": "FDP/DVP",
+        "roleRaw": "",
+        "startOffset": 3793,
+        "endOffset": 4152,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T01:09:12",
+      "dateEnd": "2025-04-02T01:10:56",
+      "speechIndex": 11,
+      "originID": "17119_1_4152",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1 Aktuelle Debatte: Damit Baden-Württemberg Automobilland bleibt – mit Innovation und Tatkraft für Stabilität in stürmischen Zeiten Beantragt von der Fraktion der CDU",
+        "title": "TOP 1 Aktuelle Debatte",
+        "id": "TOP-1",
+        "nativeType": "DE-BW-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Muhterem Aras",
+          "context": "president",
+          "firstname": "Muhterem",
+          "lastname": "Aras",
+          "role": "Präsidentin",
+          "faction": {
+            "label": "GRÜNE",
+            "wid": "Q49766"
+          },
+          "wid": "Q1728542",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=4152,4256",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=4152",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_4152",
+        "additionalInformation": {
+          "startOffset": 4152.0,
+          "endOffset": 4256.0,
+          "clockStart": "01:09:12"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 1,
+        "rednerRaw": "Aras Muhterem",
+        "gruppeRaw": "GRÜNE",
+        "roleRaw": "Präsidentin",
+        "startOffset": 4152,
+        "endOffset": 4256,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T01:10:56",
+      "dateEnd": "2025-04-02T01:11:11",
+      "speechIndex": 12,
+      "originID": "17119_1_4256",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 2 Erste Beratung: des Gesetzentwurfs der Landesregierung Gesetz zur Neuregelung des Rechts der öffentlich-rechtlichen Religions- und Weltanschauungsgemeinschaften Drucksache 17/8504 (Dokument)",
+        "title": "TOP 2 Erste Beratung",
+        "id": "TOP-2",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Muhterem Aras",
+          "context": "president",
+          "firstname": "Muhterem",
+          "lastname": "Aras",
+          "role": "Präsidentin",
+          "faction": {
+            "label": "GRÜNE",
+            "wid": "Q49766"
+          },
+          "wid": "Q1728542",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=4256,4271",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=4256",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_4256",
+        "additionalInformation": {
+          "startOffset": 4256.0,
+          "endOffset": 4271.0,
+          "clockStart": "01:10:56"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 2,
+        "rednerRaw": "Aras Muhterem",
+        "gruppeRaw": "GRÜNE",
+        "roleRaw": "Präsidentin",
+        "startOffset": 4256,
+        "endOffset": 4271,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T01:11:11",
+      "dateEnd": "2025-04-02T01:15:40",
+      "speechIndex": 13,
+      "originID": "17119_1_4271",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 2 Erste Beratung: des Gesetzentwurfs der Landesregierung Gesetz zur Neuregelung des Rechts der öffentlich-rechtlichen Religions- und Weltanschauungsgemeinschaften Drucksache 17/8504 (Dokument)",
+        "title": "TOP 2 Erste Beratung",
+        "id": "TOP-2",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Theresa Schopper",
+          "context": "main-speaker",
+          "firstname": "Theresa",
+          "lastname": "Schopper",
+          "faction": {
+            "label": "GRÜNE",
+            "wid": "Q49766"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=4271,4540",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=4271",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_4271",
+        "additionalInformation": {
+          "startOffset": 4271.0,
+          "endOffset": 4540.0,
+          "clockStart": "01:11:11"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 2,
+        "rednerRaw": "Schopper Theresa",
+        "gruppeRaw": "GRÜNE",
+        "roleRaw": "",
+        "startOffset": 4271,
+        "endOffset": 4540,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T01:15:40",
+      "dateEnd": "2025-04-02T01:20:07",
+      "speechIndex": 14,
+      "originID": "17119_1_4540",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 2 Erste Beratung: des Gesetzentwurfs der Landesregierung Gesetz zur Neuregelung des Rechts der öffentlich-rechtlichen Religions- und Weltanschauungsgemeinschaften Drucksache 17/8504 (Dokument)",
+        "title": "TOP 2 Erste Beratung",
+        "id": "TOP-2",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Martina Häusler",
+          "context": "main-speaker",
+          "firstname": "Martina",
+          "lastname": "Häusler",
+          "faction": {
+            "label": "GRÜNE",
+            "wid": "Q49766"
+          },
+          "wid": "Q105958426",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=4540,4807",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=4540",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_4540",
+        "additionalInformation": {
+          "startOffset": 4540.0,
+          "endOffset": 4807.0,
+          "clockStart": "01:15:40"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 2,
+        "rednerRaw": "Häusler Martina",
+        "gruppeRaw": "GRÜNE",
+        "roleRaw": "",
+        "startOffset": 4540,
+        "endOffset": 4807,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T01:20:07",
+      "dateEnd": "2025-04-02T01:25:29",
+      "speechIndex": 15,
+      "originID": "17119_1_4807",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 2 Erste Beratung: des Gesetzentwurfs der Landesregierung Gesetz zur Neuregelung des Rechts der öffentlich-rechtlichen Religions- und Weltanschauungsgemeinschaften Drucksache 17/8504 (Dokument)",
+        "title": "TOP 2 Erste Beratung",
+        "id": "TOP-2",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Christian Gehring",
+          "context": "main-speaker",
+          "firstname": "Christian",
+          "lastname": "Gehring",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q106082150",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=4807,5129",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=4807",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_4807",
+        "additionalInformation": {
+          "startOffset": 4807.0,
+          "endOffset": 5129.0,
+          "clockStart": "01:20:07"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 2,
+        "rednerRaw": "Gehring Christian",
+        "gruppeRaw": "CDU",
+        "roleRaw": "",
+        "startOffset": 4807,
+        "endOffset": 5129,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T01:25:29",
+      "dateEnd": "2025-04-02T01:29:44",
+      "speechIndex": 16,
+      "originID": "17119_1_5129",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 2 Erste Beratung: des Gesetzentwurfs der Landesregierung Gesetz zur Neuregelung des Rechts der öffentlich-rechtlichen Religions- und Weltanschauungsgemeinschaften Drucksache 17/8504 (Dokument)",
+        "title": "TOP 2 Erste Beratung",
+        "id": "TOP-2",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Daniel Born",
+          "context": "main-speaker",
+          "firstname": "Daniel",
+          "lastname": "Born",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q23560213",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=5129,5384",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=5129",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_5129",
+        "additionalInformation": {
+          "startOffset": 5129.0,
+          "endOffset": 5384.0,
+          "clockStart": "01:25:29"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 2,
+        "rednerRaw": "Born Daniel",
+        "gruppeRaw": "SPD",
+        "roleRaw": "",
+        "startOffset": 5129,
+        "endOffset": 5384,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T01:29:44",
+      "dateEnd": "2025-04-02T01:34:55",
+      "speechIndex": 17,
+      "originID": "17119_1_5384",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 2 Erste Beratung: des Gesetzentwurfs der Landesregierung Gesetz zur Neuregelung des Rechts der öffentlich-rechtlichen Religions- und Weltanschauungsgemeinschaften Drucksache 17/8504 (Dokument)",
+        "title": "TOP 2 Erste Beratung",
+        "id": "TOP-2",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Timm Kern",
+          "context": "main-speaker",
+          "firstname": "Timm",
+          "lastname": "Kern",
+          "faction": {
+            "label": "FDP/DVP",
+            "wid": "Q6539"
+          },
+          "wid": "Q2434751",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=5384,5695",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=5384",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_5384",
+        "additionalInformation": {
+          "startOffset": 5384.0,
+          "endOffset": 5695.0,
+          "clockStart": "01:29:44"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 2,
+        "rednerRaw": "Kern Timm",
+        "gruppeRaw": "FDP/DVP",
+        "roleRaw": "",
+        "startOffset": 5384,
+        "endOffset": 5695,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T01:34:55",
+      "dateEnd": "2025-04-02T01:39:15",
+      "speechIndex": 18,
+      "originID": "17119_1_5695",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 2 Erste Beratung: des Gesetzentwurfs der Landesregierung Gesetz zur Neuregelung des Rechts der öffentlich-rechtlichen Religions- und Weltanschauungsgemeinschaften Drucksache 17/8504 (Dokument)",
+        "title": "TOP 2 Erste Beratung",
+        "id": "TOP-2",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Rüdiger Klos",
+          "context": "main-speaker",
+          "firstname": "Rüdiger",
+          "lastname": "Klos",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q23563667",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=5695,5955",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=5695",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_5695",
+        "additionalInformation": {
+          "startOffset": 5695.0,
+          "endOffset": 5955.0,
+          "clockStart": "01:34:55"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 2,
+        "rednerRaw": "Klos Rüdiger",
+        "gruppeRaw": "AfD",
+        "roleRaw": "",
+        "startOffset": 5695,
+        "endOffset": 5955,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T01:39:15",
+      "dateEnd": "2025-04-02T01:39:48",
+      "speechIndex": 19,
+      "originID": "17119_1_5955",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 2 Erste Beratung: des Gesetzentwurfs der Landesregierung Gesetz zur Neuregelung des Rechts der öffentlich-rechtlichen Religions- und Weltanschauungsgemeinschaften Drucksache 17/8504 (Dokument)",
+        "title": "TOP 2 Erste Beratung",
+        "id": "TOP-2",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Wolfgang Reinhart",
+          "context": "vice-president",
+          "firstname": "Wolfgang",
+          "lastname": "Reinhart",
+          "role": "stellv. Präsident",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q107811",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=5955,5988",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=5955",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_5955",
+        "additionalInformation": {
+          "startOffset": 5955.0,
+          "endOffset": 5988.0,
+          "clockStart": "01:39:15"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 2,
+        "rednerRaw": "Reinhart Wolfgang",
+        "gruppeRaw": "CDU",
+        "roleRaw": "stellv. Präsident",
+        "startOffset": 5955,
+        "endOffset": 5988,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T01:39:48",
+      "dateEnd": "2025-04-02T01:39:58",
+      "speechIndex": 20,
+      "originID": "17119_1_5988",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3 Erste Beratung: des Gesetzentwurfs der Landesregierung Gesetz zur Änderung des Privatschulgesetzes Drucksache 17/8587 (Dokument)",
+        "title": "TOP 3 Erste Beratung",
+        "id": "TOP-3",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Wolfgang Reinhart",
+          "context": "vice-president",
+          "firstname": "Wolfgang",
+          "lastname": "Reinhart",
+          "role": "stellv. Präsident",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q107811",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=5988,5998",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=5988",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_5988",
+        "additionalInformation": {
+          "startOffset": 5988.0,
+          "endOffset": 5998.0,
+          "clockStart": "01:39:48"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 3,
+        "rednerRaw": "Reinhart Wolfgang",
+        "gruppeRaw": "CDU",
+        "roleRaw": "stellv. Präsident",
+        "startOffset": 5988,
+        "endOffset": 5998,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T01:39:58",
+      "dateEnd": "2025-04-02T01:43:53",
+      "speechIndex": 21,
+      "originID": "17119_1_5998",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3 Erste Beratung: des Gesetzentwurfs der Landesregierung Gesetz zur Änderung des Privatschulgesetzes Drucksache 17/8587 (Dokument)",
+        "title": "TOP 3 Erste Beratung",
+        "id": "TOP-3",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Theresa Schopper",
+          "context": "main-speaker",
+          "firstname": "Theresa",
+          "lastname": "Schopper",
+          "faction": {
+            "label": "GRÜNE",
+            "wid": "Q49766"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=5998,6233",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=5998",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_5998",
+        "additionalInformation": {
+          "startOffset": 5998.0,
+          "endOffset": 6233.0,
+          "clockStart": "01:39:58"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 3,
+        "rednerRaw": "Schopper Theresa",
+        "gruppeRaw": "GRÜNE",
+        "roleRaw": "",
+        "startOffset": 5998,
+        "endOffset": 6233,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T01:43:53",
+      "dateEnd": "2025-04-02T01:48:54",
+      "speechIndex": 22,
+      "originID": "17119_1_6233",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3 Erste Beratung: des Gesetzentwurfs der Landesregierung Gesetz zur Änderung des Privatschulgesetzes Drucksache 17/8587 (Dokument)",
+        "title": "TOP 3 Erste Beratung",
+        "id": "TOP-3",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Nadyne Saint-Cast",
+          "context": "main-speaker",
+          "firstname": "Nadyne",
+          "lastname": "Saint-Cast",
+          "faction": {
+            "label": "GRÜNE",
+            "wid": "Q49766"
+          },
+          "wid": "Q105986947",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=6233,6534",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=6233",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_6233",
+        "additionalInformation": {
+          "startOffset": 6233.0,
+          "endOffset": 6534.0,
+          "clockStart": "01:43:53"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 3,
+        "rednerRaw": "Saint-Cast Nadyne",
+        "gruppeRaw": "GRÜNE",
+        "roleRaw": "",
+        "startOffset": 6233,
+        "endOffset": 6534,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T01:48:54",
+      "dateEnd": "2025-04-02T01:53:41",
+      "speechIndex": 23,
+      "originID": "17119_1_6534",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3 Erste Beratung: des Gesetzentwurfs der Landesregierung Gesetz zur Änderung des Privatschulgesetzes Drucksache 17/8587 (Dokument)",
+        "title": "TOP 3 Erste Beratung",
+        "id": "TOP-3",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Matthias Miller",
+          "context": "main-speaker",
+          "firstname": "Matthias",
+          "lastname": "Miller",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q106193050",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=6534,6821",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=6534",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_6534",
+        "additionalInformation": {
+          "startOffset": 6534.0,
+          "endOffset": 6821.0,
+          "clockStart": "01:48:54"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 3,
+        "rednerRaw": "Miller Matthias",
+        "gruppeRaw": "CDU",
+        "roleRaw": "",
+        "startOffset": 6534,
+        "endOffset": 6821,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T01:53:41",
+      "dateEnd": "2025-04-02T01:57:51",
+      "speechIndex": 24,
+      "originID": "17119_1_6821",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3 Erste Beratung: des Gesetzentwurfs der Landesregierung Gesetz zur Änderung des Privatschulgesetzes Drucksache 17/8587 (Dokument)",
+        "title": "TOP 3 Erste Beratung",
+        "id": "TOP-3",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Stefan Fulst-Blei",
+          "context": "main-speaker",
+          "firstname": "Stefan",
+          "lastname": "Fulst-Blei",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q2336338",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=6821,7071",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=6821",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_6821",
+        "additionalInformation": {
+          "startOffset": 6821.0,
+          "endOffset": 7071.0,
+          "clockStart": "01:53:41"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 3,
+        "rednerRaw": "Fulst-Blei Stefan",
+        "gruppeRaw": "SPD",
+        "roleRaw": "",
+        "startOffset": 6821,
+        "endOffset": 7071,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T01:57:51",
+      "dateEnd": "2025-04-02T02:02:19",
+      "speechIndex": 25,
+      "originID": "17119_1_7071",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3 Erste Beratung: des Gesetzentwurfs der Landesregierung Gesetz zur Änderung des Privatschulgesetzes Drucksache 17/8587 (Dokument)",
+        "title": "TOP 3 Erste Beratung",
+        "id": "TOP-3",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Timm Kern",
+          "context": "main-speaker",
+          "firstname": "Timm",
+          "lastname": "Kern",
+          "faction": {
+            "label": "FDP/DVP",
+            "wid": "Q6539"
+          },
+          "wid": "Q2434751",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=7071,7339",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=7071",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_7071",
+        "additionalInformation": {
+          "startOffset": 7071.0,
+          "endOffset": 7339.0,
+          "clockStart": "01:57:51"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 3,
+        "rednerRaw": "Kern Timm",
+        "gruppeRaw": "FDP/DVP",
+        "roleRaw": "",
+        "startOffset": 7071,
+        "endOffset": 7339,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T02:02:19",
+      "dateEnd": "2025-04-02T02:07:55",
+      "speechIndex": 26,
+      "originID": "17119_1_7339",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3 Erste Beratung: des Gesetzentwurfs der Landesregierung Gesetz zur Änderung des Privatschulgesetzes Drucksache 17/8587 (Dokument)",
+        "title": "TOP 3 Erste Beratung",
+        "id": "TOP-3",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Hans-Peter Hörner",
+          "context": "main-speaker",
+          "firstname": "Hans-Peter",
+          "lastname": "Hörner",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q106561420",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=7339,7675",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=7339",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_7339",
+        "additionalInformation": {
+          "startOffset": 7339.0,
+          "endOffset": 7675.0,
+          "clockStart": "02:02:19"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 3,
+        "rednerRaw": "Hörner Hans-Peter",
+        "gruppeRaw": "AfD",
+        "roleRaw": "",
+        "startOffset": 7339,
+        "endOffset": 7675,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T02:07:55",
+      "dateEnd": "2025-04-02T02:08:22",
+      "speechIndex": 27,
+      "originID": "17119_1_7675",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3 Erste Beratung: des Gesetzentwurfs der Landesregierung Gesetz zur Änderung des Privatschulgesetzes Drucksache 17/8587 (Dokument)",
+        "title": "TOP 3 Erste Beratung",
+        "id": "TOP-3",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Wolfgang Reinhart",
+          "context": "vice-president",
+          "firstname": "Wolfgang",
+          "lastname": "Reinhart",
+          "role": "stellv. Präsident",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q107811",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=7675,7702",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=7675",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_7675",
+        "additionalInformation": {
+          "startOffset": 7675.0,
+          "endOffset": 7702.0,
+          "clockStart": "02:07:55"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 3,
+        "rednerRaw": "Reinhart Wolfgang",
+        "gruppeRaw": "CDU",
+        "roleRaw": "stellv. Präsident",
+        "startOffset": 7675,
+        "endOffset": 7702,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T02:08:22",
+      "dateEnd": "2025-04-02T02:08:59",
+      "speechIndex": 28,
+      "originID": "17119_1_7702",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4 Erste Beratung: des Gesetzentwurfs der Fraktion der SPD Gesetz zum besseren Schutz vor Straftaten gegen die sexuelle Selbstbestimmung und Gefahren aufgrund häuslicher Gewalt Drucksache 17/8387 (Dokument)",
+        "title": "TOP 4 Erste Beratung",
+        "id": "TOP-4",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Wolfgang Reinhart",
+          "context": "vice-president",
+          "firstname": "Wolfgang",
+          "lastname": "Reinhart",
+          "role": "stellv. Präsident",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q107811",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=7702,7739",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=7702",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_7702",
+        "additionalInformation": {
+          "startOffset": 7702.0,
+          "endOffset": 7739.0,
+          "clockStart": "02:08:22"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 4,
+        "rednerRaw": "Reinhart Wolfgang",
+        "gruppeRaw": "CDU",
+        "roleRaw": "stellv. Präsident",
+        "startOffset": 7702,
+        "endOffset": 7739,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T02:08:59",
+      "dateEnd": "2025-04-02T02:14:57",
+      "speechIndex": 29,
+      "originID": "17119_1_7739",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4 Erste Beratung: des Gesetzentwurfs der Fraktion der SPD Gesetz zum besseren Schutz vor Straftaten gegen die sexuelle Selbstbestimmung und Gefahren aufgrund häuslicher Gewalt Drucksache 17/8387 (Dokument)",
+        "title": "TOP 4 Erste Beratung",
+        "id": "TOP-4",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Sascha Binder",
+          "context": "main-speaker",
+          "firstname": "Sascha",
+          "lastname": "Binder",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q2225376",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=7739,8097",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=7739",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_7739",
+        "additionalInformation": {
+          "startOffset": 7739.0,
+          "endOffset": 8097.0,
+          "clockStart": "02:08:59"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 4,
+        "rednerRaw": "Binder Sascha",
+        "gruppeRaw": "SPD",
+        "roleRaw": "",
+        "startOffset": 7739,
+        "endOffset": 8097,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T02:14:57",
+      "dateEnd": "2025-04-02T02:21:06",
+      "speechIndex": 30,
+      "originID": "17119_1_8097",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4 Erste Beratung: des Gesetzentwurfs der Fraktion der SPD Gesetz zum besseren Schutz vor Straftaten gegen die sexuelle Selbstbestimmung und Gefahren aufgrund häuslicher Gewalt Drucksache 17/8387 (Dokument)",
+        "title": "TOP 4 Erste Beratung",
+        "id": "TOP-4",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Fadime Tuncer",
+          "context": "main-speaker",
+          "firstname": "Fadime",
+          "lastname": "Tuncer",
+          "faction": {
+            "label": "GRÜNE",
+            "wid": "Q49766"
+          },
+          "wid": "Q110929402",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=8097,8466",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=8097",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_8097",
+        "additionalInformation": {
+          "startOffset": 8097.0,
+          "endOffset": 8466.0,
+          "clockStart": "02:14:57"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 4,
+        "rednerRaw": "Tuncer Fadime",
+        "gruppeRaw": "GRÜNE",
+        "roleRaw": "",
+        "startOffset": 8097,
+        "endOffset": 8466,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T02:21:06",
+      "dateEnd": "2025-04-02T02:25:42",
+      "speechIndex": 31,
+      "originID": "17119_1_8466",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4 Erste Beratung: des Gesetzentwurfs der Fraktion der SPD Gesetz zum besseren Schutz vor Straftaten gegen die sexuelle Selbstbestimmung und Gefahren aufgrund häuslicher Gewalt Drucksache 17/8387 (Dokument)",
+        "title": "TOP 4 Erste Beratung",
+        "id": "TOP-4",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Isabell Huber",
+          "context": "main-speaker",
+          "firstname": "Isabell",
+          "lastname": "Huber",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q60691760",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=8466,8742",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=8466",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_8466",
+        "additionalInformation": {
+          "startOffset": 8466.0,
+          "endOffset": 8742.0,
+          "clockStart": "02:21:06"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 4,
+        "rednerRaw": "Huber Isabell",
+        "gruppeRaw": "CDU",
+        "roleRaw": "",
+        "startOffset": 8466,
+        "endOffset": 8742,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T02:25:42",
+      "dateEnd": "2025-04-02T02:31:09",
+      "speechIndex": 32,
+      "originID": "17119_1_8742",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4 Erste Beratung: des Gesetzentwurfs der Fraktion der SPD Gesetz zum besseren Schutz vor Straftaten gegen die sexuelle Selbstbestimmung und Gefahren aufgrund häuslicher Gewalt Drucksache 17/8387 (Dokument)",
+        "title": "TOP 4 Erste Beratung",
+        "id": "TOP-4",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Julia Goll",
+          "context": "main-speaker",
+          "firstname": "Julia",
+          "lastname": "Goll",
+          "faction": {
+            "label": "FDP/DVP",
+            "wid": "Q6539"
+          },
+          "wid": "Q106540982",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=8742,9069",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=8742",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_8742",
+        "additionalInformation": {
+          "startOffset": 8742.0,
+          "endOffset": 9069.0,
+          "clockStart": "02:25:42"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 4,
+        "rednerRaw": "Goll Julia",
+        "gruppeRaw": "FDP/DVP",
+        "roleRaw": "",
+        "startOffset": 8742,
+        "endOffset": 9069,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T02:31:09",
+      "dateEnd": "2025-04-02T02:35:39",
+      "speechIndex": 33,
+      "originID": "17119_1_9069",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4 Erste Beratung: des Gesetzentwurfs der Fraktion der SPD Gesetz zum besseren Schutz vor Straftaten gegen die sexuelle Selbstbestimmung und Gefahren aufgrund häuslicher Gewalt Drucksache 17/8387 (Dokument)",
+        "title": "TOP 4 Erste Beratung",
+        "id": "TOP-4",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Daniel Lindenschmid",
+          "context": "main-speaker",
+          "firstname": "Daniel",
+          "lastname": "Lindenschmid",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q106098959",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=9069,9339",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=9069",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_9069",
+        "additionalInformation": {
+          "startOffset": 9069.0,
+          "endOffset": 9339.0,
+          "clockStart": "02:31:09"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 4,
+        "rednerRaw": "Lindenschmid Daniel",
+        "gruppeRaw": "AfD",
+        "roleRaw": "",
+        "startOffset": 9069,
+        "endOffset": 9339,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T02:35:39",
+      "dateEnd": "2025-04-02T02:47:56",
+      "speechIndex": 34,
+      "originID": "17119_1_9339",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4 Erste Beratung: des Gesetzentwurfs der Fraktion der SPD Gesetz zum besseren Schutz vor Straftaten gegen die sexuelle Selbstbestimmung und Gefahren aufgrund häuslicher Gewalt Drucksache 17/8387 (Dokument)",
+        "title": "TOP 4 Erste Beratung",
+        "id": "TOP-4",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Thomas Strobl",
+          "context": "main-speaker",
+          "firstname": "Thomas",
+          "lastname": "Strobl",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q112109",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=9339,10076",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=9339",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_9339",
+        "additionalInformation": {
+          "startOffset": 9339.0,
+          "endOffset": 10076.0,
+          "clockStart": "02:35:39"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 4,
+        "rednerRaw": "Strobl Thomas",
+        "gruppeRaw": "CDU",
+        "roleRaw": "",
+        "startOffset": 9339,
+        "endOffset": 10076,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T02:47:56",
+      "dateEnd": "2025-04-02T02:50:56",
+      "speechIndex": 35,
+      "originID": "17119_1_10076",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4 Erste Beratung: des Gesetzentwurfs der Fraktion der SPD Gesetz zum besseren Schutz vor Straftaten gegen die sexuelle Selbstbestimmung und Gefahren aufgrund häuslicher Gewalt Drucksache 17/8387 (Dokument)",
+        "title": "TOP 4 Erste Beratung",
+        "id": "TOP-4",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Sascha Binder",
+          "context": "main-speaker",
+          "firstname": "Sascha",
+          "lastname": "Binder",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q2225376",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=10076,10256",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=10076",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_10076",
+        "additionalInformation": {
+          "startOffset": 10076.0,
+          "endOffset": 10256.0,
+          "clockStart": "02:47:56"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 4,
+        "rednerRaw": "Binder Sascha",
+        "gruppeRaw": "SPD",
+        "roleRaw": "",
+        "startOffset": 10076,
+        "endOffset": 10256,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T02:50:56",
+      "dateEnd": "2025-04-02T02:51:25",
+      "speechIndex": 36,
+      "originID": "17119_1_10256",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4 Erste Beratung: des Gesetzentwurfs der Fraktion der SPD Gesetz zum besseren Schutz vor Straftaten gegen die sexuelle Selbstbestimmung und Gefahren aufgrund häuslicher Gewalt Drucksache 17/8387 (Dokument)",
+        "title": "TOP 4 Erste Beratung",
+        "id": "TOP-4",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Daniel Born",
+          "context": "vice-president",
+          "firstname": "Daniel",
+          "lastname": "Born",
+          "role": "stellv. Präsident",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q23560213",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=10256,10285",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=10256",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_10256",
+        "additionalInformation": {
+          "startOffset": 10256.0,
+          "endOffset": 10285.0,
+          "clockStart": "02:50:56"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 4,
+        "rednerRaw": "Born Daniel",
+        "gruppeRaw": "SPD",
+        "roleRaw": "stellv. Präsident",
+        "startOffset": 10256,
+        "endOffset": 10285,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T02:51:25",
+      "dateEnd": "2025-04-02T02:52:31",
+      "speechIndex": 37,
+      "originID": "17119_1_10285",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 5 Antrag der Fraktion der SPD: und Stellungnahme des Ministeriums der Justiz und für Migration Schutz unseres demokratischen Staates, seiner Organe, Institutionen und Symbole Drucksache 17/3908 (Dokument)",
+        "title": "TOP 5 Antrag der Fraktion der SPD",
+        "id": "TOP-5",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Daniel Born",
+          "context": "vice-president",
+          "firstname": "Daniel",
+          "lastname": "Born",
+          "role": "stellv. Präsident",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q23560213",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=10285,10351",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=10285",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_10285",
+        "additionalInformation": {
+          "startOffset": 10285.0,
+          "endOffset": 10351.0,
+          "clockStart": "02:51:25"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 5,
+        "rednerRaw": "Born Daniel",
+        "gruppeRaw": "SPD",
+        "roleRaw": "stellv. Präsident",
+        "startOffset": 10285,
+        "endOffset": 10351,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T02:52:31",
+      "dateEnd": "2025-04-02T03:02:42",
+      "speechIndex": 38,
+      "originID": "17119_1_10351",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 5 Antrag der Fraktion der SPD: und Stellungnahme des Ministeriums der Justiz und für Migration Schutz unseres demokratischen Staates, seiner Organe, Institutionen und Symbole Drucksache 17/3908 (Dokument)",
+        "title": "TOP 5 Antrag der Fraktion der SPD",
+        "id": "TOP-5",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Boris Weirauch",
+          "context": "main-speaker",
+          "firstname": "Boris",
+          "lastname": "Weirauch",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q23566378",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=10351,10962",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=10351",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_10351",
+        "additionalInformation": {
+          "startOffset": 10351.0,
+          "endOffset": 10962.0,
+          "clockStart": "02:52:31"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 5,
+        "rednerRaw": "Weirauch Boris",
+        "gruppeRaw": "SPD",
+        "roleRaw": "",
+        "startOffset": 10351,
+        "endOffset": 10962,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T03:02:42",
+      "dateEnd": "2025-04-02T03:08:13",
+      "speechIndex": 39,
+      "originID": "17119_1_10962",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 5 Antrag der Fraktion der SPD: und Stellungnahme des Ministeriums der Justiz und für Migration Schutz unseres demokratischen Staates, seiner Organe, Institutionen und Symbole Drucksache 17/3908 (Dokument)",
+        "title": "TOP 5 Antrag der Fraktion der SPD",
+        "id": "TOP-5",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Oliver Hildenbrand",
+          "context": "main-speaker",
+          "firstname": "Oliver",
+          "lastname": "Hildenbrand",
+          "faction": {
+            "label": "GRÜNE",
+            "wid": "Q49766"
+          },
+          "wid": "Q17124987",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=10962,11293",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=10962",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_10962",
+        "additionalInformation": {
+          "startOffset": 10962.0,
+          "endOffset": 11293.0,
+          "clockStart": "03:02:42"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 5,
+        "rednerRaw": "Hildenbrand Oliver",
+        "gruppeRaw": "GRÜNE",
+        "roleRaw": "",
+        "startOffset": 10962,
+        "endOffset": 11293,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T03:08:13",
+      "dateEnd": "2025-04-02T03:12:58",
+      "speechIndex": 40,
+      "originID": "17119_1_11293",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 5 Antrag der Fraktion der SPD: und Stellungnahme des Ministeriums der Justiz und für Migration Schutz unseres demokratischen Staates, seiner Organe, Institutionen und Symbole Drucksache 17/3908 (Dokument)",
+        "title": "TOP 5 Antrag der Fraktion der SPD",
+        "id": "TOP-5",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Arnulf Freiherr von Eyb",
+          "context": "main-speaker",
+          "firstname": "Arnulf Freiherr von",
+          "lastname": "Eyb",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q697647",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=11293,11578",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=11293",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_11293",
+        "additionalInformation": {
+          "startOffset": 11293.0,
+          "endOffset": 11578.0,
+          "clockStart": "03:08:13"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 5,
+        "rednerRaw": "Eyb Arnulf Freiherr von",
+        "gruppeRaw": "CDU",
+        "roleRaw": "",
+        "startOffset": 11293,
+        "endOffset": 11578,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T03:12:58",
+      "dateEnd": "2025-04-02T03:17:56",
+      "speechIndex": 41,
+      "originID": "17119_1_11578",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 5 Antrag der Fraktion der SPD: und Stellungnahme des Ministeriums der Justiz und für Migration Schutz unseres demokratischen Staates, seiner Organe, Institutionen und Symbole Drucksache 17/3908 (Dokument)",
+        "title": "TOP 5 Antrag der Fraktion der SPD",
+        "id": "TOP-5",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Nico Weinmann",
+          "context": "main-speaker",
+          "firstname": "Nico",
+          "lastname": "Weinmann",
+          "faction": {
+            "label": "FDP/DVP",
+            "wid": "Q6539"
+          },
+          "wid": "Q23055331",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=11578,11876",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=11578",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_11578",
+        "additionalInformation": {
+          "startOffset": 11578.0,
+          "endOffset": 11876.0,
+          "clockStart": "03:12:58"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 5,
+        "rednerRaw": "Weinmann Nico",
+        "gruppeRaw": "FDP/DVP",
+        "roleRaw": "",
+        "startOffset": 11578,
+        "endOffset": 11876,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T03:17:56",
+      "dateEnd": "2025-04-02T03:24:31",
+      "speechIndex": 42,
+      "originID": "17119_1_11876",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 5 Antrag der Fraktion der SPD: und Stellungnahme des Ministeriums der Justiz und für Migration Schutz unseres demokratischen Staates, seiner Organe, Institutionen und Symbole Drucksache 17/3908 (Dokument)",
+        "title": "TOP 5 Antrag der Fraktion der SPD",
+        "id": "TOP-5",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Daniel Lindenschmid",
+          "context": "main-speaker",
+          "firstname": "Daniel",
+          "lastname": "Lindenschmid",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q106098959",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=11876,12271",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=11876",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_11876",
+        "additionalInformation": {
+          "startOffset": 11876.0,
+          "endOffset": 12271.0,
+          "clockStart": "03:17:56"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 5,
+        "rednerRaw": "Lindenschmid Daniel",
+        "gruppeRaw": "AfD",
+        "roleRaw": "",
+        "startOffset": 11876,
+        "endOffset": 12271,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T03:24:31",
+      "dateEnd": "2025-04-02T03:25:14",
+      "speechIndex": 43,
+      "originID": "17119_1_12271",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 5 Antrag der Fraktion der SPD: und Stellungnahme des Ministeriums der Justiz und für Migration Schutz unseres demokratischen Staates, seiner Organe, Institutionen und Symbole Drucksache 17/3908 (Dokument)",
+        "title": "TOP 5 Antrag der Fraktion der SPD",
+        "id": "TOP-5",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Daniel Born",
+          "context": "vice-president",
+          "firstname": "Daniel",
+          "lastname": "Born",
+          "role": "stellv. Präsident",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q23560213",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=12271,12314",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=12271",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_12271",
+        "additionalInformation": {
+          "startOffset": 12271.0,
+          "endOffset": 12314.0,
+          "clockStart": "03:24:31"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 5,
+        "rednerRaw": "Born Daniel",
+        "gruppeRaw": "SPD",
+        "roleRaw": "stellv. Präsident",
+        "startOffset": 12271,
+        "endOffset": 12314,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T03:25:14",
+      "dateEnd": "2025-04-02T03:35:31",
+      "speechIndex": 44,
+      "originID": "17119_1_12314",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 5 Antrag der Fraktion der SPD: und Stellungnahme des Ministeriums der Justiz und für Migration Schutz unseres demokratischen Staates, seiner Organe, Institutionen und Symbole Drucksache 17/3908 (Dokument)",
+        "title": "TOP 5 Antrag der Fraktion der SPD",
+        "id": "TOP-5",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Marion Gentges",
+          "context": "main-speaker",
+          "firstname": "Marion",
+          "lastname": "Gentges",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q23561530",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=12314,12931",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=12314",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_12314",
+        "additionalInformation": {
+          "startOffset": 12314.0,
+          "endOffset": 12931.0,
+          "clockStart": "03:25:14"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 5,
+        "rednerRaw": "Gentges Marion",
+        "gruppeRaw": "CDU",
+        "roleRaw": "",
+        "startOffset": 12314,
+        "endOffset": 12931,
+        "timesAreVideoRelative": true
+      }
+    },
+    {
+      "parliament": "DE-BW",
+      "electoralPeriod": {
+        "number": 17
+      },
+      "session": {
+        "number": 119,
+        "dateStart": "2025-04-02T00:00:01",
+        "dateEnd": "2025-04-02T03:35:31"
+      },
+      "dateStart": "2025-04-02T03:35:31",
+      "dateEnd": "2025-04-02T03:35:31",
+      "speechIndex": 45,
+      "originID": "17119_1_12931",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 5 Antrag der Fraktion der SPD: und Stellungnahme des Ministeriums der Justiz und für Migration Schutz unseres demokratischen Staates, seiner Organe, Institutionen und Symbole Drucksache 17/3908 (Dokument)",
+        "title": "TOP 5 Antrag der Fraktion der SPD",
+        "id": "TOP-5",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Daniel Born",
+          "context": "vice-president",
+          "firstname": "Daniel",
+          "lastname": "Born",
+          "role": "stellv. Präsident",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q23560213",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung119_20250402/Aufzeichnung_119_1.mp4#t=12931",
+        "sourcePage": "https://www.landtag-bw.de/de/mediathek/videos/119-sitzung-vom-2-april-2025-565638#t=12931",
+        "creator": "Landtag von Baden-Württemberg",
+        "license": "Landtag von Baden-Württemberg – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; keine kommerzielle Verwendung/Werbung. Quelle: Landtag von Baden-Württemberg. https://www.landtag-bw.de/de/mediathek/nutzungsbedingungen-fuer-die-mediathek",
+        "originMediaID": "17119_1_12931",
+        "additionalInformation": {
+          "startOffset": 12931.0,
+          "clockStart": "03:35:31"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-chapterlist",
+        "part": 1,
+        "topIndex": 5,
+        "rednerRaw": "Born Daniel",
+        "gruppeRaw": "SPD",
+        "roleRaw": "stellv. Präsident",
+        "startOffset": 12931,
+        "endOffset": null,
+        "timesAreVideoRelative": true
+      }
+    }
+  ]
+}

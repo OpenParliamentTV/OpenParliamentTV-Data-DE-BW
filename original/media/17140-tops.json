@@ -1,0 +1,658 @@
+{
+  "session_id": "17140",
+  "wp": 17,
+  "sitzung": 140,
+  "date": "2026-02-04",
+  "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/140-sitzung-vom-4-februar-2026-615632",
+  "parts": [
+    {
+      "part": 1,
+      "mp4_url": "https://ltbw-stream.babiel.com/wahlperiode17/2026/sitzung140_20260204/Aufzeichnung_140_1.mp4",
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/140-sitzung-vom-4-februar-2026-615632",
+      "tops": [
+        {
+          "index": 0,
+          "title": "TOP 1 Aktuelle Debatte",
+          "description": "Der Wolf im Schafspelz – Cem Özdemir versteckt, dass er ein Grüner ist. Auswirkungen dieses Verhaltens auf die Arbeit der aktuellen Landesregierung Beantragt von der Fraktion der FDP/DVP",
+          "speeches": [
+            {
+              "name_raw": "Aras Muhterem",
+              "meta_raw": "| Präsidentin | GRÜNE",
+              "start_offset": 1,
+              "clock": "00:00:01"
+            },
+            {
+              "name_raw": "Rülke Hans-Ulrich",
+              "meta_raw": "| FDP/DVP",
+              "start_offset": 124,
+              "clock": "00:02:04"
+            },
+            {
+              "name_raw": "Schwarz Andreas",
+              "meta_raw": "| GRÜNE",
+              "start_offset": 541,
+              "clock": "00:09:01"
+            },
+            {
+              "name_raw": "Dörflinger Thomas",
+              "meta_raw": "| CDU",
+              "start_offset": 1006,
+              "clock": "00:16:46"
+            },
+            {
+              "name_raw": "Binder Sascha",
+              "meta_raw": "| SPD",
+              "start_offset": 1627,
+              "clock": "00:27:07"
+            },
+            {
+              "name_raw": "Baron Anton",
+              "meta_raw": "| AfD",
+              "start_offset": 2291,
+              "clock": "00:38:11"
+            },
+            {
+              "name_raw": "Rülke Hans-Ulrich",
+              "meta_raw": "| FDP/DVP",
+              "start_offset": 2775,
+              "clock": "00:46:15"
+            },
+            {
+              "name_raw": "Schwarz Andreas",
+              "meta_raw": "| GRÜNE",
+              "start_offset": 3003,
+              "clock": "00:50:03"
+            },
+            {
+              "name_raw": "Aras Muhterem",
+              "meta_raw": "| Präsidentin | GRÜNE",
+              "start_offset": 3272,
+              "clock": "00:54:32"
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "title": "TOP 2 Aktuelle Debatte",
+          "description": "Milliardenabschreibungen bei EnBW – Konsequenzen für die Landespolitik Beantragt von der Fraktion der AfD",
+          "speeches": [
+            {
+              "name_raw": "Aras Muhterem",
+              "meta_raw": "| Präsidentin | GRÜNE",
+              "start_offset": 3284,
+              "clock": "00:54:44"
+            },
+            {
+              "name_raw": "Sänze Emil",
+              "meta_raw": "| AfD",
+              "start_offset": 3308,
+              "clock": "00:55:08"
+            },
+            {
+              "name_raw": "Rösler Markus",
+              "meta_raw": "| GRÜNE",
+              "start_offset": 3856,
+              "clock": "01:04:16"
+            },
+            {
+              "name_raw": "Schütte Albrecht",
+              "meta_raw": "| CDU",
+              "start_offset": 4376,
+              "clock": "01:12:56"
+            },
+            {
+              "name_raw": "Rolland Gabriele",
+              "meta_raw": "| SPD",
+              "start_offset": 4837,
+              "clock": "01:20:37"
+            },
+            {
+              "name_raw": "Bonath Frank",
+              "meta_raw": "| FDP/DVP",
+              "start_offset": 5487,
+              "clock": "01:31:27"
+            },
+            {
+              "name_raw": "Splett Gisela",
+              "meta_raw": "| GRÜNE",
+              "start_offset": 6019,
+              "clock": "01:40:19"
+            },
+            {
+              "name_raw": "Sänze Emil",
+              "meta_raw": "| AfD",
+              "start_offset": 6736,
+              "clock": "01:52:16"
+            },
+            {
+              "name_raw": "Rösler Markus",
+              "meta_raw": "| GRÜNE",
+              "start_offset": 6815,
+              "clock": "01:53:35"
+            },
+            {
+              "name_raw": "Bonath Frank",
+              "meta_raw": "| FDP/DVP",
+              "start_offset": 7035,
+              "clock": "01:57:15"
+            },
+            {
+              "name_raw": "Reinhart Wolfgang",
+              "meta_raw": "| stellv. Präsident | CDU",
+              "start_offset": 7127,
+              "clock": "01:58:47"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "title": "TOP 3 Zweite Beratung",
+          "description": "des Gesetzentwurfs der Landesregierung Gesetz für Teilhabe- und Pflegequalität und zur Änderung weiterer Vorschriften Drucksache 17/9652 (Dokument) Beschlussempfehlung und Bericht des Ausschusses für Soziales, Gesundheit und Integration Drucksache 17/10220 (Dokument)",
+          "speeches": [
+            {
+              "name_raw": "Reinhart Wolfgang",
+              "meta_raw": "| stellv. Präsident | CDU",
+              "start_offset": 7140,
+              "clock": "01:59:00"
+            },
+            {
+              "name_raw": "Krebs Petra",
+              "meta_raw": "| GRÜNE",
+              "start_offset": 7172,
+              "clock": "01:59:32"
+            },
+            {
+              "name_raw": "Bückner Tim",
+              "meta_raw": "| CDU",
+              "start_offset": 7523,
+              "clock": "02:05:23"
+            },
+            {
+              "name_raw": "Wahl Florian",
+              "meta_raw": "| SPD",
+              "start_offset": 7857,
+              "clock": "02:10:57"
+            },
+            {
+              "name_raw": "Haußmann Jochen",
+              "meta_raw": "| FDP/DVP",
+              "start_offset": 8192,
+              "clock": "02:16:32"
+            },
+            {
+              "name_raw": "Wolle Carola",
+              "meta_raw": "| AfD",
+              "start_offset": 8601,
+              "clock": "02:23:21"
+            },
+            {
+              "name_raw": "Lucha Manfred",
+              "meta_raw": "| GRÜNE",
+              "start_offset": 8936,
+              "clock": "02:28:56"
+            },
+            {
+              "name_raw": "Reinhart Wolfgang",
+              "meta_raw": "| stellv. Präsident | CDU",
+              "start_offset": 9643,
+              "clock": "02:40:43"
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "title": "TOP 4 Zweite Beratung",
+          "description": "des Gesetzentwurfs der Fraktion der SPD Gesetz zur Änderung des Juristenausbildungsgesetzes Drucksache 17/9871 (Dokument) Beschlussempfehlung und Bericht des Ständigen Ausschusses Drucksache 17/10218 (Dokument)",
+          "speeches": [
+            {
+              "name_raw": "Reinhart Wolfgang",
+              "meta_raw": "| stellv. Präsident | CDU",
+              "start_offset": 10268,
+              "clock": "02:51:08"
+            },
+            {
+              "name_raw": "Evers Daniela",
+              "meta_raw": "| GRÜNE",
+              "start_offset": 10293,
+              "clock": "02:51:33"
+            },
+            {
+              "name_raw": "Eyb Arnulf Freiherr von",
+              "meta_raw": "| CDU",
+              "start_offset": 10460,
+              "clock": "02:54:20"
+            },
+            {
+              "name_raw": "Binder Sascha",
+              "meta_raw": "| SPD",
+              "start_offset": 10826,
+              "clock": "03:00:26"
+            },
+            {
+              "name_raw": "Weinmann Nico",
+              "meta_raw": "| FDP/DVP",
+              "start_offset": 11112,
+              "clock": "03:05:12"
+            },
+            {
+              "name_raw": "Klos Rüdiger",
+              "meta_raw": "| AfD",
+              "start_offset": 11302,
+              "clock": "03:08:22"
+            },
+            {
+              "name_raw": "Gentges Marion",
+              "meta_raw": "| CDU",
+              "start_offset": 11668,
+              "clock": "03:14:28"
+            },
+            {
+              "name_raw": "Evers Daniela",
+              "meta_raw": "| GRÜNE",
+              "start_offset": 11976,
+              "clock": "03:19:36"
+            },
+            {
+              "name_raw": "Binder Sascha",
+              "meta_raw": "| SPD",
+              "start_offset": 12171,
+              "clock": "03:22:51"
+            },
+            {
+              "name_raw": "Reinhart Wolfgang",
+              "meta_raw": "| stellv. Präsident | CDU",
+              "start_offset": 12276,
+              "clock": "03:24:36"
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "title": "Fortsetzung TOP 3 Zweite Beratung",
+          "description": "des Gesetzentwurfs der Landesregierung Gesetz für Teilhabe- und Pflegequalität und zur Änderung weiterer Vorschriften Drucksache 17/9652 (Dokument) Beschlussempfehlung und Bericht des Ausschusses für Soziales, Gesundheit und Integration Drucksache 17/10220 (Dokument)",
+          "speeches": [
+            {
+              "name_raw": "Reinhart Wolfgang",
+              "meta_raw": "| stellv. Präsident | CDU",
+              "start_offset": 12682,
+              "clock": "03:31:22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "mp4_url": "https://ltbw-stream.babiel.com/wahlperiode17/2026/sitzung140_20260204/Aufzeichnung_140_2.mp4",
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/140-sitzung-vom-4-februar-2026-615636",
+      "tops": [
+        {
+          "index": 0,
+          "title": "Fortsetzung TOP 4 Zweite Beratung",
+          "description": "des Gesetzentwurfs der Fraktion der SPD Gesetz zur Änderung des Juristenausbildungsgesetzes Drucksache 17/9871 (Dokument) Beschlussempfehlung und Bericht des Ständigen Ausschusses Drucksache 17/10218 (Dokument)",
+          "speeches": [
+            {
+              "name_raw": "Aras Muhterem",
+              "meta_raw": "| Präsidentin | GRÜNE",
+              "start_offset": 1,
+              "clock": "00:00:01"
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "title": "TOP 5 Regierungsbefragung",
+          "description": "a) Thema: Landesmaut auf Landes- und Kommunalstraßen Beantragt von der Fraktion der FDP/DVP b) Thema: Kriminologische Studie des Staatsschutz- und Antiterrorismuszentrums zur Terrorgram-Szene Beantragt von der Fraktion der CDU",
+          "speeches": [
+            {
+              "name_raw": "Aras Muhterem",
+              "meta_raw": "| Präsidentin | GRÜNE",
+              "start_offset": 39,
+              "clock": "00:00:39"
+            },
+            {
+              "name_raw": "Jung Christian",
+              "meta_raw": "| FDP/DVP",
+              "start_offset": 55,
+              "clock": "00:00:55"
+            },
+            {
+              "name_raw": "Hermann Winfried",
+              "meta_raw": "| GRÜNE",
+              "start_offset": 332,
+              "clock": "00:05:32"
+            },
+            {
+              "name_raw": "Aras Muhterem",
+              "meta_raw": "| Präsidentin | GRÜNE",
+              "start_offset": 1697,
+              "clock": "00:28:17"
+            },
+            {
+              "name_raw": "Gehring Christian",
+              "meta_raw": "| CDU",
+              "start_offset": 1715,
+              "clock": "00:28:35"
+            },
+            {
+              "name_raw": "Strobl Thomas",
+              "meta_raw": "| CDU",
+              "start_offset": 1831,
+              "clock": "00:30:31"
+            },
+            {
+              "name_raw": "Aras Muhterem",
+              "meta_raw": "| Präsidentin | GRÜNE",
+              "start_offset": 3686,
+              "clock": "01:01:26"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "title": "TOP 6 Zweite Beratung",
+          "description": "des Gesetzentwurfs der Landesregierung Gesetz zur Neufassung des Mittelstandsförderungsgesetzes und zur Änderung der Gemeindeordnung Drucksache 17/9908 (Dokument) Beschlussempfehlung und Bericht des Ausschusses für Wirtschaft, Arbeit und Tourismus Drucksache 17/10146 (Dokument)",
+          "speeches": [
+            {
+              "name_raw": "Aras Muhterem",
+              "meta_raw": "| Präsidentin | GRÜNE",
+              "start_offset": 3705,
+              "clock": "01:01:45"
+            },
+            {
+              "name_raw": "Tok Tayfun",
+              "meta_raw": "| GRÜNE",
+              "start_offset": 3739,
+              "clock": "01:02:19"
+            },
+            {
+              "name_raw": "Schindele Katrin",
+              "meta_raw": "| CDU",
+              "start_offset": 4009,
+              "clock": "01:06:49"
+            },
+            {
+              "name_raw": "Weirauch Boris",
+              "meta_raw": "| SPD",
+              "start_offset": 4339,
+              "clock": "01:12:19"
+            },
+            {
+              "name_raw": "Schweickert Erik",
+              "meta_raw": "| FDP/DVP",
+              "start_offset": 4549,
+              "clock": "01:15:49"
+            },
+            {
+              "name_raw": "Gögel Bernd",
+              "meta_raw": "| AfD",
+              "start_offset": 4861,
+              "clock": "01:21:01"
+            },
+            {
+              "name_raw": "Hoffmeister-Kraut Nicole",
+              "meta_raw": "| CDU",
+              "start_offset": 5182,
+              "clock": "01:26:22"
+            },
+            {
+              "name_raw": "Aras Muhterem",
+              "meta_raw": "| Präsidentin | GRÜNE",
+              "start_offset": 5995,
+              "clock": "01:39:55"
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "title": "TOP 7 Zweite Beratung",
+          "description": "des Gesetzentwurfs der Landesregierung Landesnichtraucherschutzgesetz (LNRSchG) Drucksache 17/9952 (Dokument) Beschlussempfehlung und Bericht des Ausschusses für Soziales, Gesundheit und Integration Drucksache 17/10221 (Dokument)",
+          "speeches": [
+            {
+              "name_raw": "Aras Muhterem",
+              "meta_raw": "| Präsidentin | GRÜNE",
+              "start_offset": 6182,
+              "clock": "01:43:02"
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "title": "TOP 8 Zweite Beratung",
+          "description": "des Gesetzentwurfs der Landesregierung Gesetz zur Änderung des Bauberufsrechts Drucksache 17/9953 (Dokument) Beschlussempfehlung und Bericht des Ausschusses für Landesentwicklung und Wohnen Drucksache 17/10217 (Dokument)",
+          "speeches": [
+            {
+              "name_raw": "Aras Muhterem",
+              "meta_raw": "| Präsidentin | GRÜNE",
+              "start_offset": 6287,
+              "clock": "01:44:47"
+            },
+            {
+              "name_raw": "Resch Clara",
+              "meta_raw": "| GRÜNE",
+              "start_offset": 6316,
+              "clock": "01:45:16"
+            },
+            {
+              "name_raw": "Neumann-Martin Christine",
+              "meta_raw": "| CDU",
+              "start_offset": 6613,
+              "clock": "01:50:13"
+            },
+            {
+              "name_raw": "Hoffmann Jonas",
+              "meta_raw": "| SPD",
+              "start_offset": 6785,
+              "clock": "01:53:05"
+            },
+            {
+              "name_raw": "Schweickert Erik",
+              "meta_raw": "| FDP/DVP",
+              "start_offset": 7080,
+              "clock": "01:58:00"
+            },
+            {
+              "name_raw": "Stein Udo",
+              "meta_raw": "| AfD",
+              "start_offset": 7366,
+              "clock": "02:02:46"
+            },
+            {
+              "name_raw": "Razavi Nicole",
+              "meta_raw": "| CDU",
+              "start_offset": 7688,
+              "clock": "02:08:08"
+            },
+            {
+              "name_raw": "Hoffmann Jonas",
+              "meta_raw": "| SPD",
+              "start_offset": 8113,
+              "clock": "02:15:13"
+            },
+            {
+              "name_raw": "Reinhart Wolfgang",
+              "meta_raw": "| stellv. Präsident | CDU",
+              "start_offset": 8170,
+              "clock": "02:16:10"
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "title": "TOP 9 Zweite Beratung",
+          "description": "des Gesetzentwurfs der Landesregierung Gesetz zur Unterstützung der Sicherstellung des fachärztlichen Nachwuchses im Öffentlichen Gesundheitsdienst in Baden-Württemberg (Gesundheitsdienst-Fachkräftegesetz – GDFG) Drucksache 17/9955 (Dokument) Beschlussempfehlung und Bericht des Ausschusses für Soziales, Gesundheit und Integration Drucksache 17/10222 (Dokument)",
+          "speeches": [
+            {
+              "name_raw": "Reinhart Wolfgang",
+              "meta_raw": "| stellv. Präsident | CDU",
+              "start_offset": 8434,
+              "clock": "02:20:34"
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "title": "TOP 10 Zweite Beratung",
+          "description": "des Gesetzentwurfs der Landesregierung Gesetz zur Änderung des Gesetzes zur Durchführung des Unterhaltsvorschussgesetzes und des Landeskrankenhausgesetzes sowie zum Erlass eines Gesetzes für Ausgleichsbeträge in der Altenpflege Drucksache 17/9957 (Dokument) Beschlussempfehlung und Bericht des Ausschusses für Soziales, Gesundheit und Integration Drucksache 17/10223 (Dokument)",
+          "speeches": [
+            {
+              "name_raw": "Reinhart Wolfgang",
+              "meta_raw": "| stellv. Präsident | CDU",
+              "start_offset": 8551,
+              "clock": "02:22:31"
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "title": "TOP 11 Zweite Beratung",
+          "description": "des Gesetzentwurfs der Landesregierung Gesetz zur Änderung des Gesetzes zur Ausführung des Tierische Nebenprodukte-Beseitigungsgesetzes Drucksache 17/9959 (Dokument) Beschlussempfehlung und Bericht des Ausschusses für Ernährung, Ländlichen Raum und Verbraucherschutz Drucksache 17/10156 (Dokument)",
+          "speeches": [
+            {
+              "name_raw": "Reinhart Wolfgang",
+              "meta_raw": "| stellv. Präsident | CDU",
+              "start_offset": 8755,
+              "clock": "02:25:55"
+            },
+            {
+              "name_raw": "Braun Martina",
+              "meta_raw": "| GRÜNE",
+              "start_offset": 8851,
+              "clock": "02:27:31"
+            },
+            {
+              "name_raw": "Burger Klaus",
+              "meta_raw": "| CDU",
+              "start_offset": 9063,
+              "clock": "02:31:03"
+            },
+            {
+              "name_raw": "Röderer Jan-Peter",
+              "meta_raw": "| SPD",
+              "start_offset": 9344,
+              "clock": "02:35:44"
+            },
+            {
+              "name_raw": "Heitlinger Georg",
+              "meta_raw": "| FDP/DVP",
+              "start_offset": 9514,
+              "clock": "02:38:34"
+            },
+            {
+              "name_raw": "Eisenhut Bernhard",
+              "meta_raw": "| AfD",
+              "start_offset": 9616,
+              "clock": "02:40:16"
+            },
+            {
+              "name_raw": "Hauk Peter",
+              "meta_raw": "| CDU",
+              "start_offset": 9840,
+              "clock": "02:44:00"
+            },
+            {
+              "name_raw": "Reinhart Wolfgang",
+              "meta_raw": "| stellv. Präsident | CDU",
+              "start_offset": 9991,
+              "clock": "02:46:31"
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "title": "TOP 12 Zweite Beratung",
+          "description": "des Gesetzentwurfs der Landesregierung Gesetz zur Änderung des Landesdatenschutzgesetzes und anderer Gesetze Drucksache 17/9983 (Dokument) Beschlussempfehlung und Bericht des Ausschusses des Inneren, für Digitalisierung und Kommunen Drucksache 17/10144 (Dokument)",
+          "speeches": [
+            {
+              "name_raw": "Reinhart Wolfgang",
+              "meta_raw": "| stellv. Präsident | CDU",
+              "start_offset": 10116,
+              "clock": "02:48:36"
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "title": "TOP 13 Zweite Beratung",
+          "description": "des Gesetzentwurfs der Landesregierung Zweites Gesetz zum Abbau verzichtbarer Formerfordernisse und zur Änderung weiterer Vorschriften Drucksache 17/9991 (Dokument) Beschlussempfehlung und Bericht des Ausschusses des Inneren, für Digitalisierung und Kommunen Drucksache 17/10145 (Dokument)",
+          "speeches": [
+            {
+              "name_raw": "Reinhart Wolfgang",
+              "meta_raw": "| stellv. Präsident | CDU",
+              "start_offset": 10220,
+              "clock": "02:50:20"
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "title": "TOP 14 Zweite Beratung",
+          "description": "des Gesetzentwurfs der Landesregierung Gesetz zur Förderung der Resozialisierung im Justizvollzug in Baden-Württemberg Drucksache 17/9992 (Dokument) Beschlussempfehlung und Bericht des Ständigen Ausschusses Drucksache 17/10219 (Dokument)",
+          "speeches": [
+            {
+              "name_raw": "Reinhart Wolfgang",
+              "meta_raw": "| stellv. Präsident | CDU",
+              "start_offset": 10400,
+              "clock": "02:53:20"
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "title": "TOP 15 Beschlussempfehlung und Bericht",
+          "description": "des Ausschusses für Europa und Internationales zu der Mitteilung der Landesregierung vom 23. Januar 2026 Bericht über aktuelle europapolitische Themen Drucksachen 17/10207 (Dokument) , 17/10208 (Dokument)",
+          "speeches": [
+            {
+              "name_raw": "Reinhart Wolfgang",
+              "meta_raw": "| stellv. Präsident | CDU",
+              "start_offset": 10613,
+              "clock": "02:56:53"
+            },
+            {
+              "name_raw": "Nüssle Niklas",
+              "meta_raw": "| GRÜNE",
+              "start_offset": 10639,
+              "clock": "02:57:19"
+            },
+            {
+              "name_raw": "Hartmann-Müller Sabine",
+              "meta_raw": "| CDU",
+              "start_offset": 10982,
+              "clock": "03:03:02"
+            },
+            {
+              "name_raw": "Cuny Sebastian",
+              "meta_raw": "| SPD",
+              "start_offset": 11316,
+              "clock": "03:08:36"
+            },
+            {
+              "name_raw": "Fink-Trauschel Alena",
+              "meta_raw": "| FDP/DVP",
+              "start_offset": 11613,
+              "clock": "03:13:33"
+            },
+            {
+              "name_raw": "Bamberger Alfred",
+              "meta_raw": "| AfD",
+              "start_offset": 12015,
+              "clock": "03:20:15"
+            },
+            {
+              "name_raw": "Haßler Florian",
+              "meta_raw": "| GRÜNE",
+              "start_offset": 12361,
+              "clock": "03:26:01"
+            },
+            {
+              "name_raw": "Reinhart Wolfgang",
+              "meta_raw": "| stellv. Präsident | CDU",
+              "start_offset": 12829,
+              "clock": "03:33:49"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

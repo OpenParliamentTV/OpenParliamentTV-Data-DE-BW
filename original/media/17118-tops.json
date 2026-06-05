@@ -1,0 +1,463 @@
+{
+  "session_id": "17118",
+  "wp": 17,
+  "sitzung": 118,
+  "date": "2025-03-13",
+  "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563198",
+  "parts": [
+    {
+      "part": 1,
+      "mp4_url": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_1.mp4",
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563198",
+      "tops": [
+        {
+          "index": 0,
+          "title": "Beginn der Sitzung Nachwahlen",
+          "description": "zu verschiedenen Gremien Verabschiedung des Abgeordneten Alexander Schoch (GRÜNE)",
+          "speeches": [
+            {
+              "name_raw": "Aras Muhterem",
+              "meta_raw": "| Präsidentin | GRÜNE",
+              "start_offset": 1,
+              "clock": "00:00:01"
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Aktuelle Debatte",
+          "description": "Das Urteil des Verfassungsgerichtshofs – Klatsche für den Innenminister! Anleitung für eine Wahlrechtsreform? Beantragt von der Fraktion der FDP/DVP",
+          "speeches": [
+            {
+              "name_raw": "Aras Muhterem",
+              "meta_raw": "| Präsidentin | GRÜNE",
+              "start_offset": 483,
+              "clock": "00:08:03"
+            },
+            {
+              "name_raw": "Rülke Hans-Ulrich",
+              "meta_raw": "| FDP/DVP",
+              "start_offset": 518,
+              "clock": "00:08:38"
+            },
+            {
+              "name_raw": "Evers Daniela",
+              "meta_raw": "| GRÜNE",
+              "start_offset": 936,
+              "clock": "00:15:36"
+            },
+            {
+              "name_raw": "Miller Matthias",
+              "meta_raw": "| CDU",
+              "start_offset": 1502,
+              "clock": "00:25:02"
+            },
+            {
+              "name_raw": "Binder Sascha",
+              "meta_raw": "| SPD",
+              "start_offset": 2093,
+              "clock": "00:34:53"
+            },
+            {
+              "name_raw": "Balzer Rainer",
+              "meta_raw": "| AfD",
+              "start_offset": 2372,
+              "clock": "00:39:32"
+            },
+            {
+              "name_raw": "Strobl Thomas",
+              "meta_raw": "| CDU",
+              "start_offset": 2949,
+              "clock": "00:49:09"
+            },
+            {
+              "name_raw": "Rülke Hans-Ulrich",
+              "meta_raw": "| FDP/DVP",
+              "start_offset": 3686,
+              "clock": "01:01:26"
+            },
+            {
+              "name_raw": "Miller Matthias",
+              "meta_raw": "| CDU",
+              "start_offset": 3943,
+              "clock": "01:05:43"
+            },
+            {
+              "name_raw": "Aras Muhterem",
+              "meta_raw": "| Präsidentin | GRÜNE",
+              "start_offset": 4003,
+              "clock": "01:06:43"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Aktuelle Debatte",
+          "description": "Schulden-Dammbruch im Bund – Konsequenzen für Baden-Württemberg Beantragt von der Fraktion der AfD",
+          "speeches": [
+            {
+              "name_raw": "Aras Muhterem",
+              "meta_raw": "| Präsidentin | GRÜNE",
+              "start_offset": 4015,
+              "clock": "01:06:55"
+            },
+            {
+              "name_raw": "Sänze Emil",
+              "meta_raw": "| AfD",
+              "start_offset": 4036,
+              "clock": "01:07:16"
+            },
+            {
+              "name_raw": "Rösler Markus",
+              "meta_raw": "| GRÜNE",
+              "start_offset": 4722,
+              "clock": "01:18:42"
+            },
+            {
+              "name_raw": "Schütte Albrecht",
+              "meta_raw": "| CDU",
+              "start_offset": 5430,
+              "clock": "01:30:30"
+            },
+            {
+              "name_raw": "Fink Nicolas",
+              "meta_raw": "| SPD",
+              "start_offset": 5998,
+              "clock": "01:39:58"
+            },
+            {
+              "name_raw": "Bonath Frank",
+              "meta_raw": "| FDP/DVP",
+              "start_offset": 6543,
+              "clock": "01:49:03"
+            },
+            {
+              "name_raw": "Bayaz Danyal",
+              "meta_raw": "| GRÜNE",
+              "start_offset": 7106,
+              "clock": "01:58:26"
+            },
+            {
+              "name_raw": "Bonath Frank",
+              "meta_raw": "| FDP/DVP",
+              "start_offset": 8586,
+              "clock": "02:23:06"
+            },
+            {
+              "name_raw": "Reinhart Wolfgang",
+              "meta_raw": "| stellv. Präsident | CDU",
+              "start_offset": 8673,
+              "clock": "02:24:33"
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "title": "TOP 3 Zweite Beratung",
+          "description": "des Gesetzentwurfs der Landesregierung Gesetz für das schnellere Bauen Drucksache 17/8022 (Dokument) Beschlussempfehlung und Bericht des Ausschusses für Landesentwicklung und Wohnen Drucksache 17/8392 (Dokument)",
+          "speeches": [
+            {
+              "name_raw": "Reinhart Wolfgang",
+              "meta_raw": "| stellv. Präsident | CDU",
+              "start_offset": 8697,
+              "clock": "02:24:57"
+            },
+            {
+              "name_raw": "Holmberg Cindy",
+              "meta_raw": "| GRÜNE",
+              "start_offset": 8727,
+              "clock": "02:25:27"
+            },
+            {
+              "name_raw": "Neumann-Martin Christine",
+              "meta_raw": "| CDU",
+              "start_offset": 9067,
+              "clock": "02:31:07"
+            },
+            {
+              "name_raw": "Ranger Klaus",
+              "meta_raw": "| SPD",
+              "start_offset": 9251,
+              "clock": "02:34:11"
+            },
+            {
+              "name_raw": "Haag Friedrich",
+              "meta_raw": "| FDP/DVP",
+              "start_offset": 9636,
+              "clock": "02:40:36"
+            },
+            {
+              "name_raw": "Klauß Miguel",
+              "meta_raw": "| AfD",
+              "start_offset": 9914,
+              "clock": "02:45:14"
+            },
+            {
+              "name_raw": "Razavi Nicole",
+              "meta_raw": "| CDU",
+              "start_offset": 10234,
+              "clock": "02:50:34"
+            },
+            {
+              "name_raw": "Reinhart Wolfgang",
+              "meta_raw": "| stellv. Präsident | CDU",
+              "start_offset": 10841,
+              "clock": "03:00:41"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "mp4_url": "https://ltbw-stream.babiel.com/wahlperiode17/2025/sitzung118_20250313/Aufzeichnung_118_2.mp4",
+      "video_page_url": "https://www.landtag-bw.de/de/mediathek/videos/118-sitzung-vom-13-maerz-2025-563200",
+      "tops": [
+        {
+          "index": 0,
+          "title": "TOP 4 Fragestunde",
+          "description": "Drucksache 17/8240 (Dokument) 1. Anfrage des Abg. Daniel Born SPD Erhalt der Notfallpraxis in Schwetzingen 2. Anfrage des Abg. Dr. Erik Schweickert FDP/DVP Kosten und Folgen von IT-Systemfehlern im Rahmen der Corona-Überbrückungshilfen 3. Anfrage des Abg. Nikolai Reith FDP/DVP Lärmschutzwand an der B 27 bei Hüfingen auf Höhe des Wohngebiets „Auf Hohen“ 4. Anfrage des Abg. Nikolai Reith FDP/DVP Projekt „Streetworker“ 5. Anfrage des Abg. Hans-Peter Storz SPD Klimaneutrale Schifffahrt auf dem Bodensee 6. Anfrage des Abg. Dr. Stefan Fulst-Blei SPD IT-Fortbildungen für Lehrkräfte am Zentrum für Schulqualität und Lehrerbildung (ZSL) 7. Anfrage des Abg. Stephen Brauer FDP/DVP Bau eines Kreisverkehrs in der Stadt Gaildorf (Landkreis Schwäbisch Hall)",
+          "speeches": [
+            {
+              "name_raw": "Reinhart Wolfgang",
+              "meta_raw": "| stellv. Präsident | CDU",
+              "start_offset": 1,
+              "clock": "00:00:01"
+            },
+            {
+              "name_raw": "Born Daniel",
+              "meta_raw": "| SPD",
+              "start_offset": 36,
+              "clock": "00:00:36"
+            },
+            {
+              "name_raw": "Lucha Manfred",
+              "meta_raw": "| GRÜNE",
+              "start_offset": 105,
+              "clock": "00:01:45"
+            },
+            {
+              "name_raw": "Reinhart Wolfgang",
+              "meta_raw": "| stellv. Präsident | CDU",
+              "start_offset": 893,
+              "clock": "00:14:53"
+            },
+            {
+              "name_raw": "Reith Nikolai",
+              "meta_raw": "| FDP/DVP",
+              "start_offset": 918,
+              "clock": "00:15:18"
+            },
+            {
+              "name_raw": "Zimmer Elke",
+              "meta_raw": "| GRÜNE",
+              "start_offset": 1019,
+              "clock": "00:16:59"
+            },
+            {
+              "name_raw": "Born Daniel",
+              "meta_raw": "| stellv. Präsident | SPD",
+              "start_offset": 1361,
+              "clock": "00:22:41"
+            },
+            {
+              "name_raw": "Reith Nikolai",
+              "meta_raw": "| FDP/DVP",
+              "start_offset": 1373,
+              "clock": "00:22:53"
+            },
+            {
+              "name_raw": "Lucha Manfred",
+              "meta_raw": "| GRÜNE",
+              "start_offset": 1410,
+              "clock": "00:23:30"
+            },
+            {
+              "name_raw": "Born Daniel",
+              "meta_raw": "| stellv. Präsident | SPD",
+              "start_offset": 1717,
+              "clock": "00:28:37"
+            },
+            {
+              "name_raw": "Storz Hans-Peter",
+              "meta_raw": "| SPD",
+              "start_offset": 1725,
+              "clock": "00:28:45"
+            },
+            {
+              "name_raw": "Zimmer Elke",
+              "meta_raw": "| GRÜNE",
+              "start_offset": 1776,
+              "clock": "00:29:36"
+            },
+            {
+              "name_raw": "Born Daniel",
+              "meta_raw": "| stellv. Präsident | SPD",
+              "start_offset": 2216,
+              "clock": "00:36:56"
+            },
+            {
+              "name_raw": "Fulst-Blei Stefan",
+              "meta_raw": "| SPD",
+              "start_offset": 2227,
+              "clock": "00:37:07"
+            },
+            {
+              "name_raw": "Boser Sandra",
+              "meta_raw": "| GRÜNE",
+              "start_offset": 2284,
+              "clock": "00:38:04"
+            },
+            {
+              "name_raw": "Born Daniel",
+              "meta_raw": "| stellv. Präsident | SPD",
+              "start_offset": 2806,
+              "clock": "00:46:46"
+            },
+            {
+              "name_raw": "Brauer Stephen",
+              "meta_raw": "| FDP/DVP",
+              "start_offset": 2817,
+              "clock": "00:46:57"
+            },
+            {
+              "name_raw": "Born Daniel",
+              "meta_raw": "| stellv. Präsident | SPD",
+              "start_offset": 2852,
+              "clock": "00:47:32"
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "title": "TOP 5 Erste Beratung",
+          "description": "des Gesetzentwurfs der Landesregierung Gesetz über Zuständigkeiten nach der Straßenverkehrs-Ordnung (StVO-Zuständigkeitsgesetz – StVOZuG) Drucksache 17/8341 (Dokument)",
+          "speeches": [
+            {
+              "name_raw": "Born Daniel",
+              "meta_raw": "| stellv. Präsident | SPD",
+              "start_offset": 2862,
+              "clock": "00:47:42"
+            },
+            {
+              "name_raw": "Zimmer Elke",
+              "meta_raw": "| GRÜNE",
+              "start_offset": 2884,
+              "clock": "00:48:04"
+            },
+            {
+              "name_raw": "Achterberg Gudula",
+              "meta_raw": "| GRÜNE",
+              "start_offset": 3452,
+              "clock": "00:57:32"
+            },
+            {
+              "name_raw": "Bückner Tim",
+              "meta_raw": "| CDU",
+              "start_offset": 3721,
+              "clock": "01:02:01"
+            },
+            {
+              "name_raw": "Kirschbaum Simone",
+              "meta_raw": "| SPD",
+              "start_offset": 3876,
+              "clock": "01:04:36"
+            },
+            {
+              "name_raw": "Scheerer Hans Dieter",
+              "meta_raw": "| FDP/DVP",
+              "start_offset": 4084,
+              "clock": "01:08:04"
+            },
+            {
+              "name_raw": "Klos Rüdiger",
+              "meta_raw": "| AfD",
+              "start_offset": 4368,
+              "clock": "01:12:48"
+            },
+            {
+              "name_raw": "Born Daniel",
+              "meta_raw": "| stellv. Präsident | SPD",
+              "start_offset": 4658,
+              "clock": "01:17:38"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "title": "TOP 6 Antrag der Fraktion der FDP/DVP",
+          "description": "und Stellungnahme des Staatsministeriums Bürokratieabbau vorantreiben III – Jetzt in die Umsetzung einsteigen! Drucksache 17/6199 (Dokument)",
+          "speeches": [
+            {
+              "name_raw": "Born Daniel",
+              "meta_raw": "| stellv. Präsident | SPD",
+              "start_offset": 4683,
+              "clock": "01:18:03"
+            },
+            {
+              "name_raw": "Schweickert Erik",
+              "meta_raw": "| FDP/DVP",
+              "start_offset": 4707,
+              "clock": "01:18:27"
+            },
+            {
+              "name_raw": "Resch Clara",
+              "meta_raw": "| GRÜNE",
+              "start_offset": 5111,
+              "clock": "01:25:11"
+            },
+            {
+              "name_raw": "Schindele Katrin",
+              "meta_raw": "| CDU",
+              "start_offset": 5429,
+              "clock": "01:30:29"
+            },
+            {
+              "name_raw": "Weirauch Boris",
+              "meta_raw": "| SPD",
+              "start_offset": 5770,
+              "clock": "01:36:10"
+            },
+            {
+              "name_raw": "Lindenschmid Daniel",
+              "meta_raw": "| AfD",
+              "start_offset": 6107,
+              "clock": "01:41:47"
+            },
+            {
+              "name_raw": "Hassler Florian",
+              "meta_raw": "| GRÜNE",
+              "start_offset": 6415,
+              "clock": "01:46:55"
+            },
+            {
+              "name_raw": "Schweickert Erik",
+              "meta_raw": "| FDP/DVP",
+              "start_offset": 6755,
+              "clock": "01:52:35"
+            },
+            {
+              "name_raw": "Born Daniel",
+              "meta_raw": "| stellv. Präsident | SPD",
+              "start_offset": 7040,
+              "clock": "01:57:20"
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "title": "TOP 7 bis TOP 22 Beschlussempfehlungen",
+          "description": "und Berichte",
+          "speeches": [
+            {
+              "name_raw": "Born Daniel",
+              "meta_raw": "| stellv. Präsident | SPD",
+              "start_offset": 7176,
+              "clock": "01:59:36"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
